@@ -1,0 +1,11362 @@
+1 {
+  1: 120
+  2 {
+    1: 1
+  }
+  3: "Val\'s undercover mission takes a dangerous turn, and Dom struggles to pass his final test in the spirit world."
+  5 {
+    1 {
+      2: 1
+    }
+  }
+  6: 2
+  9: 1
+  10: "A new chapter of The Crown & The Flame comes out every week!"
+  10: "Play as Kenna to earn Prestige. Play as Dom to earn Power."
+  10: "Keep building your Army Score for the final battle!"
+  10: "Zenobia\342\200\231s handmaidens have a tendency to meet tragic ends..."
+  10: "Weapons you unlock now will be available in the final battle!"
+  10: "Val was crowned queen of her village\342\200\231s midsummer fair. She sold the crown."
+  10: "Allies you unlock will be remembered for the entire series!"
+}
+2 {
+  1: "STAT_PRESTIGE"
+  2: "STAT_MAX_PRESTIGE"
+  4: 2
+  5: 3
+  6: 1
+  7 {
+    1: "ICON_PRESTIGE"
+    2 {
+      1: 180
+      2: 180
+      3: 250
+    }
+    3 {
+      1: 255
+      2: 255
+      3: 255
+    }
+  }
+  9 {
+    1: "crown"
+    2: "Not enough prestige"
+    3 {
+      1: 255
+      2: 255
+      3: 255
+    }
+    4 {
+      1: 255
+      2: 255
+      3: 255
+    }
+    5 {
+      1: 180
+      2: 180
+      3: 250
+    }
+  }
+}
+2 {
+  1: "STAT_MAGIC"
+  2: "STAT_MAX_MAGIC"
+  4: 2
+  5: 2
+  6: 4
+  7 {
+    1: "ICON_MAGIC"
+    2 {
+      1: 255
+      2: 64
+      3: 64
+    }
+    3 {
+      1: 255
+      2: 255
+      3: 255
+    }
+  }
+  9 {
+    1: "flame"
+    2: "Not enough magic"
+    3 {
+      1: 255
+      2: 255
+      3: 255
+    }
+    4 {
+      1: 255
+      2: 255
+      3: 255
+    }
+    5 {
+      1: 255
+      2: 64
+      3: 64
+    }
+  }
+}
+3 {
+  1: "MUSIC_FANTASY_EPIC"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/music/music_fantasy_epic-v01.mp3"
+  }
+}
+3 {
+  1: "PORTRAIT_NEGA_DOM_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_main_dom_evil-v01.plist"
+  }
+}
+3 {
+  1: "DEP_PARTICLE_SUNLIGHT"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/ccbi_images/3x/sunlight_particle.png"
+  }
+}
+3 {
+  1: "BG_EXT_CITY_BAY_DAY_STANDOFF"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/ccbi/bg_fantasy_ext_city_bay_day_standoff-v01.ccbi"
+  }
+}
+3 {
+  1: "PORTRAIT_VAL"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_female_hispanic_mercenary_smirking-v01.png"
+  }
+}
+3 {
+  1: "BG_EXT_VOLCANO_RIM_DAY"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/ccbi/bg_fantasy_ext_volcano_rim_day-v01.ccbi"
+  }
+}
+3 {
+  1: "PORTRAIT_ADDER_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_female_southasian_girl_impish-v01.plist"
+  }
+}
+3 {
+  1: "PORTRAIT_CUSTOM_KENNA_HAIR_B_BROWN"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_hair_b_brown-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_CUSTOM_KENNA_OUTFIT_DEFAULT"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_outfit_default-v01.png"
+  }
+}
+3 {
+  1: "DEP_BG_EXT_UNDERWORLD_ETHEREAL_NEUTRAL"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/backgrounds/large/bg_fantasy_ext_underworld_ethereal_neutral-v01.jpg"
+  }
+}
+3 {
+  1: "PORTRAIT_CUSTOM_DOM_FACE_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_dom_face-v01.plist"
+  }
+}
+3 {
+  1: "PORTRAIT_ROWAN_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_female_black_archer_noble-v01.plist"
+  }
+}
+3 {
+  1: "PORTRAIT_LEON"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_main_leon-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_PHOENIX"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_other_other_phoenix_pet-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_ROWAN"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_female_black_archer_noble-v01.png"
+  }
+}
+3 {
+  1: "BG_INT_LAB_SINISTER_NEUTRAL"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/ccbi/bg_fantasy_int_lab_sinister_neutral-v01.ccbi"
+  }
+}
+3 {
+  1: "DEP_BG_INT_THRONE_ROOM"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/backgrounds/large/bg_fantasy_int_throne_room_day-v01.jpg"
+  }
+}
+3 {
+  1: "DEP_BG_INT_LAB_SINISTER_NEUTRAL"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/backgrounds/large/bg_fantasy_int_lab_sinister_neutral-v01.jpg"
+  }
+}
+3 {
+  1: "PORTRAIT_RAYDAN_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_male_southasian_noble_mysterious-v01.plist"
+  }
+}
+3 {
+  1: "PORTRAIT_NEGA_DOM"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_main_dom_evil-v01.png"
+  }
+}
+3 {
+  1: "DEP_BG_EXT_CITY_BAY_DAY_STANDOFF"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/backgrounds/large/bg_fantasy_ext_city_bay_day_standoff-v01.jpg"
+  }
+}
+3 {
+  1: "PORTRAIT_KAILANI"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_female_southasian_fighter_short-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_ANNELYSE"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_female_eastasian_queen_sexy-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_RAYDAN"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_male_southasian_noble_mysterious-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_SOLDIER1_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_other_other_knight_helmet_alt1-v01.plist"
+  }
+}
+3 {
+  1: "PORTRAIT_CUSTOM_DOM_HAIR_F_BLONDE"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_dom_hair_f_blonde-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_CUSTOM_DOM_OUTFIT_DEFAULT"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_dom_outfit_default-v01.png"
+  }
+}
+3 {
+  1: "MUSIC_FANTASY_TENSE"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/music/music_fantasy_tense-v01.mp3"
+  }
+}
+3 {
+  1: "PORTRAIT_SEVERIN_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_male_southasian_mercenary_leader-v01.plist"
+  }
+}
+3 {
+  1: "BG_INT_THRONE_ROOM"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/ccbi/bg_fantasy_int_throne_room_day-v01.ccbi"
+  }
+}
+3 {
+  1: "PORTRAIT_ANU"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_male_eastasian_barbarian_old-v01.png"
+  }
+}
+3 {
+  1: "DEP_BG_INT_BALLROOM_PIT_NEUTRAL"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/backgrounds/large/bg_fantasy_int_ballroom_pit_neutral-v01.jpg"
+  }
+}
+3 {
+  1: "PORTRAIT_BABY_KRAKEN"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_other_other_kraken_pet-v01.png"
+  }
+}
+3 {
+  1: "DEP_BG_EXT_WORLD_MAP"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/backgrounds/large/bg_fantasy_ext_world_map_neutral-v01.jpg"
+  }
+}
+3 {
+  1: "PORTRAIT_SOLDIER2_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_other_other_knight_helmet_alt2-v01.plist"
+  }
+}
+3 {
+  1: "MUSIC_FANTASY_AMBIENCE"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/music/music_fantasy_ambience-v01.mp3"
+  }
+}
+3 {
+  1: "PORTRAIT_VAL_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_female_hispanic_mercenary_smirking-v01.plist"
+  }
+}
+3 {
+  1: "PORTRAIT_CUSTOM_KENNA_HAIR_F_BROWN"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_hair_f_brown-v01.png"
+  }
+}
+3 {
+  1: "DEP_BG_EXT_VOLCANO_RIM_DAY"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/backgrounds/large/bg_fantasy_ext_volcano_rim_day-v01.jpg"
+  }
+}
+3 {
+  1: "ICON_MAGIC"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/icons/3x/icon_fantasy_flame-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_VALENTINA"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_female_hispanic_mercenary_smirking_dress-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_BABY_KRAKEN_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_other_other_kraken_pet-v01.plist"
+  }
+}
+3 {
+  1: "PORTRAIT_ZENOBIA_NONECKLACE"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_female_white_princess_evil_nonecklace-v01.png"
+  }
+}
+3 {
+  1: "MUSIC_FANTASY_LOVE"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/music/music_fantasy_love-v01.mp3"
+  }
+}
+3 {
+  1: "BG_EXT_WORLD_MAP"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/ccbi/bg_fantasy_ext_world_map_neutral-v01.ccbi"
+  }
+}
+3 {
+  1: "DEP_PARTICLE_LIGHTNING"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/ccbi_images/3x/lightning_particle.png"
+  }
+}
+3 {
+  1: "BG_INT_DOM_BEDROOM"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/ccbi/bg_fantasy_int_bedroom_small_day-v01.ccbi"
+  }
+}
+3 {
+  1: "DEP_PARTICLE_SMOKE"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/ccbi_images/3x/smoke_particle.png"
+  }
+}
+3 {
+  1: "PORTRAIT_CUSTOM_KENNA_FACE_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_face-v01.plist"
+  }
+}
+3 {
+  1: "MUSIC_FANTASY_SAD"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/music/music_fantasy_sad-v01.mp3"
+  }
+}
+3 {
+  1: "PORTRAIT_PHOENIX_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_other_other_phoenix_pet-v01.plist"
+  }
+}
+3 {
+  1: "DEP_PARTICLE_STAR"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/ccbi_images/3x/star_particle.png"
+  }
+}
+3 {
+  1: "BG_EXT_VILLAGE_MOUNTAIN_DAY"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/ccbi/bg_fantasy_ext_village_mountain_day-v01.ccbi"
+  }
+}
+3 {
+  1: "PORTRAIT_VALENTINA_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_female_hispanic_mercenary_smirking_dress-v01.plist"
+  }
+}
+3 {
+  1: "ICON_PRESTIGE"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/icons/3x/icon_fantasy_crown-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_WHITLOCK"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_male_hispanic_boy_cyborg-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_JACKSON_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_male_white_soldier_weathered-v01.plist"
+  }
+}
+3 {
+  1: "ICON_SWORD"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/icons/3x/icon_fantasy_sword-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_NOA"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_male_southasian_fighter_tough-v01.png"
+  }
+}
+3 {
+  1: "DEP_BG_EXT_CITY_BAY_DAY"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/backgrounds/large/bg_fantasy_ext_city_bay_day-v01.jpg"
+  }
+}
+3 {
+  1: "PORTRAIT_JACKSON"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_male_white_soldier_weathered-v01.png"
+  }
+}
+3 {
+  1: "BG_EXT_CITY_BAY_DAY"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/ccbi/bg_fantasy_ext_city_bay_day-v01.ccbi"
+  }
+}
+3 {
+  1: "PORTRAIT_SEVERIN"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_male_southasian_mercenary_leader-v01.png"
+  }
+}
+3 {
+  1: "BG_INT_BALLROOM_PIT_NEUTRAL"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/ccbi/bg_fantasy_int_ballroom_pit_neutral-v01.ccbi"
+  }
+}
+3 {
+  1: "PORTRAIT_SOLDIER4_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_other_other_knight_helmet_alt4-v01.plist"
+  }
+}
+3 {
+  1: "PORTRAIT_CUSTOM_KENNA_FACE"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_face-v01.png"
+  }
+}
+3 {
+  1: "BG_INT_COMMAND_TENT_DAY"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/ccbi/bg_fantasy_int_tent_command_day-v01.ccbi"
+  }
+}
+3 {
+  1: "PORTRAIT_LEON_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_main_leon-v01.plist"
+  }
+}
+3 {
+  1: "PORTRAIT_ADDER"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_female_southasian_girl_impish-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_SEI_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_female_eastasian_barbarian_tough-v01.plist"
+  }
+}
+3 {
+  1: "PORTRAIT_WHITLOCK_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_male_hispanic_boy_cyborg-v01.plist"
+  }
+}
+3 {
+  1: "PORTRAIT_CUSTOM_DOM_FACE"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_dom_face-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_CUSTOM_DOM_BODY"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_dom_body-v01.png"
+  }
+}
+3 {
+  1: "MUSIC_FANTASY_SINISTER"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/music/music_fantasy_sinister-v01.mp3"
+  }
+}
+3 {
+  1: "PORTRAIT_CUSTOM_KENNA_BODY"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_body-v01.png"
+  }
+}
+3 {
+  1: "DEP_BG_INT_DOM_BEDROOM"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/backgrounds/large/bg_fantasy_int_bedroom_small_day-v01.jpg"
+  }
+}
+3 {
+  1: "PORTRAIT_KAILANI_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_female_southasian_fighter_short-v01.plist"
+  }
+}
+3 {
+  1: "DEP_BG_INT_COMMAND_TENT_DAY"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/backgrounds/large/bg_fantasy_int_tent_command_day-v01.jpg"
+  }
+}
+3 {
+  1: "BG_EXT_UNDERWORLD_ETHEREAL_NEUTRAL"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/ccbi/bg_fantasy_ext_underworld_ethereal_neutral-v01.ccbi"
+  }
+}
+3 {
+  1: "PORTRAIT_CUSTOM_DOM_HAIR_B_BLONDE"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_dom_hair_b_blonde-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_SOLDIER3_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_other_other_knight_helmet_alt3-v01.plist"
+  }
+}
+3 {
+  1: "PORTRAIT_ANU_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_male_eastasian_barbarian_old-v01.plist"
+  }
+}
+3 {
+  1: "PORTRAIT_ANNELYSE_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_female_eastasian_queen_sexy-v01.plist"
+  }
+}
+3 {
+  1: "PORTRAIT_SEI"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_female_eastasian_barbarian_tough-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_ZENOBIA_NONECKLACE_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_female_white_princess_evil_nonecklace-v01.plist"
+  }
+}
+3 {
+  1: "DEP_BG_EXT_CITY_SINISTER_NIGHT"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/backgrounds/large/bg_fantasy_ext_city_sinister_night-v01.jpg"
+  }
+}
+3 {
+  1: "BG_EXT_CITY_SINISTER_NIGHT"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/ccbi/bg_fantasy_ext_city_sinister_night-v01.ccbi"
+  }
+}
+3 {
+  1: "DEP_PARTICLE_FIRE"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/ccbi_images/3x/fire_particle.png"
+  }
+}
+3 {
+  1: "DEP_BG_EXT_VILLAGE_MOUNTAIN_DAY"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/backgrounds/large/bg_fantasy_ext_village_mountain_day-v01.jpg"
+  }
+}
+3 {
+  1: "PORTRAIT_CUSTOM_KENNA_PROP_F"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_prop_f_cloak_hood-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_SOLDIER2"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_other_other_knight_helmet_alt2-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_SOLDIER3"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_other_other_knight_helmet_alt3-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_SOLDIER4"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_other_other_knight_helmet_alt4-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_NOA_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_male_southasian_fighter_tough-v01.plist"
+  }
+}
+3 {
+  1: "PORTRAIT_SOLDIER1"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_other_other_knight_helmet_alt1-v01.png"
+  }
+}
+4 {
+  1: "PORTRAIT_CUSTOM_KENNA_OUTFIT_PEASANT"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_outfit_peasant-v01.png"
+  }
+}
+4 {
+  1: "PORTRAIT_CUSTOM_KENNA_PROP_B_CLOAK_HOOD"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_prop_b_cloak_hood-v01.png"
+  }
+}
+4 {
+  1: "PORTRAIT_CUSTOM_KENNA_PROP_F_CLOAK_HOOD"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_prop_f_cloak_hood-v01.png"
+  }
+}
+4 {
+  1: "PORTRAIT_CUSTOM_KENNA_HAIR_F_BRAIDED_BROWN"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_hair_f_brown_braided-v01.png"
+  }
+}
+4 {
+  1: "PORTRAIT_CUSTOM_DOM_OUTFIT_PANTS"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_dom_outfit_pants-v01.png"
+  }
+}
+4 {
+  1: "PORTRAIT_CUSTOM_KENNA_HAIR_B_UPDO_BROWN"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_hair_b_updo_brown-v01.png"
+  }
+}
+4 {
+  1: "PORTRAIT_CUSTOM_KENNA_HAIR_F_UPDO_BROWN"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_hair_f_updo_brown-v01.png"
+  }
+}
+4 {
+  1: "PORTRAIT_CUSTOM_OUTFIT_KENNA_DRESS_COURTESAN"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_outfit_dress_courtesan_blue-v01.png"
+  }
+}
+4 {
+  1: "PORTRAIT_CUSTOM_PROP_F_KENNA_MASK_COURTESAN"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_prop_f_mask_courtesan-v01.png"
+  }
+}
+4 {
+  1: "PORTRAIT_CUSTOM_OUTFIT_KENNA_SERVANT"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_outfit_servant_brown-v01.png"
+  }
+}
+4 {
+  1: "PORTRAIT_CUSTOM_PROP_B_KENNA_HEADGARB_SERVANT"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_prop_b_headgarb_servant-v01.png"
+  }
+}
+4 {
+  1: "PORTRAIT_CUSTOM_PROP_F_KENNA_HEADGARB_SERVANT"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_prop_f_headgarb_servant-v01.png"
+  }
+}
+4 {
+  1: "PORTRAIT_CUSTOM_KENNA_OUTFIT_GOWN_WINTER"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_outfit_gown_winter-v01.png"
+  }
+}
+4 {
+  1: "PORTRAIT_CUSTOM_KENNA_OUTFIT_LINGERIE"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_outfit_lingerie-v01.png"
+  }
+}
+5 {
+  1: "fantasy"
+}
+6 {
+  1: "Anu"
+  2 {
+    1: "Anu"
+    2 {
+      8: 0x616b75685220756e
+    }
+    3 {
+      1: "PORTRAIT_ANU"
+      2: "PORTRAIT_ANU_PLIST"
+    }
+  }
+}
+6 {
+  1: "Severin"
+  2 {
+    1: "Severin"
+    2: "Severin Cale"
+    3 {
+      1: "PORTRAIT_SEVERIN"
+      2: "PORTRAIT_SEVERIN_PLIST"
+    }
+  }
+}
+6 {
+  1: "Jackson"
+  2 {
+    1: "Jackson"
+    2: "Will Jackson"
+    3 {
+      1: "PORTRAIT_JACKSON"
+      2: "PORTRAIT_JACKSON_PLIST"
+    }
+  }
+}
+6 {
+  1: "ValDress"
+  2 {
+    1: "ValDress"
+    2: "Valentina Greaves"
+    3 {
+      1: "PORTRAIT_VALENTINA"
+      2: "PORTRAIT_VALENTINA_PLIST"
+    }
+  }
+}
+6 {
+  1: "Annelyse"
+  2 {
+    1: "Annelyse"
+    2: "Annelyse Adair"
+    3 {
+      1: "PORTRAIT_ANNELYSE"
+      2: "PORTRAIT_ANNELYSE_PLIST"
+    }
+  }
+}
+6 {
+  1: "Raydan"
+  2 {
+    1: "Raydan"
+    2: "Raydan Lykel"
+    3 {
+      1: "PORTRAIT_RAYDAN"
+      2: "PORTRAIT_RAYDAN_PLIST"
+    }
+  }
+}
+6 {
+  1: "Leon"
+  2 {
+    1: "Leon"
+    2: "Leon Stirling"
+    3 {
+      1: "PORTRAIT_LEON"
+      2: "PORTRAIT_LEON_PLIST"
+    }
+  }
+}
+6 {
+  1: "Rowan"
+  2 {
+    1: "Rowan"
+    2: "Rowan Thorn"
+    3 {
+      1: "PORTRAIT_ROWAN"
+      2: "PORTRAIT_ROWAN_PLIST"
+    }
+  }
+}
+6 {
+  1: "Sei"
+  2 {
+    1: "Sei"
+    2: "Sei Rhuka"
+    3 {
+      1: "PORTRAIT_SEI"
+      2: "PORTRAIT_SEI_PLIST"
+    }
+  }
+}
+6 {
+  1: "Adder"
+  2 {
+    1: "Adder"
+    2: "Adder"
+    3 {
+      1: "PORTRAIT_ADDER"
+      2: "PORTRAIT_ADDER_PLIST"
+    }
+  }
+}
+6 {
+  1: "Whitlock"
+  2 {
+    1: "Whitlock"
+    3 {
+      1: "PORTRAIT_WHITLOCK"
+      2: "PORTRAIT_WHITLOCK_PLIST"
+    }
+  }
+}
+6 {
+  1: "Kenna"
+  2 {
+    1: "Kenna"
+    2: "Kenna Rys"
+    4 {
+      1 {
+        1: "PROP_B"
+        2 {
+          1: "PORTRAIT_CUSTOM_KENNA_OUTFIT_DEFAULT"
+        }
+      }
+      1 {
+        1: "HAIR_B"
+        2 {
+          1: "PORTRAIT_CUSTOM_KENNA_HAIR_B_BROWN"
+        }
+      }
+      1 {
+        1: "BODY"
+        2 {
+          1: "PORTRAIT_CUSTOM_KENNA_BODY"
+        }
+      }
+      1 {
+        1: "OUTFIT"
+        2 {
+          1: "PORTRAIT_CUSTOM_KENNA_OUTFIT_DEFAULT"
+        }
+      }
+      1 {
+        1: "FACE"
+        2 {
+          1: "PORTRAIT_CUSTOM_KENNA_FACE"
+          2: "PORTRAIT_CUSTOM_KENNA_FACE_PLIST"
+        }
+      }
+      1 {
+        1: "HAIR_F"
+        2 {
+          1: "PORTRAIT_CUSTOM_KENNA_HAIR_F_BROWN"
+        }
+      }
+      1 {
+        1: "PROP_F"
+        2 {
+          1: "PORTRAIT_CUSTOM_KENNA_PROP_F"
+        }
+      }
+    }
+  }
+}
+6 {
+  1: "Val"
+  2 {
+    1: "Val"
+    2: "Val Greaves"
+    3 {
+      1: "PORTRAIT_VAL"
+      2: "PORTRAIT_VAL_PLIST"
+    }
+  }
+}
+6 {
+  1: "Dom"
+  2 {
+    1: "Dom"
+    2: "Dominic Hunter"
+    4 {
+      1 {
+        1: "HAIR_B"
+        2 {
+          1: "PORTRAIT_CUSTOM_DOM_HAIR_B_BLONDE"
+        }
+      }
+      1 {
+        1: "BODY"
+        2 {
+          1: "PORTRAIT_CUSTOM_DOM_BODY"
+        }
+      }
+      1 {
+        1: "FACE"
+        2 {
+          1: "PORTRAIT_CUSTOM_DOM_FACE"
+          2: "PORTRAIT_CUSTOM_DOM_FACE_PLIST"
+        }
+      }
+      1 {
+        1: "OUTFIT"
+        2 {
+          1: "PORTRAIT_CUSTOM_DOM_OUTFIT_DEFAULT"
+        }
+      }
+      1 {
+        1: "HAIR_F"
+        2 {
+          1: "PORTRAIT_CUSTOM_DOM_HAIR_F_BLONDE"
+        }
+      }
+    }
+  }
+}
+6 {
+  1: "Phoenix"
+  2 {
+    1: "Phoenix"
+    2: "Phoenix"
+    3 {
+      1: "PORTRAIT_PHOENIX"
+      2: "PORTRAIT_PHOENIX_PLIST"
+    }
+  }
+}
+6 {
+  1: "BabyKraken"
+  2 {
+    1: "BabyKraken"
+    2: "Baby Kraken"
+    3 {
+      1: "PORTRAIT_BABY_KRAKEN"
+      2: "PORTRAIT_BABY_KRAKEN_PLIST"
+    }
+  }
+}
+6 {
+  1: "NegaDom"
+  2 {
+    1: "NegaDom"
+    2: "Shadow Dominic"
+    3 {
+      1: "PORTRAIT_NEGA_DOM"
+      2: "PORTRAIT_NEGA_DOM_PLIST"
+    }
+  }
+}
+6 {
+  1: "Zenobia_nonecklace"
+  2 {
+    1: "Zenobia_nonecklace"
+    2: "Princess Zenobia"
+    3 {
+      1: "PORTRAIT_ZENOBIA_NONECKLACE"
+      2: "PORTRAIT_ZENOBIA_NONECKLACE_PLIST"
+    }
+  }
+}
+6 {
+  1: "Kailani"
+  2 {
+    1: "Kailani"
+    2: "Kailani Keawe"
+    3 {
+      1: "PORTRAIT_KAILANI"
+      2: "PORTRAIT_KAILANI_PLIST"
+    }
+  }
+}
+6 {
+  1: "Soldier1"
+  2 {
+    1: "Soldier1"
+    2: "Nevrakis Soldier"
+    3 {
+      1: "PORTRAIT_SOLDIER1"
+      2: "PORTRAIT_SOLDIER1_PLIST"
+    }
+  }
+}
+6 {
+  1: "Soldier2"
+  2 {
+    1: "Soldier2"
+    2: "Nevrakis Soldier"
+    3 {
+      1: "PORTRAIT_SOLDIER2"
+      2: "PORTRAIT_SOLDIER2_PLIST"
+    }
+  }
+}
+6 {
+  1: "Soldier3"
+  2 {
+    1: "Soldier3"
+    2: "Nevrakis Soldier"
+    3 {
+      1: "PORTRAIT_SOLDIER3"
+      2: "PORTRAIT_SOLDIER3_PLIST"
+    }
+  }
+}
+6 {
+  1: "Soldier4"
+  2 {
+    1: "Soldier4"
+    2: "Nevrakis Soldier"
+    3 {
+      1: "PORTRAIT_SOLDIER4"
+      2: "PORTRAIT_SOLDIER4_PLIST"
+    }
+  }
+}
+6 {
+  1: "Noa"
+  2 {
+    1: "Noa"
+    2: "Noa Keawe"
+    3 {
+      1: "PORTRAIT_NOA"
+      2: "PORTRAIT_NOA_PLIST"
+    }
+  }
+}
+7 {
+  1: 1
+  2: "OfferRestartChapter"
+  2: "EndChapter"
+  2: "SetPrimaryChar"
+  2: "BgDissolveImage"
+  2: "Evt"
+  2: "PlayMusic"
+  2: "Dlg"
+  2: "GetBookVar"
+  2: "FadeMusic"
+  2: "MajorToast"
+  2: "MinorToast"
+  2: "CreateMenu"
+  2: "SetMenuCharacter"
+  2: "AddMenuChoice"
+  2: "ShowMenu"
+  2: "ClearPortraitLayer"
+  2: "StatToast"
+  2: "SaveCheckpoint"
+  2: "BgImage"
+  2: "BgColor"
+  2: "LoadCheckpoint"
+  2: "AddMenuChoicePremium"
+  2: "SetBookVarInt"
+  2: "AddToBookVar"
+  2: "HasMadePremiumChoice"
+  2: "BgDissolveColor"
+  2: "SetBookVarString"
+  3: "CHAPTER COMPLETE"
+  3: "You\'ve reached the end of the chapter. Restart this chapter to try other choices or continue on to the next chapter."
+  3: "Restart Chapter"
+  3: "Continue On"
+  3: "ValDress"
+  3: "BG_EXT_WORLD_MAP"
+  3: "Chapter Twelve: The Storming of Lykos"
+  3: "BG_INT_LAB_SINISTER_NEUTRAL"
+  3: "MUSIC_FANTASY_TENSE"
+  3: "<lavender>Now playing as Val Greaves.</lavender>\n\nPrincess Zenobia has just caught you in Hex\'s lab! She stands between you and the door, glaring icily."
+  3: "Zenobia_nonecklace"
+  3: "Imagine my surprise when, after dealing with incompetent guards, I find my handmaiden snooping around in my scientist\'s laboratory!"
+  3: "ANGRY"
+  3: "recruited_kraken"
+  3: "You set Hex\'s papers and the kraken\'s jar down on a table, raising your hands in a calming gesture."
+  3: "You set Hex\'s papers down on a table, raising your hands in a calming gesture."
+  3: "Look, there is definitely a good explanation for all this."
+  3: "SAD"
+  3: "cunning_score"
+  3: "Well, that could\'ve gone worse."
+  3: "You hoist the unconscious princess over your shoulder."
+  3: "While carefully balancing Zenobia\'s limp form, you gather up Hex\'s plans, tuck them under your arm, and then scoop up the kraken\'s jar in your free hand."
+  3: "BabyKraken"
+  3: "Blurb?"
+  3: "Shut up, you. I\'m... improvising."
+  3: "You head for the door."
+  3: "Gathering up Hex\'s plans, you head for the door."
+  3: "Consider this my letter of resignation."
+  3: "Taking a deep breath, you find yourself speaking in an even, deferential voice."
+  3: "I\'m terribly sorry, mistress. You\'d been gone barely a moment when Lady Hex came storming into your rooms, demanding my assistance!"
+  3: "Hex wanted <i>your</i> help? With what?"
+  3: "Cleaning, mistress. She hasn\'t let any of the maids in here for weeks. I think the clutter was finally too much for her."
+  3: "She bade me dispose of all the loose papers and clean the tables."
+  3: "<jiggle>Brblblblblbl!</jiggle>"
+  3: "And what are you doing with <i>that?!</i>"
+  3: "I\'m to clean the creature\'s tank as well, mistress."
+  3: "...I don\'t believe it."
+  3: "(Gulp...)"
+  3: "You\'re <i>my</i> handmaiden aren\'t you? Hex can\'t just steal you away to do petty tasks when you\'re supposed to be serving <i>me!</i>"
+  3: "Cunning Check Passed!"
+  3: "Zenobia believes your story!"
+  3: "ICON_SWORD"
+  3: "+5 Army"
+  3: "You... you\'re absolutely right, Your Majesty."
+  3: "<i>Obviously.</i> Come along, I\'m going to give Hex a piece of my mind."
+  3: "We can\'t do--"
+  3: "SURPRISED"
+  3: "Uh, I mean, there\'s no need, mistress!"
+  3: "There\'s absolutely a need. I can\'t have Hex snatching up servants whenever she pleases! Next, she\'ll be taking the kitchen staff as test subjects!"
+  3: "Zenobia turns her back on you, heading for the door!"
+  3: "I\'ve been too lenient with that woman. I\'m going to remind her who rules in this--"
+  3: "You move in close behind Zenobia and lock your arm around her neck, cutting off the blood flow to her brain!"
+  3: "<shake_portrait/>--!"
+  3: "Zenobia struggles, but your grip remains firm. A few seconds later, she slumps in your arms."
+  3: "You try to think of some excuse, but can\'t think straight through the panic!"
+  3: "Cunning Check Failed!"
+  3: "Zenobia\'s seen through your deception!"
+  3: "I... uh..."
+  3: "I knew it... you\'re no Fydorian handmaiden..."
+  3: "You\'re a <i>spy!</i>"
+  3: "Zenobia lunges at you, swinging at your face!"
+  3: "Aaahhh!"
+  3: "Take the hit!"
+  3: "Stare dumbly!"
+  3: "Dodge and throw her!"
+  3: "You brace yourself, and Zenobia\'s punch hits you squarely in the cheek!"
+  3: "<shake_portrait/><jiggle>Ow!</jiggle>"
+  3: "You dodge to one side and grab Zenobia\'s arm. With a sharp twist, you send her flying into one of the bookshelves!"
+  3: "<shake_portrait/><jiggle>Aaaauuuugh!</jiggle>"
+  3: "Too slow, princess."
+  3: "HAPPY"
+  3: "Zenobia struggles to her feet, tossing aside fallen books and trinkets."
+  3: "You... how <i>dare</i> you raise a hand against me, <i>commoner!</i>"
+  3: "Zenobia\'s fist hits you squarely in the nose! You hear a sharp <i>crack</i> and taste blood."
+  3: "<shake_portrait/><jiggle>Ow!</jiggle>"
+  3: "You insignificant gutter wench! I\'m going to have your head mounted on my wall."
+  3: "...You know that you\'re totally deranged, right?"
+  3: "<shake_portrait/><i>Raaaaaahhhhh!</i>"
+  3: "Screaming with rage, Zenobia throws herself at you, knocking you to the ground!"
+  3: "Get off me!"
+  3: "Freeze up!"
+  3: "Throw her off!"
+  3: "<i>Get off!</i>"
+  3: "Twisting your body, you manage to fling Zenobia off of you! She tumbles across the floor, crashing into a sturdy work table!"
+  3: "<shake_portrait/><jiggle>Aaaaauuugh!</jiggle>"
+  3: "Zenobia pulls herself to her feet and advances on you, her hair and clothes askew."
+  3: "You\'ll pay for this. I\'ll make you feel every blow three times over."
+  3: "You look around for anything you can use as a weapon... <pause/>and your hand closes on a heavy glass beaker."
+  3: "You think so?"
+  3: "I <i>know</i> s--"
+  3: "You fling the beaker at Zenobia, and it smashes against her forehead!"
+  3: "<shake_portrait/><jiggle>Guh...</jiggle>"
+  3: "Zenobia collapses to the floor. You pull yourself to your feet, breathing heavily."
+  3: "You lie frozen in place as Zenobia\'s hands wrap around your throat!"
+  3: "You\'ll pay for spying on me..."
+  3: "<i>Gkk...</i>"
+  3: "Desperately, you flail around for anything you can use as a weapon. Zenobia\'s grip grows tighter, completely cutting off your air!"
+  3: "I\'ll have you hanged in the market square, and I\'ll leave you swinging there until the crows gnaw you down to the bone!"
+  3: "Your arm knocks against a table, sending glass beakers and bottles crashing to the floor!"
+  3: "A particularly heavy beaker, unbroken by the fall, skitters across the tiles toward you..."
+  3: "<i>Ghhhhhh...</i>"
+  3: "You strain to reach the beaker, your vision growing blurry and dark..."
+  3: "Not so insolent now, eh, <i>Valentina?</i> You should\'ve known better than to challenge a--"
+  3: "You smash the beaker against Zenobia\'s temple!"
+  3: "<shake_portrait/><jiggle>Guh...</jiggle>"
+  3: "Zenobia collapses to the floor. You pull yourself to your feet, breathing heavily."
+  3: "Can\'t believe... this princess almost got me... I must be losing my edge."
+  3: "Kenna"
+  3: "PROP_F"
+  3: "BG_EXT_CITY_SINISTER_NIGHT"
+  3: "MUSIC_FANTASY_AMBIENCE"
+  3: "<orchid>Now playing as Kenna.</orchid>\n\nHaving seen Val\'s signal in the window of Lykos Castle, you hide in the shadows near a small gate in the castle\'s wall."
+  3: "Sundown was nearly two hours ago."
+  3: "Rowan"
+  3: "I don\'t know why I even bothered to come along."
+  3: "Whitlock"
+  3: "You\'re not worried about Val? What if she signaled because she\'s in trouble?"
+  3: "We need to..."
+  3: "NEUTRAL"
+  3: "Get in there, right now."
+  3: "Trust that Val can handle herself."
+  3: "Raydan"
+  3: "We can\'t, remember? The main palace is too secure and too well-guarded."
+  3: "Besides, if Val was in trouble, she would\'ve signaled using the <i>red ribbon.</i>"
+  3: "I just hate to think that something bad could have happened to her."
+  3: "STAT_PRESTIGE"
+  3: "Prestige +1"
+  3: "Val is one of the most capable people I know. She\'ll be here, I know it."
+  3: "Agreed."
+  3: "I\'m sure there\'s no cause for alarm. Most likely, she\'s simply come across information that she felt we needed to know immediately."
+  3: "Maybe she\'s heard something about Hex\'s mysterious super weapons! Even a few pages of notes would be very--"
+  3: "The gate suddenly bangs open! Val staggers out..."
+  3: "Val! You\'re okay!"
+  3: "By the Great Tree... is that <i>Zenobia?!</i>"
+  3: "Either that or a sack of really fancy potatoes. Someone gonna help me out, or what?"
+  3: "You help Val lower the unconscious princess to the ground. Val then shoves a thick roll of papers into Whitlock\'s hands."
+  3: "Here ya go, little man. Cleaned her out of all the papers I could find. Big one in the middle looks pretty weapon-y."
+  3: "Buh..."
+  3: "Val holds up a jar containing a small sea creature..."
+  3: "Doin\' okay in there, Bubbles?"
+  3: "<jiggle>Brblrblrblrbl!</jiggle>"
+  3: "Bubbles"
+  3: "And what is <i>that?!</i>"
+  3: "This is Bubbles, and he\'s coming with us. Anyone have a problem with that?"
+  3: "No problem. Not a word from me."
+  3: "Val looks around at your stunned faces."
+  3: "What?"
+  3: "Val..."
+  3: "I can\'t believe you pulled it off!"
+  3: "I knew you could do it."
+  3: "I could kiss you!"
+  3: "Wow, thanks for the vote of confidence."
+  3: "Well, obviously. I\'m amazing."
+  3: "Plenty of time for <i>that</i> later, Your Majesty."
+  3: "So, thanks for coming, everyone. Since we\'ve got the princess and since all the guards are scrambling in Helene\'s absence..."
+  3: "...I figure now\'s a good time for that taking over Lykos thing we\'ve been talking about."
+  3: "You\'re right, we can\'t miss this opportunity!"
+  3: "Whitlock, run back to camp and tell Leon to get the army ready. We\'ll meet him at the front gates!"
+  3: "Affirmative!"
+  3: "Whitlock takes off running down the cobbled street. Val follows close behind him, nearly tripping over her long skirts."
+  3: "Hold on! I\'m <i>not</i> fighting in this stupid dress! Where\'s my armor?"
+  3: "I happen to think that dress suits her. Pity we didn\'t hide Valentina\'s armor when we had the chance."
+  3: "I wouldn\'t say that where Val can hear you."
+  3: "A Spymaster never speaks without knowing exactly who is listening."
+  3: "Heh. Of course."
+  3: "BG_EXT_CITY_BAY_DAY_STANDOFF"
+  3: "MUSIC_FANTASY_EPIC"
+  3: "A short time later, you stand at the head of your army before Lykos Castle!"
+  3: "Guards line the tops of the castle walls, bows at the ready."
+  3: "Leon"
+  3: "Well, this ought to be fun."
+  3: "Been a while since I saw you so happy, Leon."
+  3: "One of the guards comes forward to shout down at you."
+  3: "Soldier1"
+  3: "Well, look who finally showed up! It\'s the tiny queen."
+  3: "Soldier3"
+  3: "And she\'s brought her tiny army along! Too bad, you\'d need an army ten times bigger to break through these walls."
+  3: "That <i>would</i> be too bad... if I intended to try and break through your walls."
+  3: "But I don\'t need to. <i>You\'re</i> going to open the gates for me."
+  3: "Soldier2"
+  3: "Oh yeah? And why would we do that?"
+  3: "Val?"
+  3: "Val emerges from the ranks of soldiers, pushing a shackled Zenobia ahead of her."
+  3: "Hey! Touch me again, and I\'ll have your hands cut off!"
+  3: "Val"
+  3: "Princess, you\'re really not in a position to be making threats."
+  3: "Val draws one of her daggers and holds the edge against Zenobia\'s throat."
+  3: "Zenobia, tell your soldiers to open the gate, or we\'ll..."
+  3: "Put your pretty head on a pike!"
+  3: "Shave you bald."
+  3: "Hmph. I\'m not afraid of you."
+  3: "Really?"
+  3: "Val pushes the blade in just a bit, a thin line of blood trickling down Zenobia\'s neck."
+  3: "<i>Aaaaaiiieeee!</i> Open the gate!"
+  3: "You wouldn\'t!"
+  3: "Willing to bet on that?"
+  3: "Val grabs a handful of Zenobia\'s hair and raises her dagger..."
+  3: "Open the gate! Do it now! <i>Hurry!</i>"
+  3: "Zenobia\'s soldiers rush to obey. The main gates swing open to admit your army!"
+  3: "BG_INT_BALLROOM_PIT_NEUTRAL"
+  3: "After your army has disarmed the enemy soldiers and taken the castle..."
+  3: "I, Princess Zenobia Nevrakis, do hereby surrender control of Lykos to... ugh, <i>Queen Kenna Rys of Stormholt.</i>"
+  3: "Thank you, Zenobia. I accept."
+  3: "Kailani"
+  3: "Count your blessings, princess. Sure, we took your castle, but at least you\'ve still got your head."
+  3: "recruit_noa_var"
+  3: "Noa"
+  3: "No need to sound so disappointed, sis."
+  3: "Yes, we should all be thankful that this takeover was accomplished without bloodshed."
+  3: "Oh, there\'s going to be <i>plenty</i> of bloodshed when Father gets here."
+  3: "I don\'t doubt that. But at least Luther won\'t be getting any help from <i>you</i> in this battle."
+  3: "It doesn\'t matter. It won\'t be long before he kills you all."
+  3: "And I can\'t <i>wait</i> to see it."
+  3: "Dom"
+  3: "BG_INT_THRONE_ROOM"
+  3: "<tangerine>Now playing as Dom.</tangerine>\n\nSurrounded in the spirit world by a second wave of Nevrakis soldiers, you\'re determined to protect Kenna indefinitely..."
+  3: "I won\'t let them harm you!"
+  3: "A Nevrakis soldier rushes at you, and you <fire>burn</fire> him without even a second glance."
+  3: "<shake_portrait/><fire>AAAAAAH!</fire>"
+  3: "Dom, you can\'t win."
+  3: "No, Kenna, I\'m not giving up on you!"
+  3: "Anu"
+  3: "You fool. Do you not see that there is no end?"
+  3: "<fire>Fire</fire> coils around Anu\'s body like a blazing whirlwind."
+  3: "He slams his hand into the ground, sending out the <fire>fire</fire> in a wave that destroys everything in its path!"
+  3: "Soldier4"
+  3: "<shake_portrait/><fire>AHHHHHH!</fire>"
+  3: "Whoa."
+  3: "The walls of the throne room blow apart..."
+  3: "let_kenna_die"
+  3: "BG_EXT_UNDERWORLD_ETHEREAL_NEUTRAL"
+  3: "MUSIC_FANTASY_SINISTER"
+  3: "You find yourself standing on the starry path once again, Anu and Kenna by your side."
+  3: "Agh! Why can\'t I get this? I need to finish my training <i>now</i> and get back to the real Kenna in time!"
+  3: "You cannot rush your training. The faster you try to go, the slower you progress."
+  3: "I\'m failing you, aren\'t I?"
+  3: "The only person you are failing is yourself."
+  3: "Oh... good?"
+  3: "Each person\'s journey is different, just as all dragons are different."
+  3: "I can only tell you what I know... that mastery of the fire comes from letting go, from focusing solely on your training..."
+  3: "And giving up all else."
+  3: "And that starts here, in the spirit world, by giving up the one person you swore to protect."
+  3: "Suddenly, Nevrakis soldiers begin to materialize all around you..."
+  3: "<slow/>Heh heh heh."
+  3: "Really thought you could get rid of us that easy?"
+  3: "More and more soldiers form... hundreds, <i>thousands</i>... until you find yourself surrounded by an <i>entire army.</i>"
+  3: "There are so many..."
+  3: "Dom..."
+  3: "Will you finally let her die, Dominic? Will you let her go, and give yourself to the fire?"
+  3 {
+    9: 0x2e2e2e6c6c697720
+  }
+  3: "Let Kenna die..."
+  3: "Protect her forever."
+  3: "I... I will..."
+  3: "You step back and watch as the soldiers close in on Kenna. They lunge forward, stabbing her repeatedly with their swords!"
+  3: "<shake_portrait/>Dom! <jiggle>Hkk!</jiggle>"
+  3: "You feel torn inside, broken somehow..."
+  3: "Kenna..."
+  3: "The soldiers disappear, leaving behind only Kenna\'s still, lifeless body."
+  3: "A silence falls over the spirit world."
+  3: "Well, what happens now? I passed, didn\'t I?"
+  3: "You... You did. I don\'t understand. That should\'ve unlocked your dragon."
+  3: "You and Anu wait there... but nothing happens. Finally, Anu reaches over and touches your forehead..."
+  3: "BG_EXT_VOLCANO_RIM_DAY"
+  3: "And you wake in the real world..."
+  3: "What does this mean, Anu?"
+  3: "I honestly do not know. We\'ll have to revisit again tomorrow..."
+  3: "BG_INT_DOM_BEDROOM"
+  3: "That night, you dream that you\'re lying in your bed at Stormholt..."
+  3: "What--why am I here?"
+  3: "You get out of bed and walk to the mirror. Suddenly you feel a lurch in your stomach! Dread overwhelms you, causing you to double over!"
+  3: "<shake_portrait/><jiggle>Hnnng!</jiggle>"
+  3: "You watch as, to your horror, black tendrils begin to wrap around you, turning your skin a sickly stone gray."
+  3: "No..."
+  3: "Your eyes cloud over, becoming a deep, blood red."
+  3: "NegaDom"
+  3: "<jiggle>What is... what is happening to me?!</jiggle>"
+  3: "It\'s a dream from which you never wake..."
+  3: "You have died."
+  3: "What do you do?"
+  3: "Restart from checkpoint"
+  3: "I know you think I should let her die. That I should just let her go and move on."
+  3: "And hells, the spirit world might be telling me that too."
+  3: "Your shadow self is a warning of what you could become..."
+  3: "But you also said everyone\'s journey is different."
+  3: "Deep down, Anu, letting go of Kenna just feels <i>wrong.</i> Everything in me is telling me to hold on to her."
+  3: "Maybe the spirit world is warning me of something else..."
+  3: "Maybe instead, my shadow is what I will become if I <i>do</i> forget her."
+  3: "Maybe <i>I\'m</i> not the one who\'s wrong..."
+  3: "Maybe <i>you</i> are."
+  3: "What--?!"
+  3: "I won\'t let her die, Anu. Not in here, and not out there."
+  3: "You move to protect Kenna, but Anu reaches out and quickly touches your forehead..."
+  3: "...You wake in the real world!"
+  3: "What?! Why did you stop me?!"
+  3: "bought_recruit_phoenix"
+  3: "Nearby, {Phoenix} echoes your anger."
+  3: "Phoenix"
+  3: "Prraww!"
+  3: "Because you failed. You refused to let Kenna die."
+  3: "killed_spirit_bartel"
+  3: "You did not pass your first test..."
+  3: "bought_spirit_romance"
+  3: "When you disobeyed me to go into the spirit world, you probably wasted your time with foolish fantasies."
+  3: "defeated_nega_dom"
+  3: "You did not pass your second test."
+  3: "And then you had the impudence to suggest that I am wrong?"
+  3: "I don\'t know if you\'re wrong! I just know that letting Kenna die <i>can\'t be right.</i>"
+  3: "When I had nothing... when I was no one... she was there for me."
+  3: "She\'s been the one person I could count on my entire life."
+  3: "Maybe if I\'d been raised here, it would\'ve been different."
+  3: "<i>I</i> would\'ve been different. More like you and Sei."
+  3: "But I was raised at Stormholt Castle, and Kenna Rys was my only friend and defender there."
+  3: "I <i>know</i> that I can\'t let go of that."
+  3: "Very well. Perhaps you are right. You weren\'t raised with our ways. Your training may be impossible."
+  3: "Thank you for at least trying. I\'ll be going now. Kenna needs me."
+  3: "Sei approaches, scrambling up the rocks. She pulls you aside."
+  3: "MUSIC_FANTASY_SAD"
+  3: "Sei"
+  3: "Please tell me I didn\'t hear all of that correctly. It\'s idiotic to leave now."
+  3: "So I guess you\'re staying to finish your training?"
+  3: "Yes. I\'ll come when I\'m ready."
+  3: "And what about your grandfather? Do you think there\'s a chance he\'d fight for our side?"
+  3: "He doesn\'t seem very happy with you, lowlander. And believe me, my grandfather\'s the kind of man you want on your side..."
+  3: "This may be your only chance to make peace with him."
+  3: "<ice>Want to add Anu as an ally? His mastery of fire will be invaluable in the final battle!</ice>"
+  3: "What do you do?"
+  3: "Make peace with Anu and recruit him as an ally!"
+  3: "recruit_anu"
+  3: "Leave things as they are."
+  3: "recruited_anu"
+  3: "You move to Anu, settling down beside him. You take a deep breath, speaking from the heart..."
+  3: "Anu, I\'ve been brash and disobedient."
+  3: "And willful and stubborn."
+  3: "Not sure we need to keep listing things, but yes, all those."
+  3: "I\'ve been obsessed with helping Kenna and blinded by my urgency."
+  3: "I should have been more respectful, and I\'m sorry... I know it may be too late..."
+  3: "There is no such thing as \'too late\' when it comes to apologies..."
+  3 {
+    9: 0x2e74706563636120
+  }
+  3: "And so... will you help in the battle against Luther?"
+  3: "Sei and I will be there on the battlefield when the time is right."
+  3: "It\'ll be my honor to fight beside both of you."
+  3: "NEW ALLY"
+  3: "Fire master Anu will aid in the battle against Luther."
+  3: "+5 Army"
+  3: "Thank you, Anu!"
+  3: "And goodbye, Sei! Good luck with your training!"
+  3: "You\'re the one in need of luck, lowlander."
+  3: "I... I don\'t have time for this..."
+  3: "Then I guess this is goodbye, for now."
+  3: "Goodbye, Sei. And good luck with your training..."
+  3: "You\'re the one who needs luck."
+  3: "BG_EXT_VILLAGE_MOUNTAIN_DAY"
+  3: "With that, you rush off down the mountain, toward the far end of the realm..."
+  3: "(Hold on, Kenna, please. Fight. <i>Survive.</i>)"
+  3: "(I\'ll be there soon!)"
+  3: "BG_INT_COMMAND_TENT_DAY"
+  3: "MUSIC_FANTASY_LOVE"
+  3: "<orchid>Now playing as Kenna.</orchid>\n\nWith Lykos now under your control, you return to your coastal command tent, where you will make your final stand. Whitlock is waiting for you."
+  3: "You\'re looking grim. What\'s wrong?"
+  3: "We took the castle, but Hex somehow managed to escape without anyone spotting her..."
+  3: "I think I know how."
+  3: "Whitlock spreads one of Hex\'s plans out on the table. You trace the complex, unfamiliar shapes with your finger."
+  3: "What is it?"
+  3: "A ship, suspended beneath a container of heated gas and propelled by a pair of engines."
+  3: "You mean this is a ship... that can <i>fly?!</i>"
+  3: "It\'s how she was able to destroy the Foundry. We never thought to prepare for an attack from above."
+  3: "I can\'t figure out how she\'s able to heat the gas <i>and</i> power the engines. It\'d take a <i>massive</i> amount of energy."
+  3: "Where would she get that much energy..."
+  3: "What if she\'s using..."
+  3: "Something like your shock emitter?"
+  3: "Captive fire magic users?"
+  3: "The shock emitter you used at Thorngate could store and release a lot of energy. Could Hex be using something similar?"
+  3: "I don\'t think so. The shock emitter would release a huge burst of energy all at once."
+  3: "For these purposes, Hex would need a steady, controllable source of energy. Like..."
+  3: "Kenna, you said she had a captive fire user at the ball? Could she have more?"
+  3: "Without a doubt."
+  3: "Prestige +2"
+  3: "I told you she had a captive fire user at the ball. She could easily have more under her control."
+  3: "That... that would work."
+  3: "She\'s already proven that she can harness their magic. Remember the cannon at Stormholt?"
+  3: "How could I forget?"
+  3: "You\'re the mechanical genius, Whitlock. Can you see any way to counter these flying ships?"
+  3: "Not yet. Piercing the gas canisters would bring them down, but their bellies are heavily armored."
+  3: "They\'re vulnerable from above, but that\'s pretty much useless to us."
+  3: "You take one of Whitlock\'s hands in yours, squeezing gently."
+  3: "You\'ll find a way, Whitlock. You always do."
+  3: "Thank you, Kenna. I won\'t let you down, I promise."
+  3: "BG_EXT_CITY_BAY_DAY"
+  3: "The next day, you and your allies watch as your fleet sails into the Wolf\'s Mouth in preparation for battle."
+  3: "A glorious sight. It\'s been a long time since the armies of Stormholt took to the sea."
+  3: "It is beautiful... I just hope it will be enough."
+  3: "We brought more than just pretty boats, remember. The people of Alriel are ready to fight for you."
+  3: "Kai\'s just excited to show off those special fighting moves we\'ve been working on."
+  3: "Like <i>you\'re</i> not. Come on, they\'re amazing."
+  3: "Adder"
+  3: "I must say, I\'m not used to opposing the Nevrakis rule so publicly."
+  3: "But I like you, Kenna Rys. You have my allegiance, as well as fifty of my best assassins."
+  3: "+1 Army"
+  3 {
+    9: 0x20686375
+    12: 0x7461696365727070
+    12: 0x2e2e2e64
+  }
+  3: "Thorngate stands with you as well. Our soldiers are preparing to march as we speak."
+  3: "We can provide a force one thousand strong. Except..."
+  3: "Except what, Rowan?"
+  3: "If we lose the battle against Luther, then there will be no one left to defend Thorngate."
+  3: "But if half of the army remains behind, they can act as a second line of defense."
+  3: "Goodness, the battle hasn\'t even begun, and you\'re already planning for failure?"
+  3: "What do you know of battle tactics, <i>thief?</i>"
+  3: "I know that assuming you\'re going to fail is a good way to make that assumption come true."
+  3: "Five hundred troops will not be enough to defend Thorngate against Luther."
+  3: "But combined with our existing army, they <i>could</i> make the difference between victory and defeat."
+  3: "Rowan turns to look at you."
+  3: "And what says Queen Kenna?"
+  3: "I say..."
+  3: "We need every last Thorngate soldier."
+  3: "Let half of Thorngate\'s army stay behind."
+  3: "rowan_troops"
+  3: "Especially now that we know of Hex\'s airships, we can\'t afford to hold anything back."
+  3: "If we\'re going to free the Five Kingdoms, we must stand together as one. We must defeat Luther here and now."
+  3: "Very well. You will have your thousand troops, and I will pray for a decisive victory."
+  3: "All In"
+  3: "You recruited all 1,000 Thorngate troops!"
+  3: "+20 Army"
+  3: "rowan_loyalty"
+  3: "I believe that we will win this battle, but that doesn\'t mean we shouldn\'t prepare for other outcomes."
+  3: "<i>If</i> the worst happens, I\'ll rest easier knowing that Thorngate will be able to defend itself."
+  3: "As will I. Thank you, Queen Kenna. I will summon our five hundred finest troops."
+  3: "Backup Plan"
+  3: "You recruited half of Thorngate\'s troops."
+  3: "+10 Army"
+  3: "Thank you, Rowan."
+  3: "recruited_helene"
+  3: "We might just be ready for Luther, especially if Helene fulfills her promise to bring more soldiers..."
+  3: "As Rowan leaves to send her message, you hear armored boots hurrying down the docks."
+  3: "fantasy_the_crown_and_the_flame_01"
+  3: "show_mercy"
+  3: "Turning, you see Jackson and Severin jogging toward you."
+  3: "Jackson"
+  3: "Queen Kenna! We came... huff... as fast as we... huff... could."
+  3: "Severin"
+  3: "Heh, as fast as <i>he</i> could. For me, a nice little stroll."
+  3: "Thank the gods, you\'re back! Did you find Dom?"
+  3: "We did. He, uh... he said he wasn\'t ready to come back."
+  3: "Oh... <pause/>I see."
+  3: "Did he say... I mean, was there anything else?"
+  3: "Said he\'d try to be here soon. Hope he can run faster than this twig man."
+  3: "I suppose that\'s something. Thank you both."
+  3: "Jackson and Severin bow, then head back into camp."
+  3: "Turning, you see Jackson jogging toward you."
+  3: "Queen Kenna! I came... huff... as fast as I... huff... could."
+  3: "Thank the gods, you\'re back! Did you find Dom?"
+  3: "I did. He, uh... he said he wasn\'t ready to come back."
+  3: "Oh... <pause/>I see."
+  3: "Did he say... I mean, was there anything else?"
+  3: "He said he would try to be here soon."
+  3: "I suppose that\'s something. Thank you, Jackson."
+  3: "Jackson bows, then heads back into camp."
+  3: "Annelyse puts an arm around your shoulders."
+  3: "Annelyse"
+  3: "Oh Kenna... Dom will make it here in time. I know he will."
+  3: "I hope so..."
+  3: "Because the time for battle is here... whether he makes it or not."
+  3: "STAT_MAGIC"
+  3: "troops_count"
+  3: "weapons_count"
+  3: "allies_count"
+  3: "events_count"
+  3: "<cantaloupe>Chapter Progress</cantaloupe>"
+  3: "Through your exceptional cunning, you gained Zenobia\'s trust and struck when she least expected it!"
+  3: "Chapter Progress"
+  3: "You were not cunning enough to avoid Zenobia\'s suspicions, and were forced to fight your way past her!"
+  3: "Chapter Progress"
+  3: "You captured Princess Zenobia, and gained control of Lykos Castle!"
+  3: "Chapter Progress"
+  3: "You made peace with fire master Anu and gained a powerful ally for the final battle!"
+  3: "Chapter Progress"
+  3: "You chose to let things be with Anu. His absence will be felt in the final battle..."
+  3: "Chapter Progress"
+  3: "You discovered that Hex has constructed flying warships!"
+  3: "Chapter Progress"
+  3: "You\'ve called upon every soldier of Thorngate to join the final battle, leaving none to defend their home."
+  3: "Chapter Progress"
+  3: "Only half of Thorngate\'s army will join you in the final battle."
+  3: "Chapter Progress"
+  3: "val_status"
+  3: "Alive"
+  3: "recruit_val_var"
+  3: "Alive & Sworn to You"
+  3: "noa_status"
+  3: "Alive"
+  3: "Alive & Recruited"
+  3: "phoenix_status"
+  3: "Not met"
+  3: "Alive & Recruited"
+  3: "helene_status"
+  3: "Alive"
+  3: "Alive & Recruited"
+  3: "kraken_status"
+  3: "Captive in Hex\'s lab"
+  3: "Alive & Recruited"
+  3: "anu_status"
+  3: "Alive & Disappointed"
+  3: "Alive & Recruited"
+  3: "Rowan: Alive and Recruited\nVal: {val_status}\nKailani: Alive and Recruited\nNoa: {noa_status}\n{Phoenix}: {phoenix_status}\nHelene: {helene_status}\nAdder: Alive and Recruited\nKraken: {kraken_status}\nAnu: {anu_status}"
+  3: "Overall Progress"
+  3: "prestige_count"
+  3: "power_count"
+  3: "allies_score"
+  3: "events_score"
+  3: "weapons_score"
+  3: "troops_score"
+  3: "total_count"
+  3: "<cantaloupe>Overall Progress</cantaloupe>"
+  3: "Prestige: {prestige_count} out of 38\nPower: {power_count} out of 20\nCunning: {cunning_score} out of 8\nWeapons: {weapons_score} out of 15\nAllies: {allies_score} out of 45\nTroops: {troops_score} out of 33\nSignificant Choices: {events_score} out of 105"
+  3: "Overall Progress"
+  3: "Army Score: {total_count} out of 264"
+  3: "Overall Progress"
+  4 {
+    1: "main"
+    2: 3
+  }
+  4 {
+    1: "doStormingVal"
+    2: 38
+  }
+  4 {
+    1: "doCunningWin"
+    2: 145
+  }
+  4 {
+    1: "doCunningFail"
+    2: 260
+  }
+  4 {
+    1: "doStormingKenna"
+    2: 504
+  }
+  4 {
+    1: "doStormingDom"
+    2: 961
+  }
+  4 {
+    1: "doStormingKenna2"
+    2: 1630
+  }
+  4 {
+    1: "endDisplay"
+    2: 2111
+  }
+  4 {
+    1: "displayChapter"
+    2: 2221
+  }
+  4 {
+    1: "displayAllies"
+    2: 2281
+  }
+  4 {
+    1: "displayOverall"
+    2: 2376
+  }
+  5 {
+    1: 45
+  }
+  5 {
+    1: 35
+    2: 3
+  }
+  5 {
+    1: 44
+  }
+  5 {
+    1: 47
+  }
+  5 {
+    1: 48
+  }
+  5 {
+    1: 49
+  }
+  5 {
+    1: 45
+  }
+  5 {
+    1: 35
+    2: 38
+  }
+  5 {
+    1: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 45
+  }
+  5 {
+    1: 35
+    2: 504
+  }
+  5 {
+    1: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 45
+  }
+  5 {
+    1: 35
+    2: 961
+  }
+  5 {
+    1: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 45
+  }
+  5 {
+    1: 35
+    2: 1630
+  }
+  5 {
+    1: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 45
+  }
+  5 {
+    1: 35
+    2: 2111
+  }
+  5 {
+    1: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 25
+    2: 2
+  }
+  5 {
+    1: 25
+    2: 3
+  }
+  5 {
+    1: 41
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 41
+    2: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 42
+  }
+  5 {
+    1: 47
+  }
+  5 {
+    1: 48
+  }
+  5 {
+    1: 49
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 41
+    2: 2
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 5
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 25
+    2: 3
+  }
+  5 {
+    1: 41
+    2: 3
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 6
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 7
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 25
+    2: 3
+  }
+  5 {
+    1: 25
+    2: 3
+  }
+  5 {
+    1: 41
+    2: 3
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 9
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 10
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 13
+  }
+  5 {
+    1: 41
+    2: 7
+    3: 1
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 80
+  }
+  5 {
+    1: 25
+    2: 14
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 83
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 16
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 18
+  }
+  5 {
+    1: 41
+    2: 7
+    3: 1
+  }
+  5 {
+    1: 25
+    2: 6
+  }
+  5 {
+    1: 7
+  }
+  5 {
+    1: 37
+    2: 98
+  }
+  5 {
+    1: 45
+  }
+  5 {
+    1: 35
+    2: 145
+  }
+  5 {
+    1: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 102
+  }
+  5 {
+    1: 45
+  }
+  5 {
+    1: 35
+    2: 260
+  }
+  5 {
+    1: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 19
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 20
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 13
+  }
+  5 {
+    1: 41
+    2: 7
+    3: 1
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 130
+  }
+  5 {
+    1: 25
+    2: 21
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 22
+  }
+  5 {
+    1: 25
+    2: 23
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 24
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 25
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 133
+  }
+  5 {
+    1: 25
+    2: 26
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 27
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 42
+  }
+  5 {
+    1: 47
+  }
+  5 {
+    1: 48
+  }
+  5 {
+    1: 49
+  }
+  5 {
+    1: 25
+    2: 28
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 29
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 10
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 31
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 32
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 13
+  }
+  5 {
+    1: 41
+    2: 7
+    3: 1
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 189
+  }
+  5 {
+    1: 25
+    2: 22
+  }
+  5 {
+    1: 25
+    2: 33
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 10
+  }
+  5 {
+    1: 25
+    2: 34
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 35
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 189
+  }
+  5 {
+    1: 25
+    2: 10
+  }
+  5 {
+    1: 25
+    2: 36
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 37
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 10
+  }
+  5 {
+    1: 25
+    2: 38
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 39
+  }
+  5 {
+    1: 25
+    2: 40
+  }
+  5 {
+    1: 41
+    2: 9
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 41
+  }
+  5 {
+    1: 25
+    2: 42
+  }
+  5 {
+    1: 25
+    2: 2105376255
+  }
+  5 {
+    1: 41
+    2: 10
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 43
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 10
+  }
+  5 {
+    1: 25
+    2: 44
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 45
+  }
+  5 {
+    1: 25
+    2: 46
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 47
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 10
+  }
+  5 {
+    1: 25
+    2: 48
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 49
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 10
+  }
+  5 {
+    1: 25
+    2: 50
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 51
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 10
+  }
+  5 {
+    1: 25
+    2: 52
+  }
+  5 {
+    1: 25
+    2: 46
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 53
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 42
+  }
+  5 {
+    1: 47
+  }
+  5 {
+    1: 48
+  }
+  5 {
+    1: 49
+    2: 2
+  }
+  5 {
+    1: 25
+    2: 54
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 25
+    2: 56
+  }
+  5 {
+    1: 41
+    2: 9
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 57
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 10
+  }
+  5 {
+    1: 25
+    2: 58
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 10
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 60
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 61
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 41
+    2: 11
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 46
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 62
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 63
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 64
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 41
+    2: 14
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 323
+  }
+  5 {
+    1: 25
+    2: 65
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 66
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 357
+  }
+  5 {
+    1: 51
+  }
+  5 {
+    1: 25
+    2: 2
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 349
+  }
+  5 {
+    1: 25
+    2: 67
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 10
+  }
+  5 {
+    1: 25
+    2: 68
+  }
+  5 {
+    1: 25
+    2: 46
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 69
+  }
+  5 {
+    1: 25
+    2: 70
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 71
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 10
+  }
+  5 {
+    1: 25
+    2: 72
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 357
+  }
+  5 {
+    1: 25
+    2: 73
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 74
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 10
+  }
+  5 {
+    1: 25
+    2: 75
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 76
+  }
+  5 {
+    1: 25
+    2: 46
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 10
+  }
+  5 {
+    1: 25
+    2: 77
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 78
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 79
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 41
+    2: 11
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 80
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 81
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 31
+  }
+  5 {
+    1: 41
+    2: 14
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+    2: 1
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 444
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 82
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 83
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 10
+  }
+  5 {
+    1: 25
+    2: 84
+  }
+  5 {
+    1: 25
+    2: 46
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 85
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 10
+  }
+  5 {
+    1: 25
+    2: 86
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 87
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 88
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 10
+  }
+  5 {
+    1: 25
+    2: 89
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 90
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 10
+  }
+  5 {
+    1: 25
+    2: 91
+  }
+  5 {
+    1: 25
+    2: 46
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 92
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 500
+  }
+  5 {
+    1: 25
+    2: 93
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 10
+  }
+  5 {
+    1: 25
+    2: 94
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 95
+  }
+  5 {
+    1: 25
+    2: 46
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 96
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 10
+  }
+  5 {
+    1: 25
+    2: 97
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 98
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 99
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 100
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 101
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 10
+  }
+  5 {
+    1: 25
+    2: 102
+  }
+  5 {
+    1: 25
+    2: 70
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 103
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 10
+  }
+  5 {
+    1: 25
+    2: 104
+  }
+  5 {
+    1: 25
+    2: 46
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 105
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 106
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 42
+  }
+  5 {
+    1: 47
+  }
+  5 {
+    1: 48
+  }
+  5 {
+    1: 49
+    2: 3
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 41
+    2: 2
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 108
+  }
+  5 {
+    1: 41
+    2: 15
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 109
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 3
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 110
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 111
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 112
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 113
+  }
+  5 {
+    1: 25
+    2: 114
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 115
+  }
+  5 {
+    1: 25
+    2: 116
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 117
+  }
+  5 {
+    1: 41
+    2: 11
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 118
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 119
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 120
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 41
+    2: 14
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 579
+  }
+  5 {
+    1: 25
+    2: 121
+  }
+  5 {
+    1: 25
+    2: 122
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 121
+  }
+  5 {
+    1: 25
+    2: 123
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 124
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 592
+  }
+  5 {
+    1: 25
+    2: 125
+  }
+  5 {
+    1: 25
+    2: 126
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 16
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 127
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 121
+  }
+  5 {
+    1: 25
+    2: 128
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 121
+  }
+  5 {
+    1: 25
+    2: 129
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 115
+  }
+  5 {
+    1: 25
+    2: 130
+  }
+  5 {
+    1: 25
+    2: 70
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 131
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 132
+  }
+  5 {
+    1: 25
+    2: 70
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 113
+  }
+  5 {
+    1: 25
+    2: 133
+  }
+  5 {
+    1: 25
+    2: 46
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 134
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 135
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 136
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 115
+  }
+  5 {
+    1: 25
+    2: 137
+  }
+  5 {
+    1: 25
+    2: 46
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 13
+  }
+  5 {
+    1: 41
+    2: 7
+    3: 1
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 665
+  }
+  5 {
+    1: 25
+    2: 138
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 139
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 22
+  }
+  5 {
+    1: 25
+    2: 140
+  }
+  5 {
+    1: 25
+    2: 70
+  }
+  5 {
+    1: 25
+    2: 141
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 113
+  }
+  5 {
+    1: 25
+    2: 142
+  }
+  5 {
+    1: 25
+    2: 46
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 143
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 121
+  }
+  5 {
+    1: 25
+    2: 144
+  }
+  5 {
+    1: 25
+    2: 46
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 665
+  }
+  5 {
+    1: 25
+    2: 145
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 146
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 147
+  }
+  5 {
+    1: 41
+    2: 11
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 46
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 148
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 149
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 150
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 31
+  }
+  5 {
+    1: 41
+    2: 14
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+    2: 1
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 702
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 151
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 717
+  }
+  5 {
+    1: 51
+    2: 1
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 712
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 152
+  }
+  5 {
+    1: 25
+    2: 70
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 717
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 153
+  }
+  5 {
+    1: 25
+    2: 70
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 154
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 155
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 156
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 157
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 115
+  }
+  5 {
+    1: 25
+    2: 158
+  }
+  5 {
+    1: 25
+    2: 70
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 159
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 160
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 121
+  }
+  5 {
+    1: 25
+    2: 161
+  }
+  5 {
+    1: 25
+    2: 70
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 162
+  }
+  5 {
+    1: 25
+    2: 70
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 121
+  }
+  5 {
+    1: 25
+    2: 163
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 2000
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 164
+  }
+  5 {
+    1: 25
+    2: 70
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 165
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 3
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 166
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 167
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 168
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 169
+  }
+  5 {
+    1: 25
+    2: 170
+  }
+  5 {
+    1: 25
+    2: 70
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 171
+  }
+  5 {
+    1: 25
+    2: 70
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 172
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 173
+  }
+  5 {
+    1: 25
+    2: 174
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 175
+  }
+  5 {
+    1: 25
+    2: 176
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 177
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 178
+  }
+  5 {
+    1: 25
+    2: 70
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 179
+  }
+  5 {
+    1: 25
+    2: 180
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 181
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 182
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 10
+  }
+  5 {
+    1: 25
+    2: 183
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 184
+  }
+  5 {
+    1: 25
+    2: 185
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 186
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 187
+  }
+  5 {
+    1: 41
+    2: 11
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 118
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 188
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 189
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 32
+  }
+  5 {
+    1: 41
+    2: 14
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+    2: 2
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 878
+  }
+  5 {
+    1: 25
+    2: 10
+  }
+  5 {
+    1: 25
+    2: 190
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 184
+  }
+  5 {
+    1: 25
+    2: 191
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 192
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 10
+  }
+  5 {
+    1: 25
+    2: 193
+  }
+  5 {
+    1: 25
+    2: 46
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 896
+  }
+  5 {
+    1: 25
+    2: 10
+  }
+  5 {
+    1: 25
+    2: 194
+  }
+  5 {
+    1: 25
+    2: 46
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 184
+  }
+  5 {
+    1: 25
+    2: 195
+  }
+  5 {
+    1: 25
+    2: 70
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 196
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 10
+  }
+  5 {
+    1: 25
+    2: 197
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 198
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 199
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 41
+    2: 3
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 200
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 10
+  }
+  5 {
+    1: 25
+    2: 201
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 202
+  }
+  5 {
+    1: 25
+    2: 70
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 203
+  }
+  5 {
+    1: 25
+    2: 204
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 205
+  }
+  5 {
+    1: 41
+    2: 7
+    3: 1
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 931
+  }
+  5 {
+    1: 25
+    2: 206
+  }
+  5 {
+    1: 25
+    2: 207
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 931
+  }
+  5 {
+    1: 25
+    2: 113
+  }
+  5 {
+    1: 25
+    2: 208
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 10
+  }
+  5 {
+    1: 25
+    2: 209
+  }
+  5 {
+    1: 25
+    2: 70
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 210
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 10
+  }
+  5 {
+    1: 25
+    2: 211
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 10
+  }
+  5 {
+    1: 25
+    2: 212
+  }
+  5 {
+    1: 25
+    2: 70
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 42
+  }
+  5 {
+    1: 47
+  }
+  5 {
+    1: 48
+  }
+  5 {
+    1: 49
+    2: 3
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 41
+    2: 2
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 214
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 25
+    2: 3
+  }
+  5 {
+    1: 25
+    2: 3
+  }
+  5 {
+    1: 41
+    2: 3
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 215
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 216
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 217
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 175
+  }
+  5 {
+    1: 25
+    2: 218
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 219
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 220
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 221
+  }
+  5 {
+    1: 25
+    2: 222
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 223
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 224
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 225
+  }
+  5 {
+    1: 25
+    2: 226
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 227
+  }
+  5 {
+    1: 25
+    2: 46
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 228
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 229
+  }
+  5 {
+    1: 41
+    2: 17
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 230
+  }
+  5 {
+    1: 25
+    2: 3
+  }
+  5 {
+    1: 25
+    2: 3
+  }
+  5 {
+    1: 41
+    2: 18
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 231
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 232
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 233
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 221
+  }
+  5 {
+    1: 25
+    2: 234
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 235
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 221
+  }
+  5 {
+    1: 25
+    2: 236
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 237
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 221
+  }
+  5 {
+    1: 25
+    2: 238
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 221
+  }
+  5 {
+    1: 25
+    2: 239
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 221
+  }
+  5 {
+    1: 25
+    2: 240
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 221
+  }
+  5 {
+    1: 25
+    2: 241
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 242
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 173
+  }
+  5 {
+    1: 25
+    2: 243
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 175
+  }
+  5 {
+    1: 25
+    2: 244
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 245
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 246
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 247
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 221
+  }
+  5 {
+    1: 25
+    2: 248
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 249
+  }
+  5 {
+    1: 41
+    2: 11
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 118
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 250
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 251
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 41
+    2: 14
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 1265
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 252
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 253
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 254
+  }
+  5 {
+    1: 25
+    2: 46
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 255
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 256
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 257
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 258
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 259
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 221
+  }
+  5 {
+    1: 25
+    2: 260
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 261
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 262
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 18
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 110
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 263
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 264
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 221
+  }
+  5 {
+    1: 25
+    2: 265
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 266
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 25
+    2: 3
+  }
+  5 {
+    1: 25
+    2: 3
+  }
+  5 {
+    1: 41
+    2: 3
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 267
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 268
+  }
+  5 {
+    1: 25
+    2: 46
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 269
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 270
+  }
+  5 {
+    1: 25
+    2: 46
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 271
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 272
+  }
+  5 {
+    1: 25
+    2: 46
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 273
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 274
+  }
+  5 {
+    1: 41
+    2: 2
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 274
+  }
+  5 {
+    1: 25
+    2: 275
+  }
+  5 {
+    1: 25
+    2: 46
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 276
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 255
+  }
+  5 {
+    1: 41
+    2: 19
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 277
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 278
+  }
+  5 {
+    1: 41
+    2: 11
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 279
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 31
+  }
+  5 {
+    1: 41
+    2: 14
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 229
+  }
+  5 {
+    1: 41
+    2: 20
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 1326
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 280
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 281
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 221
+  }
+  5 {
+    1: 25
+    2: 282
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 283
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 284
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 285
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 286
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 287
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 288
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 221
+  }
+  5 {
+    1: 25
+    2: 289
+  }
+  5 {
+    1: 25
+    2: 46
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 290
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 291
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 262
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 18
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 292
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 293
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 294
+  }
+  5 {
+    1: 41
+    2: 7
+    3: 1
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 1357
+  }
+  5 {
+    1: 25
+    2: 295
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 296
+  }
+  5 {
+    1: 25
+    2: 297
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 1357
+  }
+  5 {
+    1: 25
+    2: 221
+  }
+  5 {
+    1: 25
+    2: 298
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 299
+  }
+  5 {
+    1: 41
+    2: 7
+    3: 1
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 1372
+  }
+  5 {
+    1: 25
+    2: 221
+  }
+  5 {
+    1: 25
+    2: 300
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 1372
+  }
+  5 {
+    1: 25
+    2: 301
+  }
+  5 {
+    1: 41
+    2: 7
+    3: 1
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 1382
+  }
+  5 {
+    1: 25
+    2: 221
+  }
+  5 {
+    1: 25
+    2: 302
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 1382
+  }
+  5 {
+    1: 25
+    2: 303
+  }
+  5 {
+    1: 41
+    2: 7
+    3: 1
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 1392
+  }
+  5 {
+    1: 25
+    2: 221
+  }
+  5 {
+    1: 25
+    2: 304
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 1392
+  }
+  5 {
+    1: 25
+    2: 221
+  }
+  5 {
+    1: 25
+    2: 305
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 306
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 307
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 308
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 309
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 310
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 311
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 312
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 221
+  }
+  5 {
+    1: 25
+    2: 313
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 314
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 315
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 316
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 317
+  }
+  5 {
+    1: 25
+    2: 318
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 319
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 317
+  }
+  5 {
+    1: 25
+    2: 320
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 321
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 317
+  }
+  5 {
+    1: 25
+    2: 322
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 317
+  }
+  5 {
+    1: 25
+    2: 323
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 324
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 325
+  }
+  5 {
+    1: 41
+    2: 11
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 118
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 326
+  }
+  5 {
+    1: 25
+    2: 327
+  }
+  5 {
+    1: 41
+    2: 21
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 328
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 32
+  }
+  5 {
+    1: 41
+    2: 14
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+    2: 2
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 1582
+  }
+  5 {
+    1: 25
+    2: 329
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 22
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 330
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 331
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 221
+  }
+  5 {
+    1: 25
+    2: 332
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 333
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 334
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 335
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 221
+  }
+  5 {
+    1: 25
+    2: 336
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 221
+  }
+  5 {
+    1: 25
+    2: 337
+  }
+  5 {
+    1: 25
+    2: 70
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 338
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 221
+  }
+  5 {
+    1: 25
+    2: 339
+  }
+  5 {
+    1: 25
+    2: 70
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 221
+  }
+  5 {
+    1: 25
+    2: 340
+  }
+  5 {
+    1: 25
+    2: 70
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 341
+  }
+  5 {
+    1: 25
+    2: 342
+  }
+  5 {
+    1: 41
+    2: 9
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 41
+  }
+  5 {
+    1: 25
+    2: 343
+  }
+  5 {
+    1: 25
+    2: 2105376255
+  }
+  5 {
+    1: 41
+    2: 10
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 344
+  }
+  5 {
+    1: 25
+    2: 70
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 345
+  }
+  5 {
+    1: 25
+    2: 70
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 317
+  }
+  5 {
+    1: 25
+    2: 346
+  }
+  5 {
+    1: 25
+    2: 70
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 1604
+  }
+  5 {
+    1: 25
+    2: 329
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 41
+    2: 22
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 347
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 317
+  }
+  5 {
+    1: 25
+    2: 348
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 349
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 317
+  }
+  5 {
+    1: 25
+    2: 350
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 351
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 25
+    2: 3
+  }
+  5 {
+    1: 25
+    2: 3
+  }
+  5 {
+    1: 41
+    2: 3
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 352
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 353
+  }
+  5 {
+    1: 25
+    2: 46
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 25
+    2: 354
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 42
+  }
+  5 {
+    1: 47
+  }
+  5 {
+    1: 48
+  }
+  5 {
+    1: 49
+    2: 2
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 41
+    2: 2
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 355
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 41
+    2: 3
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 356
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 357
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 358
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 115
+  }
+  5 {
+    1: 25
+    2: 359
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 115
+  }
+  5 {
+    1: 25
+    2: 360
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 361
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 362
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 115
+  }
+  5 {
+    1: 25
+    2: 363
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 364
+  }
+  5 {
+    1: 25
+    2: 46
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 115
+  }
+  5 {
+    1: 25
+    2: 365
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 115
+  }
+  5 {
+    1: 25
+    2: 366
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 367
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 368
+  }
+  5 {
+    1: 41
+    2: 11
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 46
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 369
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 370
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 41
+    2: 14
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 1735
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 371
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 115
+  }
+  5 {
+    1: 25
+    2: 372
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 115
+  }
+  5 {
+    1: 25
+    2: 373
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 115
+  }
+  5 {
+    1: 25
+    2: 374
+  }
+  5 {
+    1: 25
+    2: 46
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 375
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 1759
+  }
+  5 {
+    1: 25
+    2: 125
+  }
+  5 {
+    1: 25
+    2: 376
+  }
+  5 {
+    1: 25
+    2: 2
+  }
+  5 {
+    1: 41
+    2: 16
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 377
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 115
+  }
+  5 {
+    1: 25
+    2: 378
+  }
+  5 {
+    1: 25
+    2: 46
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 115
+  }
+  5 {
+    1: 25
+    2: 379
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 380
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 381
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 115
+  }
+  5 {
+    1: 25
+    2: 382
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 115
+  }
+  5 {
+    1: 25
+    2: 383
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 384
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 385
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 2000
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 115
+  }
+  5 {
+    1: 25
+    2: 386
+  }
+  5 {
+    1: 25
+    2: 70
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 387
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 3
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 316
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 388
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 169
+  }
+  5 {
+    1: 25
+    2: 389
+  }
+  5 {
+    1: 25
+    2: 70
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 390
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 203
+  }
+  5 {
+    1: 25
+    2: 391
+  }
+  5 {
+    1: 25
+    2: 70
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 205
+  }
+  5 {
+    1: 41
+    2: 7
+    3: 1
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 1831
+  }
+  5 {
+    1: 25
+    2: 206
+  }
+  5 {
+    1: 25
+    2: 392
+  }
+  5 {
+    1: 25
+    2: 70
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 203
+  }
+  5 {
+    1: 25
+    2: 393
+  }
+  5 {
+    1: 25
+    2: 70
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 1831
+  }
+  5 {
+    1: 25
+    2: 394
+  }
+  5 {
+    1: 25
+    2: 395
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 394
+  }
+  5 {
+    1: 25
+    2: 396
+  }
+  5 {
+    1: 25
+    2: 70
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 41
+  }
+  5 {
+    1: 25
+    2: 397
+  }
+  5 {
+    1: 25
+    2: 2105376255
+  }
+  5 {
+    1: 41
+    2: 10
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 398
+  }
+  5 {
+    1: 25
+    2: 70
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 113
+  }
+  5 {
+    1: 25
+    2: 399
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 113
+  }
+  5 {
+    1: 25
+    2: 400
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 401
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 113
+  }
+  5 {
+    1: 25
+    2: 402
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 113
+  }
+  5 {
+    1: 25
+    2: 403
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 394
+  }
+  5 {
+    1: 25
+    2: 404
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 113
+  }
+  5 {
+    1: 25
+    2: 405
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 394
+  }
+  5 {
+    1: 25
+    2: 406
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 169
+  }
+  5 {
+    1: 25
+    2: 407
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 169
+  }
+  5 {
+    1: 25
+    2: 408
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 409
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 113
+  }
+  5 {
+    1: 25
+    2: 410
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 411
+  }
+  5 {
+    1: 41
+    2: 11
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 118
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 412
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 413
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 31
+  }
+  5 {
+    1: 41
+    2: 14
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+    2: 1
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 1950
+  }
+  5 {
+    1: 25
+    2: 414
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 22
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 415
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 416
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 113
+  }
+  5 {
+    1: 25
+    2: 417
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 418
+  }
+  5 {
+    1: 25
+    2: 419
+  }
+  5 {
+    1: 41
+    2: 9
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 41
+  }
+  5 {
+    1: 25
+    2: 420
+  }
+  5 {
+    1: 25
+    2: 2105376255
+  }
+  5 {
+    1: 41
+    2: 10
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 1980
+  }
+  5 {
+    1: 25
+    2: 414
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 41
+    2: 22
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 421
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 23
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 422
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 423
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 113
+  }
+  5 {
+    1: 25
+    2: 424
+  }
+  5 {
+    1: 25
+    2: 70
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 425
+  }
+  5 {
+    1: 25
+    2: 426
+  }
+  5 {
+    1: 41
+    2: 9
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 41
+  }
+  5 {
+    1: 25
+    2: 427
+  }
+  5 {
+    1: 25
+    2: 2105376255
+  }
+  5 {
+    1: 41
+    2: 10
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 428
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 429
+  }
+  5 {
+    1: 41
+    2: 7
+    3: 1
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 1994
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 430
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 1994
+  }
+  5 {
+    1: 25
+    2: 431
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 432
+  }
+  5 {
+    1: 25
+    2: 433
+  }
+  5 {
+    1: 41
+    2: 24
+    3: 2
+  }
+  5 {
+    1: 37
+    2: 2047
+  }
+  5 {
+    1: 25
+    2: 434
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 435
+  }
+  5 {
+    1: 25
+    2: 436
+  }
+  5 {
+    1: 25
+    2: 46
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 437
+  }
+  5 {
+    1: 25
+    2: 438
+  }
+  5 {
+    1: 25
+    2: 70
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 439
+  }
+  5 {
+    1: 25
+    2: 70
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 435
+  }
+  5 {
+    1: 25
+    2: 440
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 441
+  }
+  5 {
+    1: 25
+    2: 46
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 442
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 437
+  }
+  5 {
+    1: 25
+    2: 443
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 444
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 445
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 2087
+  }
+  5 {
+    1: 25
+    2: 446
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 435
+  }
+  5 {
+    1: 25
+    2: 447
+  }
+  5 {
+    1: 25
+    2: 46
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 448
+  }
+  5 {
+    1: 25
+    2: 70
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 435
+  }
+  5 {
+    1: 25
+    2: 449
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 450
+  }
+  5 {
+    1: 25
+    2: 46
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 451
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 435
+  }
+  5 {
+    1: 25
+    2: 452
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 453
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 454
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 455
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 456
+  }
+  5 {
+    1: 25
+    2: 457
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 458
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 459
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 42
+  }
+  5 {
+    1: 47
+  }
+  5 {
+    1: 48
+  }
+  5 {
+    1: 49
+    2: 7
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 25
+    2: 125
+  }
+  5 {
+    1: 41
+    2: 7
+    3: 1
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 31
+  }
+  5 {
+    1: 25
+    2: 460
+  }
+  5 {
+    1: 41
+    2: 7
+    3: 1
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 32
+  }
+  5 {
+    1: 25
+    2: 18
+  }
+  5 {
+    1: 41
+    2: 7
+    3: 1
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 33
+  }
+  5 {
+    1: 25
+    2: 461
+  }
+  5 {
+    1: 41
+    2: 7
+    3: 1
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 29
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 462
+  }
+  5 {
+    1: 41
+    2: 7
+    3: 1
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 29
+    2: 5
+  }
+  5 {
+    1: 25
+    2: 463
+  }
+  5 {
+    1: 41
+    2: 7
+    3: 1
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 29
+    2: 6
+  }
+  5 {
+    1: 25
+    2: 464
+  }
+  5 {
+    1: 41
+    2: 7
+    3: 1
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 329
+  }
+  5 {
+    1: 41
+    2: 7
+    3: 1
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 2158
+  }
+  5 {
+    1: 29
+    2: 5
+  }
+  5 {
+    1: 12
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 2158
+  }
+  5 {
+    1: 33
+  }
+  5 {
+    1: 25
+    2: 50
+  }
+  5 {
+    1: 51
+    2: 3
+  }
+  5 {
+    1: 14
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 414
+  }
+  5 {
+    1: 41
+    2: 7
+    3: 1
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 2176
+  }
+  5 {
+    1: 33
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 51
+    2: 3
+  }
+  5 {
+    1: 14
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 2182
+  }
+  5 {
+    1: 33
+  }
+  5 {
+    1: 25
+    2: 500
+  }
+  5 {
+    1: 51
+    2: 3
+  }
+  5 {
+    1: 14
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 18
+  }
+  5 {
+    1: 41
+    2: 7
+    3: 1
+  }
+  5 {
+    1: 25
+    2: 6
+  }
+  5 {
+    1: 7
+  }
+  5 {
+    1: 37
+    2: 2191
+  }
+  5 {
+    1: 29
+    2: 6
+  }
+  5 {
+    1: 12
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 2191
+  }
+  5 {
+    1: 25
+    2: 255
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 41
+    2: 25
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 5
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 25
+    2: 3
+  }
+  5 {
+    1: 41
+    2: 3
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 45
+  }
+  5 {
+    1: 35
+    2: 2221
+  }
+  5 {
+    1: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+  }
+  5 {
+    1: 51
+    2: 1
+  }
+  5 {
+    1: 51
+    2: 2
+  }
+  5 {
+    1: 51
+    2: 4
+  }
+  5 {
+    1: 51
+    2: 5
+  }
+  5 {
+    1: 51
+    2: 3
+  }
+  5 {
+    1: 51
+    2: 6
+  }
+  5 {
+    1: 45
+  }
+  5 {
+    1: 35
+    2: 2376
+  }
+  5 {
+    1: 24
+    2: 7
+  }
+  5 {
+    1: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 42
+  }
+  5 {
+    1: 47
+  }
+  5 {
+    1: 48
+  }
+  5 {
+    1: 49
+  }
+  5 {
+    1: 25
+    2: 465
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 18
+  }
+  5 {
+    1: 41
+    2: 7
+    3: 1
+  }
+  5 {
+    1: 25
+    2: 6
+  }
+  5 {
+    1: 7
+  }
+  5 {
+    1: 37
+    2: 2237
+  }
+  5 {
+    1: 25
+    2: 466
+  }
+  5 {
+    1: 25
+    2: 467
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 2241
+  }
+  5 {
+    1: 25
+    2: 468
+  }
+  5 {
+    1: 25
+    2: 469
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 470
+  }
+  5 {
+    1: 25
+    2: 471
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 329
+  }
+  5 {
+    1: 41
+    2: 7
+    3: 1
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 2255
+  }
+  5 {
+    1: 25
+    2: 472
+  }
+  5 {
+    1: 25
+    2: 473
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 2259
+  }
+  5 {
+    1: 25
+    2: 474
+  }
+  5 {
+    1: 25
+    2: 475
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 476
+  }
+  5 {
+    1: 25
+    2: 477
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 414
+  }
+  5 {
+    1: 41
+    2: 7
+    3: 1
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 2273
+  }
+  5 {
+    1: 25
+    2: 478
+  }
+  5 {
+    1: 25
+    2: 479
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 2277
+  }
+  5 {
+    1: 25
+    2: 480
+  }
+  5 {
+    1: 25
+    2: 481
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 42
+  }
+  5 {
+    1: 47
+  }
+  5 {
+    1: 48
+  }
+  5 {
+    1: 49
+  }
+  5 {
+    1: 25
+    2: 482
+  }
+  5 {
+    1: 25
+    2: 483
+  }
+  5 {
+    1: 41
+    2: 26
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 484
+  }
+  5 {
+    1: 41
+    2: 7
+    3: 1
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 2298
+  }
+  5 {
+    1: 25
+    2: 482
+  }
+  5 {
+    1: 25
+    2: 485
+  }
+  5 {
+    1: 41
+    2: 26
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 2298
+  }
+  5 {
+    1: 25
+    2: 486
+  }
+  5 {
+    1: 25
+    2: 487
+  }
+  5 {
+    1: 41
+    2: 26
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 205
+  }
+  5 {
+    1: 41
+    2: 7
+    3: 1
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 2312
+  }
+  5 {
+    1: 25
+    2: 486
+  }
+  5 {
+    1: 25
+    2: 488
+  }
+  5 {
+    1: 41
+    2: 26
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 2312
+  }
+  5 {
+    1: 25
+    2: 489
+  }
+  5 {
+    1: 25
+    2: 490
+  }
+  5 {
+    1: 41
+    2: 26
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 294
+  }
+  5 {
+    1: 41
+    2: 7
+    3: 1
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 2326
+  }
+  5 {
+    1: 25
+    2: 489
+  }
+  5 {
+    1: 25
+    2: 491
+  }
+  5 {
+    1: 41
+    2: 26
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 2326
+  }
+  5 {
+    1: 25
+    2: 492
+  }
+  5 {
+    1: 25
+    2: 493
+  }
+  5 {
+    1: 41
+    2: 26
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 429
+  }
+  5 {
+    1: 41
+    2: 7
+    3: 1
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 2340
+  }
+  5 {
+    1: 25
+    2: 492
+  }
+  5 {
+    1: 25
+    2: 494
+  }
+  5 {
+    1: 41
+    2: 26
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 2340
+  }
+  5 {
+    1: 25
+    2: 495
+  }
+  5 {
+    1: 25
+    2: 496
+  }
+  5 {
+    1: 41
+    2: 26
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 13
+  }
+  5 {
+    1: 41
+    2: 7
+    3: 1
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 2354
+  }
+  5 {
+    1: 25
+    2: 495
+  }
+  5 {
+    1: 25
+    2: 497
+  }
+  5 {
+    1: 41
+    2: 26
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 2354
+  }
+  5 {
+    1: 25
+    2: 498
+  }
+  5 {
+    1: 25
+    2: 499
+  }
+  5 {
+    1: 41
+    2: 26
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 329
+  }
+  5 {
+    1: 41
+    2: 7
+    3: 1
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 2368
+  }
+  5 {
+    1: 25
+    2: 498
+  }
+  5 {
+    1: 25
+    2: 500
+  }
+  5 {
+    1: 41
+    2: 26
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 2368
+  }
+  5 {
+    1: 25
+    2: 501
+  }
+  5 {
+    1: 25
+    2: 502
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 42
+  }
+  5 {
+    1: 47
+  }
+  5 {
+    1: 48
+  }
+  5 {
+    1: 49
+    2: 1
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 51
+    2: 18446744073709551607
+  }
+  5 {
+    1: 51
+    2: 18446744073709551608
+  }
+  5 {
+    1: 14
+  }
+  5 {
+    1: 51
+    2: 18446744073709551609
+  }
+  5 {
+    1: 14
+  }
+  5 {
+    1: 25
+    2: 5
+  }
+  5 {
+    1: 51
+    2: 18446744073709551611
+  }
+  5 {
+    1: 16
+  }
+  5 {
+    1: 14
+  }
+  5 {
+    1: 25
+    2: 5
+  }
+  5 {
+    1: 51
+    2: 18446744073709551613
+  }
+  5 {
+    1: 16
+  }
+  5 {
+    1: 14
+  }
+  5 {
+    1: 25
+    2: 5
+  }
+  5 {
+    1: 51
+    2: 18446744073709551610
+  }
+  5 {
+    1: 16
+  }
+  5 {
+    1: 14
+  }
+  5 {
+    1: 51
+    2: 18446744073709551612
+  }
+  5 {
+    1: 25
+    2: 50
+  }
+  5 {
+    1: 17
+  }
+  5 {
+    1: 14
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 503
+  }
+  5 {
+    1: 51
+    2: 18446744073709551607
+  }
+  5 {
+    1: 41
+    2: 22
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 504
+  }
+  5 {
+    1: 51
+    2: 18446744073709551608
+  }
+  5 {
+    1: 41
+    2: 22
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 18
+  }
+  5 {
+    1: 51
+    2: 18446744073709551609
+  }
+  5 {
+    1: 41
+    2: 22
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 463
+  }
+  5 {
+    1: 51
+    2: 18446744073709551611
+  }
+  5 {
+    1: 41
+    2: 22
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 464
+  }
+  5 {
+    1: 51
+    2: 18446744073709551613
+  }
+  5 {
+    1: 41
+    2: 22
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 462
+  }
+  5 {
+    1: 51
+    2: 18446744073709551610
+  }
+  5 {
+    1: 41
+    2: 22
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 461
+  }
+  5 {
+    1: 51
+    2: 18446744073709551612
+  }
+  5 {
+    1: 41
+    2: 22
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 505
+  }
+  5 {
+    1: 51
+    2: 18446744073709551611
+  }
+  5 {
+    1: 25
+    2: 5
+  }
+  5 {
+    1: 16
+  }
+  5 {
+    1: 41
+    2: 22
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 506
+  }
+  5 {
+    1: 51
+    2: 18446744073709551613
+  }
+  5 {
+    1: 25
+    2: 5
+  }
+  5 {
+    1: 16
+  }
+  5 {
+    1: 41
+    2: 22
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 507
+  }
+  5 {
+    1: 51
+    2: 18446744073709551610
+  }
+  5 {
+    1: 25
+    2: 5
+  }
+  5 {
+    1: 16
+  }
+  5 {
+    1: 41
+    2: 22
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 508
+  }
+  5 {
+    1: 51
+    2: 18446744073709551612
+  }
+  5 {
+    1: 25
+    2: 50
+  }
+  5 {
+    1: 17
+  }
+  5 {
+    1: 41
+    2: 22
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 509
+  }
+  5 {
+    1: 51
+  }
+  5 {
+    1: 41
+    2: 22
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 510
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 45
+  }
+  5 {
+    1: 35
+    2: 2281
+  }
+  5 {
+    1: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 511
+  }
+  5 {
+    1: 25
+    2: 512
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 513
+  }
+  5 {
+    1: 25
+    2: 514
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 42
+  }
+}
+8 {
+  1: "recruit_anu"
+  2 {
+    1 {
+      2: 30
+    }
+  }
+}
+9 {
+  1 {
+    1 {
+      13: 0x796d72615f6e6f63
+    }
+    2: "ICON_SWORD"
+  }
+  1 {
+    1: "icon_cunning"
+    2: "ICON_CUNNING"
+  }
+  3 {
+    1: "stat_prestige"
+    2: "STAT_PRESTIGE"
+  }
+  3 {
+    1: "stat_power"
+    2: "STAT_MAGIC"
+  }
+}

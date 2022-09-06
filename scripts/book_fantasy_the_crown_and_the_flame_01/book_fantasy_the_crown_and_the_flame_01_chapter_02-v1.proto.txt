@@ -1,0 +1,15009 @@
+1 {
+  2 {
+    1: 1
+  }
+  3: "Two years later, Luther Nevrakis is King of Stormholt, but Kenna and Dominic spy a chance to take back the kingdom!"
+  5 {
+    1 {
+      2: 1
+    }
+  }
+  9: 1
+}
+2 {
+  1: "STAT_PRESTIGE"
+  2: "STAT_MAX_PRESTIGE"
+  4: 2
+  5: 3
+  6: 1
+  7 {
+    1: "ICON_PRESTIGE"
+    2 {
+      1: 180
+      2: 180
+      3: 250
+    }
+    3 {
+      1: 255
+      2: 255
+      3: 255
+    }
+  }
+  9 {
+    1: "crown"
+    2: "Not enough prestige"
+    3 {
+      1: 255
+      2: 255
+      3: 255
+    }
+    4 {
+      1: 255
+      2: 255
+      3: 255
+    }
+    5 {
+      1: 180
+      2: 180
+      3: 250
+    }
+  }
+}
+2 {
+  1: "STAT_MAGIC"
+  2: "STAT_MAX_MAGIC"
+  4: 2
+  5: 2
+  6: 4
+  7 {
+    1: "ICON_MAGIC"
+    2 {
+      1: 255
+      2: 64
+      3: 64
+    }
+    3 {
+      1: 255
+      2: 255
+      3: 255
+    }
+  }
+  9 {
+    1: "flame"
+    2: "Not enough magic"
+    3 {
+      1: 255
+      2: 255
+      3: 255
+    }
+    4 {
+      1: 255
+      2: 255
+      3: 255
+    }
+    5 {
+      1: 255
+      2: 64
+      3: 64
+    }
+  }
+}
+3 {
+  1: "MUSIC_FANTASY_EPIC"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/music/music_fantasy_epic-v01.mp3"
+  }
+}
+3 {
+  1: "PORTRAIT_NEVRAKIS_SOLDIER_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_other_other_knight_helmet_alt1-v01.plist"
+  }
+}
+3 {
+  1: "DEP_BG_INT_CASTLE_CORRIDOR"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/backgrounds/large/bg_fantasy_int_corridor_castle_day-v01.jpg"
+  }
+}
+3 {
+  1: "PORTRAIT_MARGARET"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_female_white_servant_motherly-v01.png"
+  }
+}
+3 {
+  1: "DEP_PARTICLE_SUNLIGHT"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/ccbi_images/3x/sunlight_particle.png"
+  }
+}
+3 {
+  1: "PORTRAIT_CUSTOM_KENNA_HAIR_B_BROWN"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_hair_b_brown-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_CUSTOM_KENNA_OUTFIT_DEFAULT"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_outfit_default-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_CUSTOM_DOM_FACE_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_dom_face-v01.plist"
+  }
+}
+3 {
+  1: "DEP_BG_EXT_STORMHOLT_NIGHT"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/backgrounds/large/bg_fantasy_ext_stormholt_outside_night_siege-v01.jpg"
+  }
+}
+3 {
+  1: "PORTRAIT_MARCO_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_main_marco-v01.plist"
+  }
+}
+3 {
+  1: "PORTRAIT_TEVAN_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_male_hispanic_prince_handsome-v01.plist"
+  }
+}
+3 {
+  1: "BG_INT_TEMPLE_RUINS"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/ccbi/bg_fantasy_int_temple_ruins_day-v01.ccbi"
+  }
+}
+3 {
+  1: "DEP_BG_INT_THRONE_ROOM"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/backgrounds/large/bg_fantasy_int_throne_room_day-v01.jpg"
+  }
+}
+3 {
+  1: "PORTRAIT_HELENE"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_female_white_knight_captain-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_LUTHER_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_male_white_king_evil-v01.plist"
+  }
+}
+3 {
+  1: "ICON_HEART"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/icons/3x/icon_generic_heart-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_MONK"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_male_eastasian_monk_hooded-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_CUSTOM_DOM_HAIR_F_BLONDE"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_dom_hair_f_blonde-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_CUSTOM_DOM_OUTFIT_DEFAULT"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_dom_outfit_default-v01.png"
+  }
+}
+3 {
+  1: "MUSIC_FANTASY_TENSE"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/music/music_fantasy_tense-v01.mp3"
+  }
+}
+3 {
+  1: "BG_INT_THRONE_ROOM"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/ccbi/bg_fantasy_int_throne_room_day-v01.ccbi"
+  }
+}
+3 {
+  1: "PORTRAIT_GABRIEL_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_main_gabriel-v01.plist"
+  }
+}
+3 {
+  1: "DEP_BG_EXT_WORLD_MAP"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/backgrounds/large/bg_fantasy_ext_world_map_neutral-v01.jpg"
+  }
+}
+3 {
+  1: "PORTRAIT_MARCO"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_main_marco-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_SOLDIER2_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_other_other_knight_helmet_alt2-v01.plist"
+  }
+}
+3 {
+  1: "IMG_MENU_DOUBLE_SWORD"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/images/3x/img_menu_item_fantasy_sword_double-v01.png"
+  }
+}
+3 {
+  1: "MUSIC_FANTASY_AMBIENCE"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/music/music_fantasy_ambience-v01.mp3"
+  }
+}
+3 {
+  1: "PORTRAIT_MONK_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_male_eastasian_monk_hooded-v01.plist"
+  }
+}
+3 {
+  1: "PORTRAIT_ROSE_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_main_rose-v01.plist"
+  }
+}
+3 {
+  1: "PORTRAIT_CUSTOM_KENNA_HAIR_F_BROWN"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_hair_f_brown-v01.png"
+  }
+}
+3 {
+  1: "ICON_MAGIC"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/icons/3x/icon_fantasy_flame-v01.png"
+  }
+}
+3 {
+  1: "DEP_BG_EXT_RUINS_DAY"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/backgrounds/large/bg_fantasy_ext_temple_ruins_day-v01.jpg"
+  }
+}
+3 {
+  1: "BG_INT_CASTLE_KITCHEN"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/ccbi/bg_fantasy_int_kitchen_cozy_day-v01.ccbi"
+  }
+}
+3 {
+  1: "PORTRAIT_NEVRAKIS_SOLDIER"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_other_other_knight_helmet_alt1-v01.png"
+  }
+}
+3 {
+  1: "MUSIC_FANTASY_LOVE"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/music/music_fantasy_love-v01.mp3"
+  }
+}
+3 {
+  1: "PORTRAIT_HELENE_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_female_white_knight_captain-v01.plist"
+  }
+}
+3 {
+  1: "BG_EXT_WORLD_MAP"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/ccbi/bg_fantasy_ext_world_map_neutral-v01.ccbi"
+  }
+}
+3 {
+  1: "BG_INT_DOM_BEDROOM"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/ccbi/bg_fantasy_int_bedroom_small_day-v01.ccbi"
+  }
+}
+3 {
+  1: "PORTRAIT_CUSTOM_KENNA_FACE_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_face-v01.plist"
+  }
+}
+3 {
+  1: "MUSIC_FANTASY_SAD"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/music/music_fantasy_sad-v01.mp3"
+  }
+}
+3 {
+  1: "MUSIC_FANTASY_MYSTICAL"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/music/music_fantasy_mystical-v01.mp3"
+  }
+}
+3 {
+  1: "DEP_PARTICLE_STAR"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/ccbi_images/3x/star_particle.png"
+  }
+}
+3 {
+  1: "ICON_PRESTIGE"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/icons/3x/icon_fantasy_crown-v01.png"
+  }
+}
+3 {
+  1: "ICON_SWORD"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/icons/3x/icon_fantasy_sword-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_HAWK_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_other_other_hawk_pet-v01.plist"
+  }
+}
+3 {
+  1: "BG_INT_CASTLE_CORRIDOR"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/ccbi/bg_fantasy_int_corridor_castle_day-v01.ccbi"
+  }
+}
+3 {
+  1: "PORTRAIT_SOLDIER4_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_other_other_knight_helmet_alt4-v01.plist"
+  }
+}
+3 {
+  1: "PORTRAIT_MARGARET_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_female_white_servant_motherly-v01.plist"
+  }
+}
+3 {
+  1: "PORTRAIT_CUSTOM_KENNA_FACE"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_face-v01.png"
+  }
+}
+3 {
+  1: "DEP_BG_INT_CASTLE_KITCHEN"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/backgrounds/large/bg_fantasy_int_kitchen_cozy_day-v01.jpg"
+  }
+}
+3 {
+  1: "PORTRAIT_CUSTOM_DOM_BODY"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_dom_body-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_CUSTOM_DOM_FACE"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_dom_face-v01.png"
+  }
+}
+3 {
+  1: "MUSIC_FANTASY_SINISTER"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/music/music_fantasy_sinister-v01.mp3"
+  }
+}
+3 {
+  1: "PORTRAIT_CUSTOM_KENNA_BODY"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_body-v01.png"
+  }
+}
+3 {
+  1: "DEP_BG_INT_DOM_BEDROOM"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/backgrounds/large/bg_fantasy_int_bedroom_small_day-v01.jpg"
+  }
+}
+3 {
+  1: "BG_EXT_STORMHOLT_NIGHT"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/ccbi/bg_fantasy_ext_stormholt_outside_night_siege-v01.ccbi"
+  }
+}
+3 {
+  1: "PORTRAIT_CUSTOM_DOM_HAIR_B_BLONDE"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_dom_hair_b_blonde-v01.png"
+  }
+}
+3 {
+  1: "BG_EXT_RUINS_DAY"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/ccbi/bg_fantasy_ext_temple_ruins_day-v01.ccbi"
+  }
+}
+3 {
+  1: "PORTRAIT_ROSE"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_main_rose-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_SOLDIER3_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_other_other_knight_helmet_alt3-v01.plist"
+  }
+}
+3 {
+  1: "PORTRAIT_HAWK"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_other_other_hawk_pet-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_LUTHER"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_male_white_king_evil-v01.png"
+  }
+}
+3 {
+  1: "IMG_MENU_MAGIC_ORB"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/images/3x/img_menu_item_fantasy_orb_magic-v01.png"
+  }
+}
+3 {
+  1: "DEP_BG_INT_TEMPLE_RUINS"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/backgrounds/large/bg_fantasy_int_temple_ruins_day-v01.jpg"
+  }
+}
+3 {
+  1: "PORTRAIT_GABRIEL"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_main_gabriel-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_TRYSTAN"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_male_white_boy_blond-v01.png"
+  }
+}
+3 {
+  1: "DEP_PARTICLE_FIRE"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/ccbi_images/3x/fire_particle.png"
+  }
+}
+3 {
+  1: "IMG_MENU_SHORT_SWORD"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/images/3x/img_menu_item_fantasy_sword_short-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_CUSTOM_KENNA_PROP_F"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_prop_f_cloak_hood-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_SOLDIER2"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_other_other_knight_helmet_alt2-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_TEVAN"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_male_hispanic_prince_handsome-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_BARTEL"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_male_white_ranger_evil-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_SOLDIER3"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_other_other_knight_helmet_alt3-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_SOLDIER4"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_other_other_knight_helmet_alt4-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_BARTEL_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_male_white_ranger_evil-v01.plist"
+  }
+}
+3 {
+  1: "PORTRAIT_TRYSTAN_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_male_white_boy_blond-v01.plist"
+  }
+}
+4 {
+  1: "PORTRAIT_CUSTOM_KENNA_OUTFIT_ARMOR"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_outfit_armor-v01.png"
+  }
+}
+4 {
+  1: "PORTRAIT_CUSTOM_KENNA_OUTFIT_ARMOR_VICTORIAN"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_outfit_armor_victorian-v01.png"
+  }
+}
+4 {
+  1: "PORTRAIT_CUSTOM_KENNA_OUTFIT_GOWN_BLACK"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_outfit_gown_black-v01.png"
+  }
+}
+4 {
+  1: "PORTRAIT_CUSTOM_KENNA_OUTFIT_GOWN_WARRIOR"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_outfit_gown_warrior-v01.png"
+  }
+}
+4 {
+  1: "PORTRAIT_CUSTOM_KENNA_OUTFIT_GOWN_WHITE"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_outfit_gown_white-v01.png"
+  }
+}
+4 {
+  1: "PORTRAIT_CUSTOM_KENNA_OUTFIT_GOWN_PURPLE"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_outfit_gown_satin_purple-v01.png"
+  }
+}
+4 {
+  1: "PORTRAIT_CUSTOM_KENNA_OUTFIT_GOWN_WINTER"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_outfit_gown_winter-v01.png"
+  }
+}
+4 {
+  1: "PORTRAIT_CUSTOM_KENNA_OUTFIT_PEASANT"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_outfit_peasant-v01.png"
+  }
+}
+4 {
+  1: "PORTRAIT_CUSTOM_KENNA_OUTFIT_DRESS_BLUE"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_outfit_dress_medieval_blue-v01.png"
+  }
+}
+4 {
+  1: "PORTRAIT_CUSTOM_KENNA_PROP_B_ARMOR_CAPE"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_prop_b_armor_cape-v01.png"
+  }
+}
+4 {
+  1: "PORTRAIT_CUSTOM_KENNA_HAIR_B_ARMOR_BROWN"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_hair_b_armor_brown-v01.png"
+  }
+}
+4 {
+  1: "PORTRAIT_CUSTOM_KENNA_HAIR_B_UPDO_BROWN"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_hair_b_updo_brown-v01.png"
+  }
+}
+4 {
+  1: "PORTRAIT_CUSTOM_KENNA_HAIR_F_ARMOR_BROWN"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_hair_f_armor_brown-v01.png"
+  }
+}
+4 {
+  1: "PORTRAIT_CUSTOM_KENNA_HAIR_F_UPDO_BROWN"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_hair_f_updo_brown-v01.png"
+  }
+}
+4 {
+  1: "PORTRAIT_CUSTOM_KENNA_HAIR_F_BRAIDED_BROWN"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_hair_f_brown_braided-v01.png"
+  }
+}
+4 {
+  1: "PORTRAIT_CUSTOM_DOM_OUTFIT_PANTS"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_dom_outfit_pants-v01.png"
+  }
+}
+4 {
+  1: "PORTRAIT_CUSTOM_KENNA_PROP_F_CROWN"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_prop_f_crown_silver-v01.png"
+  }
+}
+4 {
+  1: "PORTRAIT_CUSTOM_KENNA_PROP_B_CLOAK_HOOD"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_prop_b_cloak_hood-v01.png"
+  }
+}
+4 {
+  1: "PORTRAIT_CUSTOM_KENNA_PROP_F_CLOAK_HOOD"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_fantasy_main_kenna_prop_f_cloak_hood-v01.png"
+  }
+}
+4 {
+  1: "PORTRAIT_MONK_INJURED"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_male_eastasian_monk_injured-v01.png"
+  }
+}
+4 {
+  1: "PORTRAIT_MONK_INJURED_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_male_eastasian_monk_injured-v01.plist"
+  }
+}
+4 {
+  1: "PORTRAIT_MARCO_CUT"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_main_marco_cut-v01.png"
+  }
+}
+4 {
+  1: "PORTRAIT_MARCO_CUT_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_main_marco_cut-v01.plist"
+  }
+}
+4 {
+  1: "PORTRAIT_MARCO_SCARRED"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_main_marco_scarred-v01.png"
+  }
+}
+4 {
+  1: "PORTRAIT_MARCO_SCARRED_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_main_marco_scarred-v01.plist"
+  }
+}
+4 {
+  1: "PORTRAIT_FLESHLOCK"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_male_hispanic_boy_cyborg_sleeves-v01.png"
+  }
+}
+4 {
+  1: "PORTRAIT_FLESHLOCK_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_fantasy_male_hispanic_boy_cyborg_sleeves-v01.plist"
+  }
+}
+5 {
+  1: "fantasy"
+}
+6 {
+  1: "Soldier"
+  2 {
+    1: "Soldier"
+    2: "Nevrakis Soldier"
+    3 {
+      1: "PORTRAIT_NEVRAKIS_SOLDIER"
+      2: "PORTRAIT_NEVRAKIS_SOLDIER_PLIST"
+    }
+  }
+}
+6 {
+  1: "Helene"
+  2 {
+    1: "Helene"
+    2: "Helene Leventis"
+    3 {
+      1: "PORTRAIT_HELENE"
+      2: "PORTRAIT_HELENE_PLIST"
+    }
+  }
+}
+6 {
+  1: "Gabriel"
+  2 {
+    1: "Gabriel"
+    2: "Gabriel Amarne"
+    3 {
+      1: "PORTRAIT_GABRIEL"
+      2: "PORTRAIT_GABRIEL_PLIST"
+    }
+  }
+}
+6 {
+  1: "Trystan"
+  2 {
+    1: "Trystan"
+    2: "Trystan Blake"
+    3 {
+      1: "PORTRAIT_TRYSTAN"
+      2: "PORTRAIT_TRYSTAN_PLIST"
+    }
+  }
+}
+6 {
+  1: "Monk"
+  2 {
+    1: "Monk"
+    3 {
+      1: "PORTRAIT_MONK"
+      2: "PORTRAIT_MONK_PLIST"
+    }
+  }
+}
+6 {
+  1: "Rose"
+  2 {
+    1: "Rose"
+    2: "Rose Blake"
+    3 {
+      1: "PORTRAIT_ROSE"
+      2: "PORTRAIT_ROSE_PLIST"
+    }
+  }
+}
+6 {
+  1: "Margaret"
+  2 {
+    1: "Margaret"
+    2: "Margaret Blake"
+    3 {
+      1: "PORTRAIT_MARGARET"
+      2: "PORTRAIT_MARGARET_PLIST"
+    }
+  }
+}
+6 {
+  1: "Kenna"
+  2 {
+    1: "Kenna"
+    2: "Kenna Rys"
+    4 {
+      1 {
+        1: "PROP_B"
+        2 {
+          1: "PORTRAIT_CUSTOM_KENNA_OUTFIT_DEFAULT"
+        }
+      }
+      1 {
+        1: "HAIR_B"
+        2 {
+          1: "PORTRAIT_CUSTOM_KENNA_HAIR_B_BROWN"
+        }
+      }
+      1 {
+        1: "BODY"
+        2 {
+          1: "PORTRAIT_CUSTOM_KENNA_BODY"
+        }
+      }
+      1 {
+        1: "OUTFIT"
+        2 {
+          1: "PORTRAIT_CUSTOM_KENNA_OUTFIT_DEFAULT"
+        }
+      }
+      1 {
+        1: "FACE"
+        2 {
+          1: "PORTRAIT_CUSTOM_KENNA_FACE"
+          2: "PORTRAIT_CUSTOM_KENNA_FACE_PLIST"
+        }
+      }
+      1 {
+        1: "HAIR_F"
+        2 {
+          1: "PORTRAIT_CUSTOM_KENNA_HAIR_F_BROWN"
+        }
+      }
+      1 {
+        1: "PROP_F"
+        2 {
+          1: "PORTRAIT_CUSTOM_KENNA_PROP_F"
+        }
+      }
+    }
+  }
+}
+6 {
+  1: "Dom"
+  2 {
+    1: "Dom"
+    2: "Dominic Hunter"
+    4 {
+      1 {
+        1: "HAIR_B"
+        2 {
+          1: "PORTRAIT_CUSTOM_DOM_HAIR_B_BLONDE"
+        }
+      }
+      1 {
+        1: "BODY"
+        2 {
+          1: "PORTRAIT_CUSTOM_DOM_BODY"
+        }
+      }
+      1 {
+        1: "FACE"
+        2 {
+          1: "PORTRAIT_CUSTOM_DOM_FACE"
+          2: "PORTRAIT_CUSTOM_DOM_FACE_PLIST"
+        }
+      }
+      1 {
+        1: "OUTFIT"
+        2 {
+          1: "PORTRAIT_CUSTOM_DOM_OUTFIT_DEFAULT"
+        }
+      }
+      1 {
+        1: "HAIR_F"
+        2 {
+          1: "PORTRAIT_CUSTOM_DOM_HAIR_F_BLONDE"
+        }
+      }
+    }
+  }
+}
+6 {
+  1: "Hawk"
+  2 {
+    1: "Hawk"
+    2: "Talon"
+    3 {
+      1: "PORTRAIT_HAWK"
+      2: "PORTRAIT_HAWK_PLIST"
+    }
+  }
+}
+6 {
+  1: "Tevan"
+  2 {
+    1: "Tevan"
+    2: "Prince Tevan"
+    3 {
+      1: "PORTRAIT_TEVAN"
+      2: "PORTRAIT_TEVAN_PLIST"
+    }
+  }
+}
+6 {
+  1 {
+    9: 0x6f637261
+  }
+  2 {
+    1 {
+      9: 0x6f637261
+    }
+    2: "Prince Marco"
+    3 {
+      1: "PORTRAIT_MARCO"
+      2: "PORTRAIT_MARCO_PLIST"
+    }
+  }
+}
+6 {
+  1: "Soldier2"
+  2 {
+    1: "Soldier2"
+    2: "Nevrakis Soldier"
+    3 {
+      1: "PORTRAIT_SOLDIER2"
+      2: "PORTRAIT_SOLDIER2_PLIST"
+    }
+  }
+}
+6 {
+  1: "Soldier3"
+  2 {
+    1: "Soldier3"
+    2: "Nevrakis Soldier"
+    3 {
+      1: "PORTRAIT_SOLDIER3"
+      2: "PORTRAIT_SOLDIER3_PLIST"
+    }
+  }
+}
+6 {
+  1: "Soldier4"
+  2 {
+    1: "Soldier4"
+    2: "Nevrakis Soldier"
+    3 {
+      1: "PORTRAIT_SOLDIER4"
+      2: "PORTRAIT_SOLDIER4_PLIST"
+    }
+  }
+}
+6 {
+  1: "Luther"
+  2 {
+    1: "Luther"
+    2: "King Luther"
+    3 {
+      1: "PORTRAIT_LUTHER"
+      2: "PORTRAIT_LUTHER_PLIST"
+    }
+  }
+}
+6 {
+  1: "Bartel"
+  2 {
+    1: "Bartel"
+    2: "Bartel Gremley"
+    3 {
+      1: "PORTRAIT_BARTEL"
+      2: "PORTRAIT_BARTEL_PLIST"
+    }
+  }
+}
+7 {
+  1: 1
+  2: "OfferRestartChapter"
+  2: "EndChapter"
+  2: "ClearPortraitLayer"
+  2: "BgDissolveImage"
+  2: "Evt"
+  2: "PlayMusic"
+  2: "BgDissolveColor"
+  2: "SetPrimaryChar"
+  2: "Dlg"
+  2: "GetBookVar"
+  2: "CreateMenu"
+  2: "SetMenuCharacter"
+  2: "AddMenuChoice"
+  2: "ShowMenu"
+  2: "StatToast"
+  2: "KeyboardEntry"
+  2: "RenameCharacter"
+  2: "FadeMusic"
+  2: "ClearCustomCharInfo"
+  2: "BgImage"
+  2: "CreateVisualMenu"
+  2: "AddVisualChoice"
+  2: "MajorToast"
+  2: "MinorToast"
+  2: "AddMenuChoiceStatLocked"
+  2: "SetBookVarInt"
+  2: "AddVisualChoicePremium"
+  2: "SaveCheckpoint"
+  2: "BgColor"
+  2: "LoadCheckpoint"
+  2: "BgPan"
+  2: "AddMenuChoicePremium"
+  2: "SetBookVarString"
+  3: "CHAPTER COMPLETE"
+  3: "You\'ve reached the end of the chapter. Restart this chapter to try other choices or continue on to the next chapter."
+  3: "Restart Chapter"
+  3: "Continue On"
+  3: "Kenna"
+  3: "PROP_B"
+  3: "PROP_F"
+  3: "BG_EXT_WORLD_MAP"
+  3: "Chapter Two: The Ruins of Rajkur"
+  3: "MUSIC_FANTASY_MYSTICAL"
+  3: "BG_INT_CASTLE_CORRIDOR"
+  3: "Dom"
+  3: "<tangerine>Now playing as Dominic.</tangerine>\n\nTwo years after King Luther seized Stormholt, you\'re living in the castle, disguised as a common servant."
+  3: "Today, you\'re helping Trystan and Margaret carry large sacks of flour to the kitchens..."
+  3: "All this just for dinner tonight? I swear, we\'re carrying a week\'s worth here!"
+  3: "Trystan"
+  3: "Just about. We\'re cooking double. Another battalion of soldiers arrived at Stormholt last night, and we\'ve got to feed them all."
+  3: "Margaret"
+  3: "King Luther forces nearly every able-bodied person in the Five Kingdoms into his army. It\'s no wonder we\'re overflowing with soldiers."
+  3: "SAD"
+  3: "Another battalion... I\'ve got to figure out what\'s going on and send word to Kenna."
+  3: "marco_reaction"
+  3: "I\'ve never understood why you help her. When I met her, she didn\'t seem that different from Marco."
+  3: "He treated me like dirt, and <i>she</i> apologized <i>to him.</i>"
+  3: "You have to understand, Trystan, she was playing a role. Believe me, she felt awful. I\'m sure of it."
+  3: "I know if we can overthrow Marco..."
+  3: "Hush! There\'s soldiers up ahead! You want them to hear you?"
+  3: "Down the corridor, you spot a woman in armor arguing with a soldier."
+  3: "Helene"
+  3: "I won\'t tolerate another mistake. Prince Marco has been too lenient with you."
+  3: "ANGRY"
+  3: "Soldier"
+  3: "Every soldier in the barracks will be ready for inspection within the hour. I swear it."
+  3: "You don\'t see that every day. I wonder who she is."
+  3: "I think she must be..."
+  3: "NEUTRAL"
+  3: "A military officer."
+  3: "Prince Marco\'s wife."
+  3: "STAT_MAGIC"
+  3: "Power +1"
+  3: "Dressed in full armor? She\'s got to be someone important in Luther\'s army."
+  3: "Really? Dressed like that?"
+  3: "SURPRISED"
+  3: "Good point. She does seem more like a military officer than a lady of the court..."
+  3: "Yeah, plus she doesn\'t seem too fond of Marco either."
+  3: "Enough gossip, you two. We\'ve got work to do."
+  3: "BG_INT_CASTLE_KITCHEN"
+  3: "Back in the kitchens..."
+  3: "My goodness, they want venison tonight for the high table... I hope we have enough."
+  3: "Yeah, and we better hurry with it. My back <i>still</i> hasn\'t finished healing from my last whipping."
+  3: "As you work, you hear a tapping at the window."
+  3: "Hawk"
+  3: "..."
+  3: "Hawkie"
+  3: "Hawkie is back!"
+  3: "HAPPY"
+  3: "I told you, he only answers to..."
+  3: "Enter the hawk\'s name."
+  3: ""
+  3: "<i>Prrr!</i>"
+  3: "You cut off a small piece of venison, and {Hawk} eats it out of your hand."
+  3: "Chirrup!"
+  3: "{Hawk} looks longingly at the sky."
+  3: "Not yet, my friend. When we have news for Kenna... then I\'ll send you off."
+  3: "Brrt!"
+  3: "Your hawk is as restless as you are, Dom."
+  3: "I don\'t blame him. But he\'s the lucky one. He gets to fly away from this place..."
+  3: "And he\'ll get to see Kenna again long before I ever will."
+  3: "BG_EXT_RUINS_DAY"
+  3: "<orchid>Now playing as Kenna.</orchid>\n\nYou\'re living in a hidden mountain monastery with Gabriel and the monks who run it."
+  3: "As another morning dawns, you carry two buckets of water up the hill and into the monastery."
+  3: "MUSIC_FANTASY_SAD"
+  3: "BG_INT_TEMPLE_RUINS"
+  3: "You set them down in front of Gabriel and one of the monks."
+  3: "Gabriel"
+  3: "Look at you. There was a time when carrying just one bucket left you out of breath."
+  3: "I was a castle girl back then."
+  3: "Monk"
+  3: "Now you are something stronger. Why do you push yourself? Most queens would leave the hard work to others."
+  3: "Most queens have kingdoms."
+  3: "Good answer. Are you ready to train with me this morning?"
+  3: "I\'m always ready."
+  3: "The monk gestures to the sword Gabriel gave you, hanging on a rack on the wall. You eye the weapon in the monk\'s hands... a rod with a blade on both ends."
+  3: "Examine"
+  3: "Kor-Kitar"
+  3: "IMG_MENU_DOUBLE_SWORD"
+  3: "When do I get to use that one?"
+  3: "Only the most skilled monks are allowed to use the <lemon>kor-kitar</lemon>."
+  3: "You are not yet ready for it."
+  3: "You pick up your sword..."
+  3: "Choose your weapon!"
+  3: "Short Sword"
+  3: "IMG_MENU_SHORT_SWORD"
+  3: "Life\'s Too Short"
+  3: "You\'ve obtained the short sword!"
+  3: "ICON_SWORD"
+  3: "+5 Army"
+  3: "I\'ll make do with this."
+  3: "Let\'s begin."
+  3: "MUSIC_FANTASY_TENSE"
+  3: "(I should...)"
+  3: "Deflect the kor-kitar!"
+  3: "Cut through the kor-kitar!"
+  3: "Freeze!"
+  3: "You knock the kor-kitar to the side with the flat of your sword, shoving it away."
+  3: "You try to chop the kor-kitar, but your blade only clangs against it."
+  3: "The monk swivels and the flat of the kor-kitar\'s lower blade smacks you right below the ribs."
+  3: "You crumple."
+  3: "<shake_portrait/><jiggle> Ooof!</jiggle>"
+  3: "You overestimate your skill. And underestimate your enemy. A failure to learn from."
+  3: "You freeze, indecisive, and the flat of the kor-kitar\'s lower blade smacks you right below the ribs."
+  3: "You crumple."
+  3: "<shake_portrait/><jiggle> Ooof!</jiggle>"
+  3: "You pause to think, and while you ponder, you are beaten. Consider the lesson."
+  3: "The monk then lunges at you, grabbing you by the throat. He jerks you up, lifting you off your feet, and holds you in the air in front of him."
+  3: "<shake_portrait/><jiggle> Hfff...</jiggle>"
+  3: "You fight well. But ultimately, youth and passion cannot match experience and discipline."
+  3: "You are beaten. Yield."
+  3: "As you try to fight off his grip, you notice he\'s left his stomach unprotected..."
+  3: "(I should...)"
+  3: "Kick him in the gut."
+  3: "STAT_PRESTIGE"
+  3: "Yield."
+  3: "fight_done"
+  3: "Prudent."
+  3: "The monk lets go, and you fall to the ground."
+  3: "Again."
+  3: "No. Enough for today."
+  3: "You wind up and kick the monk as hard as you can in the stomach!"
+  3: "<shake_portrait/><jiggle> Hfff!</jiggle>"
+  3: "The monk sucks in his breath and drops you."
+  3: "Not one of our moves. But a good one."
+  3: "+5 Army"
+  3: "Come on. Let\'s keep going."
+  3: "The Way of the Blade"
+  3: "You defeated the monk while sparring!"
+  3: "No. Enough for today."
+  3: "The monk squares off against you, taking a firm, wide stance. He tightens his grip on his kor-kitar and eyes your weapon."
+  3: "His placid face almost hints at a smile..."
+  3: "Then the blade of his kor-kitar shoots out at you!"
+  3: "You and the monk face each other, bowing."
+  3: "MUSIC_FANTASY_AMBIENCE"
+  3: "It is clear that you\'ll need protection if you\'re to take back your kingdom."
+  3: "My brothers and I will be there when we\'re needed."
+  3: "The monk bows to you and leaves. Gabriel turns to you."
+  3: "The Rajkur monks will be important fighters for your cause."
+  3: "You fought well. My brothers and I will be proud to follow you into battle, when the time comes."
+  3: "Thank you."
+  3: "The monk bows to you and leaves. Gabriel turns to you."
+  3: "You\'ve impressed the Rajkur monks."
+  3: "There are about 50 of them, and we\'ll need every last one in the coming battle to take back Stormholt."
+  3: "Your army\'s growing, Kenna."
+  3: "+1 Army"
+  3: "It\'ll grow even faster once we leave the Ruins of Rajkur."
+  3: "Patience, my queen."
+  3: "save_tevan"
+  3: "Just then, the orb Tevan gave you grows warm."
+  3: "Another message from Tevan!"
+  3: "What does it say? Any word on the fight against Luther? The Iron Empire?"
+  3: "It\'s <i>Tevan,</i> Gabriel. I\'d lower your expectations to more... material things."
+  3: "A new message from Tevan!"
+  3: "Spin the orb"
+  3: "IMG_MENU_MAGIC_ORB"
+  3: "You spin the orb, and Tevan\'s image appears in it..."
+  3: "Tevan"
+  3: "\'Princess, I apologize profusely for my dilly-dallying. Being pursued by bandits and hooligans is not conducive to communication.\'"
+  3: "\'But such are the times...\'"
+  3: "\'I hope with all sincerity that you continue to be safe, which I assume must be so... given how overprotective Gabriel is.\'"
+  3: "Overprotective? What does he know about overprotective?"
+  3: "\'But onto more important matters...\'"
+  3: "Here we go. Finally. News."
+  3: "\'Are you still wearing your hair in the same style? I had a dream that you\'d transformed it into something truly wondrous!\'"
+  3: "...He provided a sketch."
+  3: "Sigh. It <i>does</i> look pretty that way."
+  3: "\'We must reconvene sometime soon so that we can overthrow Luther... and before you forget entirely about your most devoted friend, me.\'"
+  3: "Tevan\'s image fades from the orb as the message ends."
+  3: "At least he\'s loyal."
+  3: "I wish it was <i>Dominic</i> we\'d heard news from today. It seems like it\'s been ages since we last saw his hawk."
+  3: "Patience? All I do is wait. I spend all day watching the sky for Dom\'s hawk."
+  3: "If he sends his pet to us too often, he\'ll draw suspicion."
+  3: "I know. It\'s just..."
+  3: "I miss him."
+  3: "I\'m worried about my people."
+  3: "ICON_HEART"
+  3: "+Romance"
+  3: "I know you don\'t approve, but..."
+  3: "I understand. He was a true friend to you, my queen. And we can use as many friends as we can get."
+  3: "If King Luther discovers Dom\'s hiding at the castle... that he\'s secretly helping me..."
+  3: "Luther is a cruel man. But Dom is clever. He\'ll be safe until our time to strike comes."
+  3: "King Luther is a cruel tyrant."
+  3: "The suffering of our people may be great, but our time will come."
+  3: "Before we can do anything to take back Stormholt, we\'ll need an opportunity."
+  3: "We... <pause/> wait. Did you hear that?"
+  3: "Hear what?"
+  3: "Before you can say another word, Gabriel whips out his dagger and hurls it into the shadows... a man screams!"
+  3: "Soldier2"
+  3: "<shake_portrait/><jiggle>Agh!</jiggle>"
+  3: "Scout"
+  3: "Nevrakis scouts! We can\'t let them report back to King Luther."
+  3: "It\'s her! It\'s the queen!"
+  3: "Scout"
+  3: "Don\'t let them get away!"
+  3: "The two remaining scouts rush out of the monastery in opposite directions. Gabriel rushes after one, and you start to head after the other!"
+  3: "(Wait... I\'m going to need a weapon!)"
+  3: "<ice>Tutorial</ice>\n\nSpecial weapons will help in combat and can unlock unique options and scenes! Plus, they\'ll increase your Army Score and will be added to your armory for the final battle!"
+  3: "<ice>Use the Kor-Kitar for an edge against the scout! You\'ll also gain the option to use this weapon in the final battle!</ice>"
+  3: "Choose your weapon."
+  3: "Kor-Kitar"
+  3: "unlock_double_sword"
+  3: "Short Sword"
+  3: "weapon_choice"
+  3: "You grab your short sword."
+  3: "bought_doubles"
+  3: "You snatch up the kor-kitar, nimbly twirling it through the air and tucking it beneath your arm. With every move, it makes a soothing metallic hum."
+  3: "Double Trouble"
+  3: "You unlocked the kor-kitar!"
+  3: "+5 Army"
+  3: "Now this is my kind of weapon!"
+  3: "You sprint outside, chasing after the scout!"
+  3: "Not... going to get away... from me!"
+  3: "You catch up to the scout. He spins, pulling out two curved daggers!"
+  3: "Good luck defending against <i>two</i> blades, girl!"
+  3: "Scout"
+  3: "Your sword suddenly seems less lethal in your hand..."
+  3: "I-I\'ll manage."
+  3: "First I\'m going to cut you up, then I\'m going to gut you just like a wild boar."
+  3: "Scout"
+  3: "You done talking?"
+  3: "<red>Grr!</red>"
+  3: "Scout"
+  3: "You spin the kor-kitar in your hand, the blades tracing large, intimidating arcs through the air."
+  3: "I think I\'ll handle them just fine."
+  3: "Oh gods. Y-you... you\'re using one of <i>those?</i>"
+  3: "Scout"
+  3: "Yes. Now are we going to fight or what?"
+  3: "I... I don\'t care if you have one of those double bladed weapons."
+  3: "Scout"
+  3: "I\'m going to cut you up, then I\'m going to gut you just like a wild boar."
+  3: "Scout"
+  3: "scout_fight"
+  3: "MUSIC_FANTASY_EPIC"
+  3: "The scout lunges forward, slashing at your chest with one of his daggers. You..."
+  3: "(I should...)"
+  3: "Freeze!"
+  3: "Block!"
+  3: "Hesitate!"
+  3: "You\'re able to parry his attack with your sword, but you\'re left exposed!"
+  3: "Oh no!"
+  3: "He thrusts with the other dagger!"
+  3: "(I should...)"
+  3: "Freeze!"
+  3: "Leap back!"
+  3: "Hesitate!"
+  3: "You leap backward, but he connects with your arm, slicing across it!"
+  3: "<shake_portrait/><jiggle> Ahh!</jiggle>"
+  3: "There\'s that cut I promised."
+  3: "Scout"
+  3: "He slices a deep gash across your chest!"
+  3: "<shake_portrait/><jiggle> Ahh!</jiggle>"
+  3: "This is going to be easier than I thought..."
+  3: "Scout"
+  3: "You block his attack, smashing his hand with the flat of the kor-kitar\'s blade!"
+  3: "<shake_portrait/><jiggle> Yaah!</jiggle>"
+  3: "Scout"
+  3: "Before you can counter-attack, he thrusts with the other dagger!"
+  3: "(I should...)"
+  3: "Block!"
+  3: "Stumble!"
+  3: "Hesitate!"
+  3: "You spin the kor-kitar hand-over-hand, smashing into his forearm, breaking the bone!"
+  3: "<shake_portrait/><jiggle> Yaah!</jiggle>"
+  3: "Scout"
+  3: "Was that the part where you were supposed to \'cut me up\'?"
+  3: "He slices a deep gash across your chest!"
+  3: "<shake_portrait/><jiggle> Ahh!</jiggle>"
+  3: "This is going to be easier than I thought..."
+  3: "Scout"
+  3: "He slices a deep gash across your chest!"
+  3: "<shake_portrait/><jiggle> Ahh!</jiggle>"
+  3: "This is going to be easier than I thought..."
+  3: "Scout"
+  3: "He lunges again, but this time you\'re able to roll away quickly, exposing a weak point on his thigh. You attack, aiming for his..."
+  3: "(I should aim for his...)"
+  3: "Face!"
+  3: "Thigh!"
+  3: "Your sword slashes across his thigh!"
+  3: "<shake_portrait/><jiggle> Ahh!</jiggle>"
+  3: "Scout"
+  3: "Is this the part where you gut me?"
+  3: "Your kor-kitar slices his thigh, spraying blood in a fine mist!"
+  3: "<shake_portrait/><jiggle> Ahhhhhh!</jiggle>"
+  3: "Scout"
+  3: "You whip around the other end, catching him in the calf!"
+  3: "<shake_portrait/><jiggle> Yah! To hells with that weapon!</jiggle>"
+  3: "Scout"
+  3: "Is this the part where you gut me?"
+  3: "Your sword glances off his helmet with an unsatisfying <i>clank!</i>"
+  3: "Grr!"
+  3: "Scout"
+  3: "Your kor-kitar connects with his helmet, piercing the metal and tearing at his cheek!"
+  3: "<shake_portrait/><jiggle> Yah! To hells with that weapon!</jiggle>"
+  3: "Scout"
+  3: "Is this the part where you gut me?"
+  3: "You freeze up, missing your chance!"
+  3: "Grr!"
+  3: "Scout"
+  3: "In his rage, he whirls around, kicking you hard in the chest and sending you flying onto your back!"
+  3: "<shake_portrait/><jiggle> Uhf!</jiggle>"
+  3: "He rushes toward you!"
+  3: "<red>This is where you die!</red>"
+  3: "Scout"
+  3: "(I should...)"
+  3: "Sweep his leg!"
+  3: "Get up!"
+  3: "You swing your sword in a low sweep, wedging the blade into his ankle!"
+  3: "<shake_portrait/><jiggle> Urggg!</jiggle>"
+  3: "Scout"
+  3: "You twirl the kor-kitar in a low sweep, wedging one of the blades into his ankle!"
+  3: "<shake_portrait/><jiggle> Urggg!</jiggle>"
+  3: "Scout"
+  3: "You manage to scramble to your feet, but as soon as you do, he kicks you again, sending you sprawling back into the dirt!"
+  3: "<shake_portrait/><jiggle> Oof!</jiggle>"
+  3: "You hesitate, and he kicks you again hard in the ribs!"
+  3: "<shake_portrait/><jiggle> Ooof!</jiggle>"
+  3: "He reels back for a moment, clearly in pain... but it\'s not enough. With a quick lunge, he shoves you back down into the dirt!"
+  3: "He looms over you, then methodically jabs both daggers into your sides and slices toward your center..."
+  3: "<shake_portrait/> <i>Hrrk!</i>"
+  3: "You pass out before the daggers meet in the middle. The last thing you hear is..."
+  3: "Like a <i>dead</i> wild boar."
+  3: "Scout"
+  3: "You have died."
+  3: "What do you do?"
+  3: "Restart from checkpoint."
+  3: "He reels back for a moment, clearly in pain..."
+  3: "You\'re going to pay for what you\'ve--"
+  3: "Scout"
+  3: "<shake_portrait/><jiggle> Hrrk!</jiggle>"
+  3: "Scout"
+  3: "He stiffens for a moment, teeters, then falls to the side, one of Gabriel\'s throwing knives protruding from the back of his neck!"
+  3: "I... got... him."
+  3: "You saved my life. I wish I\'d been able to finish him on my own..."
+  3: "You helped slow him down. Let\'s call it a team effort."
+  3: "He stumbles! You kick your legs out, popping into a fighting stance, the kor-kitar humming at your hip."
+  3: "I\'m still going to kill you! I swear it!"
+  3: "Scout"
+  3: "Not if I kill you first!"
+  3: "The blades of the kor-kitar spin, slicing in vicious swaths across his body! First, across his chest..."
+  3: "<shake_portrait/><jiggle> Yahhh!</jiggle>"
+  3: "Scout"
+  3: "Then, the midsection..."
+  3: "<shake_portrait/><jiggle> Ahhh!</jiggle>"
+  3: "Scout"
+  3: "Before finally slicing at his legs!"
+  3: "<shake_portrait/><jiggle> Hrrrk!</jiggle>"
+  3: "Scout"
+  3: "He spills forward, blood pouring out of him."
+  3: "Well, that was... <pause/>eye-opening. You certainly don\'t need my help."
+  3: "I could get used to fighting with this kor-kitar."
+  3: "We must be vigilant. Not even a single scout can report our location back to Luther."
+  3: "We stopped them today, but we can\'t hide forever."
+  3: "No. And when the time comes, you must be ready to strike."
+  3: "As you and Gabriel head back inside, you don\'t notice a slight stirring in the bushes."
+  3: "Lying there, holding his breath, is one last Nevrakis scout..."
+  3: "Soldier3"
+  3: "..."
+  3: "Scout"
+  3: "MUSIC_FANTASY_SINISTER"
+  3: "<tangerine>Now playing as Dominic.</tangerine>\n\nIn the kitchen, you spot Rose filling a tray with meat. A guard looms over her."
+  3: "That looks tasty."
+  3: "The soldier reaches over and plucks a piece of meat from the tray."
+  3: "Rose"
+  3: "Please, sir, we\'ll barely have enough for the high table as it is..."
+  3: "That\'s your problem, isn\'t it? If I\'ve got to watch over you filthy kitchen rats, I\'m going to enjoy myself."
+  3: "He reaches for more..."
+  3: "I wouldn\'t do that if I were you."
+  3: "Oh yeah? And why would I listen to a dog like you?"
+  3: "Because..."
+  3: "Luther sends thieving guards to the gallows."
+  3: "That food fell in horse dung."
+  3: "I don\'t want to see any more death, sir."
+  3: "Bah. Fine, get on with you."
+  3: "But it\'s all the venison we\'ve got, so we have to serve it."
+  3: "Disgusting!"
+  3: "We washed it as well as we could, but..."
+  3: "Enough! I don\'t want to hear about it."
+  3: "The soldier moves down to the other end of the kitchen to steal a piece of bread. You whisper to Rose..."
+  3: "Power +1"
+  3: "Looks like that did the trick."
+  3: "Thanks, Dom."
+  3: "(I should...)"
+  3: "Tell her it\'s nothing."
+  3: "Flirt with Rose."
+  3: "It\'s the least I could do."
+  3: "+Romance"
+  3: "You know I\'d do anything for the prettiest flower in the whole castle."
+  3: "Rose blushes and throws a sprig of parsley at you."
+  3 {
+    11: 0x7474616c6620756f
+    12: 0x2e726572
+  }
+  3: "Who, me?"
+  3: "Flirt Alert"
+  3: "Rose is now more attracted to you!"
+  3: "Hm... I know that look. What do you want now? And keep your voice down."
+  3: "You don\'t need to sound so suspicious. I\'m here to offer my services. I want to help you serve the banquet tonight."
+  3: "Oh really? And why do you want to do that?"
+  3: "You lean close and whisper in her ear..."
+  3 {
+    9: 0x2e2e2e6465656e20
+  }
+  3: "To spy on King Luther."
+  3: "To learn if Kenna is in danger."
+  3: "I think he\'s plotting something. Something big. I need to find out what it is."
+  3: "I\'ve got to know what they\'re planning so I can warn her."
+  3: "Oh, Dom... please be careful. I don\'t want to see you tied to the whipping pole tonight."
+  3: "I\'m always careful. Except, you know, when I\'m not."
+  3: "NEW ALLY"
+  3: "Rose has joined your alliance."
+  3: "I\'m going to regret this... but here, take this tray of venison. And don\'t draw attention to yourself!"
+  3: "+5 Army"
+  3: "Of course."
+  3: "BG_INT_THRONE_ROOM"
+  3: "You follow Rose into the banquet hall. Soldiers line the walls, standing at attention."
+  3: "..."
+  3: "And at the center, Prince Marco and his right-hand man, Bartel, are sitting at a long banquet table."
+  3 {
+    9: 0x6f637261
+  }
+  3: "About time!"
+  3: "Bartel"
+  3: "Any later and I\'d be visiting the kitchen with my carving knife."
+  3: "Apologies, m\'lord."
+  3: "Across from Marco and Bartel is the red-haired woman you saw earlier. And at the head of the table, King Luther Nevrakis presides."
+  3: "Luther"
+  3: "As I was saying, after speaking at length with Helene, I\'ve made my decision."
+  3: "My lord, is it wise to discuss things of this nature in front of the servants?"
+  3: "I assure you, they\'re perfectly subdued. We\'ve beaten any fight out of them long ago."
+  3: "..."
+  3: "convince_luther"
+  3: "Luckily, this is easy to demonstrate. You, come here."
+  3: "Yes, m\'lord?"
+  3: "What do you know about the Iron Empire?"
+  3: "Um, well..."
+  3: "Aren\'t you the leader of the Iron Empire?"
+  3: "They\'re the greatest threat to the Five Kingdoms."
+  3: "Is that where our iron comes from?"
+  3: "You think <i>this</i> is the Iron Empire? The Five Kingdoms?"
+  3: "You were right, Helene. This one\'s playing dumb."
+  3: "He cannot fool me, though."
+  3: "And why haven\'t they attacked us?"
+  3: "They\'re far to the west. They\'d have to cross the entire ocean."
+  3: "Insightful. Continue, please."
+  3: "Well, they\'d need ships to transport their armies..."
+  3: "You see Rose imploring you to shut up."
+  3: "..."
+  3: "I mean, uh, that\'s what I heard someone else say!"
+  3: "Helene, you were right again. This one is far too cunning."
+  3: "Haha! I think that says it all."
+  3: "Satisfied, Helene?"
+  3: "I don\'t know if I\'ve ever heard anyone more misinformed."
+  3: "See? He might as well be a piece of furniture in the room."
+  3: "Rose shoots you a quick smile..."
+  3: "..."
+  3: "Power +1"
+  3: "(Yes! That fooled them!)"
+  3: "Before you can react, Luther springs up from his seat, grabs you by the throat, and slams you onto the table!"
+  3: "<shake_portrait/><jiggle>Hggg!</jiggle>"
+  3: "<i>No!</i>"
+  3: "Soldiers jump in and hold you down."
+  3: "..."
+  3: "<red>I\'m hungry, so hurry up and die!</red>"
+  3: "As he squeezes tightly around your neck, your vision blurs, dims, and finally<pause/> fades..."
+  3: "You have died."
+  3: "What do you do?"
+  3: "Restart from checkpoint."
+  3: "So, as I was saying, I\'ll be sailing west <i>tonight</i> and attacking the Iron Empire with the bulk of our forces."
+  3: "We\'re going to war? About time. Sparring is no replacement for a real battle. I don\'t want to get slow..."
+  3: "No. <i>You</i> won\'t be going with me. You will remain here at Stormholt."
+  3: "What? But there\'s no glory in staying here. I should be cutting down our enemies, like my brothers and sister!"
+  3: "This castle is the heart of our new kingdom. I am entrusting it to you. Do not make me regret it."
+  3: "Helene, I\'ll need you to stay here as well."
+  3: "But, my king... my place is at your side, as it always has been."
+  3: "We <i>must</i> hold the Five Kingdoms. Does no one understand that? Helene, you\'ll serve me best here."
+  3: "I\'m leaving behind a contingency of my most elite troops for you to command."
+  3: "Yes, my king."
+  3: "You might also help prevent my son from wasting scouts to hunt after exiled princesses."
+  3: "How do you know about that?!"
+  3: "(Kenna...)"
+  3: "More venison! Where\'s that servant?"
+  3: "You rush forward."
+  3: "(I should...)"
+  3: "Serve the venison."
+  3: "Drop the plate!"
+  3: "Fumble!"
+  3: "You use the serving fork to put more venison on King Luther\'s plate. He ignores you and continues talking."
+  3: "Power +1"
+  3: "(Good, they barely even notice me...)"
+  3: "You fumble and drop the plate!"
+  3: "Clumsy fool."
+  3: "I... I\'m so sorry."
+  3: "Should I have him whipped, your majesty? You know how much I enjoy a good whipping."
+  3: "No need."
+  3: "Luther backhands you across the face."
+  3: "<shake_portrait/><jiggle> Hfff!</jiggle>"
+  3: "Anyway, that little girl is of no consequence to us."
+  3: "She\'s no little girl now. Half the realm is still loyal to her. If she were to call for an uprising..."
+  3: "She won\'t. Not while she can cower away in some hovel. Leave her be."
+  3: "But--"
+  3: "My word is final. Now, I ride tonight."
+  3: "After dinner, as you and Rose carry the plates and dishes back to the kitchen, you see King Luther riding out with the main force of his army."
+  3 {
+    9: 0x656e20656874206e
+    12: 0x716e616220796272
+    14: 0x68207465
+    12: 0x20756f79202c6c6c
+    13: 101
+    12: 0x7361726320612072
+    13: 46
+  }
+  3: "Sounds like there\'s something going on in there, Rose. I\'ve got to see what more I can learn."
+  3: "Be careful."
+  3: "You linger outside the door and listen in..."
+  3: "Helene, I won\'t say this again. I want a team of assassins sent after that girl!"
+  3: "He hurls a vase against the wall, shattering it to pieces."
+  3: "You can destroy as many vases as you\'d like. Your father said to hold Stormholt. I follow his orders."
+  3: "If my father wants to leave me here, I will find my own glory..."
+  3: "...in ending the life of that miserable girl before she can raise her hand against us."
+  3: "Marco rubs his face, remembering how Kenna slapped him."
+  3: "She already raised her hand against me once. She\'ll learn to regret that."
+  3: "I\'ll mount that foolish girl\'s head on a spike for everyone in this godsforsaken castle to see."
+  3: "(You\'ll never touch Kenna.)"
+  3: "You feel anger rushing through you... You look down at your hands. They feel warm..."
+  3: "(It\'s just like two years ago... that fire...)"
+  3: "They begin glowing a faint <red>red...</red>"
+  3: "(I can\'t lose control now! I need to...)"
+  3: "Focus my anger."
+  3: "Lose control!"
+  3: "You take a deep breath and calm yourself. You feel power roiling deep in your veins."
+  3: "As you watch your hand, the heat consolidates to a point in the center of your palm..."
+  3: "(Whoa...)"
+  3: "The heat blossoms into a small <fire>fireball</fire> that spins and dissipates!"
+  3: "Power +1"
+  3: "Gaining Power"
+  3: "You feel the magic within you growing..."
+  3: "(What was that? I feel... stronger...)"
+  3: "Anger flashes through you. The cuffs of your sleeve begin to smoke."
+  3: "(What... what is this? I need to get it under control!)"
+  3: "You roll up your sleeves, and the heat dissipates."
+  3: "You lean back towards the door, listening in again..."
+  3: "Now, Helene, I\'m sure my father would <i>love</i> to hear that you openly rebelled against me the moment he left for the war."
+  3: "I..."
+  3: "Now say \'Yes, Prince Marco,\' and do my bidding."
+  3: "Yes, Prince Marco."
+  3: "Helene heads toward the door. You dart around the corner before you\'re spotted."
+  3: "BG_INT_DOM_BEDROOM"
+  3: "A while later, you return to your quarters, where Trystan is waiting for you."
+  3: "You did it, didn\'t you? You found out what\'s going on?"
+  3: "If the soldiers catch you out after curfew..."
+  3: "I\'m not scared. I\'ve had lashes before. Now tell me!"
+  3: "It\'s big. Luther\'s left, and has taken most of the army with him... all but an elite group of soldiers."
+  3: "And even bigger... Marco is sending assassins after Kenna. I have to warn her..."
+  3: "We can do more. We\'ve got to."
+  3: "I know a man down in the dungeons who can get us a poison designed to take out a hundred men. We could poison Marco!"
+  3: "Er, but we\'d never be able to get it past his tasters..."
+  3: "Maybe we can\'t get the poison to Marco, but we <i>could</i> poison those men King Luther left behind!"
+  3: "They\'re camped just outside the walls..."
+  3: "And I\'m pretty sure soldiers aren\'t lucky enough to have personal tasters."
+  3: "Every soldier Marco loses is one Kenna won\'t have to face. One more way I can protect her. We\'ll do this... for Kenna."
+  3: "Are you serious? Are we really doing this?"
+  3: "Because it <i>will</i> mean sneaking outside the castle walls..."
+  3: "<ice>Tutorial</ice>\n\nSome choices unlock entire exclusive scenes and increase your Army Score for the final battle!"
+  3: "Trystan..."
+  3: "Get the poison. Let\'s kill them all."
+  3: "poison_drinks"
+  3: "Forget about it."
+  3: "A few hours later, Trystan returns with a vial of poison."
+  3: "Here it is. Are you ready?"
+  3: "I am. We have to do everything we can to fight the Nevrakis family."
+  3 {
+    14: 111
+    13: 0x67616c665f6e6f73
+  }
+  3: "We need to focus on the task at hand... getting our message to Kenna."
+  3: "Sure."
+  3: "MUSIC_FANTASY_LOVE"
+  3: "You lean out the window and whistle <red>two short blasts</red>, calling {Hawk} to you."
+  3: "..."
+  3: "You slip a message to Kenna in between {Hawk}\'s talons..."
+  3: "If Kenna survives this attempt on her life, it\'ll be the perfect time for her to return."
+  3: "To take back this castle and her kingdom."
+  3: "Prrt!"
+  3: "Fly true, my friend."
+  3: "<i>Scree!</i>"
+  3: "Fly to Kenna."
+  3: "BG_EXT_STORMHOLT_NIGHT"
+  3: "held_breath"
+  3: "Later that night, you and Trystan sneak out, hiding behind a boulder at the edge of the army\'s camp."
+  3: "Last chance to turn back."
+  3: "Not on your life."
+  3: "The troops are gathered around a fire, the smell of roasted meat wafting in the air."
+  3: "There\'s a barrel of ale propped up on the back of that wagon."
+  3: "I\'ll dump the poison in. You stand watch?"
+  3: "I\'ll whistle if I see someone\'s coming."
+  3: "You creep to the barrel of ale, lift the lid, and dump the poison in."
+  3: "For you, Kenna..."
+  3: "As you turn back, you hear Trystan\'s whistle!"
+  3: "Just ahead are two soldiers, walking right toward you."
+  3: "Oh gods."
+  3: "Scrambling, you dive under the wagon!"
+  3: "Quiet night. How about we get drunk off our asses and find us some ripe peasant girls?"
+  3: "See, that\'s why we\'re mates. You\'ve always got the best--"
+  3: "<i>Shh!</i> Quiet! I hear breathing."
+  3: "The other soldier draws his sword, the blade glinting in the moonlight."
+  3: "(I should...)"
+  3: "Hold my breath!"
+  3: "(Don\'t breathe!)"
+  3: "(I should...)"
+  3: "Keep holding it!"
+  3: "Exhale!"
+  3: "Breathe out!"
+  3: "(Must not. Make. A sound!)"
+  3: "(I should...)"
+  3: "Exhale!"
+  3: "Gasp!"
+  3: "Hold it just a little longer!"
+  3: "You keep your breath held..."
+  3: "Huh? Guess my mind\'s playing tricks again."
+  3: "Idiot. Come on. Let\'s go drink till we can\'t see straight."
+  3: "When the soldiers finally leave, you rush back to your hiding spot with Trystan."
+  3: "One soldier hears you and leans down!"
+  3: "I knew I heard something! It\'s one of those serv--"
+  3: "<i>CLANG!</i>"
+  3: "The soldier falls to the ground, unconscious, revealing Trystan holding a large hammer."
+  3: "You\'ll die for that!"
+  3: "He moves to stab Trystan, but you grab the guard by the ankles and yank! He lands face first!"
+  3: "<shake_portrait/><jiggle>Oof!</jiggle>"
+  3: "You pick up the soldier\'s sword and use it to end both of them."
+  3: "<shake_portrait/><jiggle>Urk!</jiggle>"
+  3: "It had to be done in order for this to work... Come on, let\'s get them out of sight."
+  3: "A moment later, you and Trystan are back in your hiding spot..."
+  3: "That was close. What do we do now?"
+  3: "Now, we wait for them all to die..."
+  3: "A short while later..."
+  3: "<shake_portrait/>Wait... cough... something... isn\'t right..."
+  3: "<shake_portrait/>Poison! The ale\'s poisoned!"
+  3: "<shake_portrait/>Wait... cough... something... isn\'t right..."
+  3: "Soldier4"
+  3: "<shake_portrait/>Poison! The ale\'s poisoned!"
+  3: "The soldier lurches forward, vomiting blood. Throughout the camp, all the soldiers begin keeling over, gagging, and bleeding out their eyes."
+  3: "Word spreads, but it\'s too late. In a few seconds, the entire camp is eerily silent."
+  3: "What Ales You"
+  3: "You poisoned the elite enemy soldiers!"
+  3: "+5 Army"
+  3: "For Kenna... and for Stormholt. We\'ll take back this castle or die trying."
+  3: "Luther\'s elite soldiers... I can\'t believe we did it! We took out <i>all</i> of them!"
+  3: "And we\'ll be dead next if we get caught. Let\'s hurry back. We still need to send Kenna a message..."
+  3: "Back in the kitchens..."
+  3: "troops_count"
+  3: "weapons_count"
+  3: "allies_count"
+  3: "events_count"
+  3: "<cantaloupe>Chapter Progress</cantaloupe>"
+  3: "The monks of Rajkur have promised you 50 troops for the final battle!"
+  3: "Chapter Progress"
+  3: "You have unlocked the short sword as a weapon to use in future battles!"
+  3: "Chapter Progress"
+  3: "You unlocked the ability to use the kor-kitar! It will give you an edge over your enemy in your effort to take back your kingdom."
+  3: "Chapter Progress"
+  3: "You abandoned the kor-kitar in the monastery. As such, you will not be able to use it in the future."
+  3: "Chapter Progress"
+  3: "You beat the monk in your sparring match!"
+  3: "Chapter Progress"
+  3: "Unfortunately, you lost to the monk in your sparring match."
+  3: "Chapter Progress"
+  3: "Rose will now do everything she can to help you."
+  3: "Chapter Progress"
+  3: "You chose to poison the Nevrakis troops with Trystan. This will help in the overall effort to win back the kingdom!"
+  3: "Chapter Progress"
+  3: "You chose not to poison the Nevrakis troops. While your conscience may be saved, the war will now be harder to win."
+  3: "Chapter Progress"
+  3: "tevan_status"
+  3: "Dead"
+  3: "Alive & Recruited"
+  3: "Gabriel: Alive & Recruited\nPrince Tevan: {tevan_status}\nRose: Alive & Recruited\n???????: Not met\n????: Not met\n???????: Not met\n????????: Not met\n??????: Not met\n????: Not met\n?????????: Not met\n????????: Not met\n???: Not met"
+  3: "Overall Progress"
+  3: "prestige_count"
+  3: "power_count"
+  3: "allies_score"
+  3: "events_score"
+  3: "weapons_score"
+  3: "troops_score"
+  3: "total_count"
+  3: "<cantaloupe>Overall Progress</cantaloupe>"
+  3: "Prestige: {prestige_count} out of 15\nPower: {power_count} out of 7\nWeapons: {weapons_score} out of 10\nAllies: {allies_score} out of 15\nTroops: {troops_score} out of 5\nSignificant Choices: {events_score} out of 20"
+  3: "Overall Progress"
+  3: "Army Score: {total_count} out of 72"
+  3: "Overall Progress"
+  4 {
+    1: "main"
+    2: 3
+  }
+  4 {
+    1: "doForestRefugeDom"
+    2: 38
+  }
+  4 {
+    1: "doForestRefugeKenna"
+    2: 279
+  }
+  4 {
+    1: "doFight"
+    2: 426
+  }
+  4 {
+    1: "doFight2"
+    2: 505
+  }
+  4 {
+    1: "doMonkFightMinigame"
+    2: 614
+  }
+  4 {
+    1: "doScoutsArrive"
+    2: 638
+  }
+  4 {
+    1: "doScoutFight"
+    2: 1069
+  }
+  4 {
+    1: "doForestRefugeDom2"
+    2: 1693
+  }
+  4 {
+    1: "doLutherKill"
+    2: 2163
+  }
+  4 {
+    1: "doDomRuse"
+    2: 2225
+  }
+  4 {
+    1: "doPoisonTroops"
+    2: 2768
+  }
+  4 {
+    1: "doBreathFail"
+    2: 2984
+  }
+  4 {
+    1: "doBreathContinue"
+    2: 3032
+  }
+  4 {
+    1: "endDisplay"
+    2: 3129
+  }
+  4 {
+    1: "displayChapter"
+    2: 3230
+  }
+  4 {
+    1: "displayAllies"
+    2: 3294
+  }
+  4 {
+    1: "displayOverall"
+    2: 3319
+  }
+  5 {
+    1: 45
+  }
+  5 {
+    1: 35
+    2: 3
+  }
+  5 {
+    1: 44
+  }
+  5 {
+    1: 47
+  }
+  5 {
+    1: 48
+  }
+  5 {
+    1: 49
+  }
+  5 {
+    1: 45
+  }
+  5 {
+    1: 35
+    2: 38
+  }
+  5 {
+    1: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 45
+  }
+  5 {
+    1: 35
+    2: 279
+  }
+  5 {
+    1: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 45
+  }
+  5 {
+    1: 35
+    2: 638
+  }
+  5 {
+    1: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 45
+  }
+  5 {
+    1: 35
+    2: 1693
+  }
+  5 {
+    1: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 45
+  }
+  5 {
+    1: 35
+    2: 3129
+  }
+  5 {
+    1: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 25
+    2: 2
+  }
+  5 {
+    1: 25
+    2: 3
+  }
+  5 {
+    1: 41
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 41
+    2: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 42
+  }
+  5 {
+    1: 47
+  }
+  5 {
+    1: 48
+  }
+  5 {
+    1: 49
+    2: 2
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 5
+  }
+  5 {
+    1: 41
+    2: 2
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 6
+  }
+  5 {
+    1: 41
+    2: 2
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 7
+  }
+  5 {
+    1: 25
+    2: 2000
+  }
+  5 {
+    1: 25
+    2: 3
+  }
+  5 {
+    1: 25
+    2: 3
+  }
+  5 {
+    1: 41
+    2: 3
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 9
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 255
+  }
+  5 {
+    1: 25
+    2: 2000
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 10
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 41
+    2: 3
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 41
+    2: 7
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 13
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 14
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 25
+    2: 16
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 25
+    2: 18
+  }
+  5 {
+    1: 25
+    2: 19
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 20
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 21
+  }
+  5 {
+    1: 41
+    2: 9
+    3: 1
+  }
+  5 {
+    1: 25
+    2: 2
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 118
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 25
+    2: 22
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 25
+    2: 23
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 24
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 25
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 118
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 25
+    2: 26
+  }
+  5 {
+    1: 25
+    2: 19
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 27
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 28
+  }
+  5 {
+    1: 25
+    2: 29
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 31
+  }
+  5 {
+    1: 25
+    2: 32
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 25
+    2: 33
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 34
+  }
+  5 {
+    1: 41
+    2: 10
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 35
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 11
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 36
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 37
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 41
+    2: 13
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 171
+  }
+  5 {
+    1: 25
+    2: 38
+  }
+  5 {
+    1: 25
+    2: 39
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 14
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 40
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 185
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 25
+    2: 41
+  }
+  5 {
+    1: 25
+    2: 42
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 43
+  }
+  5 {
+    1: 25
+    2: 19
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 25
+    2: 44
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 25
+    2: 45
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 255
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 46
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 41
+    2: 3
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 47
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 25
+    2: 48
+  }
+  5 {
+    1: 25
+    2: 19
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 25
+    2: 49
+  }
+  5 {
+    1: 25
+    2: 19
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 50
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 51
+  }
+  5 {
+    1: 25
+    2: 52
+  }
+  5 {
+    1: 25
+    2: 35
+  }
+  5 {
+    1: 25
+    2: 53
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 25
+    2: 54
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 56
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 31
+  }
+  5 {
+    1: 25
+    2: 57
+  }
+  5 {
+    1: 25
+    2: 58
+  }
+  5 {
+    1: 41
+    2: 15
+    3: 2
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 51
+  }
+  5 {
+    1: 51
+    2: 1
+  }
+  5 {
+    1: 41
+    2: 16
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 51
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 60
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 51
+  }
+  5 {
+    1: 25
+    2: 61
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 62
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 63
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 51
+  }
+  5 {
+    1: 25
+    2: 64
+  }
+  5 {
+    1: 25
+    2: 42
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 25
+    2: 65
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 66
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 67
+  }
+  5 {
+    1: 25
+    2: 19
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 42
+  }
+  5 {
+    1: 47
+  }
+  5 {
+    1: 48
+  }
+  5 {
+    1: 49
+    2: 1
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 41
+    2: 7
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 6000
+  }
+  5 {
+    1: 41
+    2: 17
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 255
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 68
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 3
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 18
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 5
+  }
+  5 {
+    1: 41
+    2: 2
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 6
+  }
+  5 {
+    1: 41
+    2: 2
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 69
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 70
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 71
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 72
+  }
+  5 {
+    1: 25
+    2: 3
+  }
+  5 {
+    1: 41
+    2: 19
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 73
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 74
+  }
+  5 {
+    1: 25
+    2: 75
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 76
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 77
+  }
+  5 {
+    1: 25
+    2: 78
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 79
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 77
+  }
+  5 {
+    1: 25
+    2: 80
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 81
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 82
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 3000
+  }
+  5 {
+    1: 41
+    2: 17
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 83
+  }
+  5 {
+    1: 41
+    2: 20
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 84
+  }
+  5 {
+    1: 25
+    2: 85
+  }
+  5 {
+    1: 41
+    2: 21
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 41
+    2: 13
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 86
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 77
+  }
+  5 {
+    1: 25
+    2: 87
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 77
+  }
+  5 {
+    1: 25
+    2: 88
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 89
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 90
+  }
+  5 {
+    1: 41
+    2: 20
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 91
+  }
+  5 {
+    1: 25
+    2: 92
+  }
+  5 {
+    1: 41
+    2: 21
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 41
+    2: 13
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 93
+  }
+  5 {
+    1: 25
+    2: 94
+  }
+  5 {
+    1: 41
+    2: 22
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 95
+  }
+  5 {
+    1: 25
+    2: 96
+  }
+  5 {
+    1: 25
+    2: 2105376255
+  }
+  5 {
+    1: 41
+    2: 23
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 97
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 77
+  }
+  5 {
+    1: 25
+    2: 98
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 99
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 45
+  }
+  5 {
+    1: 35
+    2: 614
+  }
+  5 {
+    1: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 42
+  }
+  5 {
+    1: 47
+  }
+  5 {
+    1: 48
+  }
+  5 {
+    1: 49
+    2: 1
+  }
+  5 {
+    1: 25
+    2: 100
+  }
+  5 {
+    1: 25
+    2: 7
+  }
+  5 {
+    1: 41
+    2: 10
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 35
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 11
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 101
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 102
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 103
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 41
+    2: 13
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 459
+  }
+  5 {
+    1: 25
+    2: 104
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 497
+  }
+  5 {
+    1: 51
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 482
+  }
+  5 {
+    1: 25
+    2: 105
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 106
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 108
+  }
+  5 {
+    1: 25
+    2: 19
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 77
+  }
+  5 {
+    1: 25
+    2: 109
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 497
+  }
+  5 {
+    1: 25
+    2: 110
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 111
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 112
+  }
+  5 {
+    1: 25
+    2: 19
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 77
+  }
+  5 {
+    1: 25
+    2: 113
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 45
+  }
+  5 {
+    1: 35
+    2: 505
+  }
+  5 {
+    1: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 42
+  }
+  5 {
+    1: 47
+  }
+  5 {
+    1: 48
+  }
+  5 {
+    1: 49
+    2: 1
+  }
+  5 {
+    1: 25
+    2: 114
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 115
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 77
+  }
+  5 {
+    1: 25
+    2: 116
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 77
+  }
+  5 {
+    1: 25
+    2: 117
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 118
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 119
+  }
+  5 {
+    1: 41
+    2: 10
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 35
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 11
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 120
+  }
+  5 {
+    1: 25
+    2: 121
+  }
+  5 {
+    1: 25
+    2: 5
+  }
+  5 {
+    1: 25
+    2: 6
+  }
+  5 {
+    1: 41
+    2: 24
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 122
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 41
+    2: 13
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 572
+  }
+  5 {
+    1: 25
+    2: 123
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 25
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 77
+  }
+  5 {
+    1: 25
+    2: 124
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 125
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 126
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 77
+  }
+  5 {
+    1: 25
+    2: 127
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 607
+  }
+  5 {
+    1: 25
+    2: 123
+  }
+  5 {
+    1: 25
+    2: 2
+  }
+  5 {
+    1: 41
+    2: 25
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 128
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 77
+  }
+  5 {
+    1: 25
+    2: 129
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 130
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 77
+  }
+  5 {
+    1: 25
+    2: 131
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 95
+  }
+  5 {
+    1: 25
+    2: 132
+  }
+  5 {
+    1: 25
+    2: 2105376255
+  }
+  5 {
+    1: 41
+    2: 23
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 133
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 134
+  }
+  5 {
+    1: 25
+    2: 135
+  }
+  5 {
+    1: 41
+    2: 22
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 77
+  }
+  5 {
+    1: 25
+    2: 136
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 3000
+  }
+  5 {
+    1: 41
+    2: 17
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 42
+  }
+  5 {
+    1: 47
+  }
+  5 {
+    1: 48
+  }
+  5 {
+    1: 49
+  }
+  5 {
+    1: 25
+    2: 123
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 41
+    2: 25
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 137
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 138
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 139
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 45
+  }
+  5 {
+    1: 35
+    2: 426
+  }
+  5 {
+    1: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 42
+  }
+  5 {
+    1: 47
+  }
+  5 {
+    1: 48
+  }
+  5 {
+    1: 49
+    2: 1
+  }
+  5 {
+    1: 25
+    2: 140
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 141
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 123
+  }
+  5 {
+    1: 41
+    2: 9
+    3: 1
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 669
+  }
+  5 {
+    1: 25
+    2: 77
+  }
+  5 {
+    1: 25
+    2: 142
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 77
+  }
+  5 {
+    1: 25
+    2: 143
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 144
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 74
+  }
+  5 {
+    1: 25
+    2: 145
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 685
+  }
+  5 {
+    1: 25
+    2: 77
+  }
+  5 {
+    1: 25
+    2: 146
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 147
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 148
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 74
+  }
+  5 {
+    1: 25
+    2: 149
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 74
+  }
+  5 {
+    1: 25
+    2: 150
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 74
+  }
+  5 {
+    1: 25
+    2: 151
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 95
+  }
+  5 {
+    1: 25
+    2: 152
+  }
+  5 {
+    1: 25
+    2: 2105376255
+  }
+  5 {
+    1: 41
+    2: 23
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 153
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 74
+  }
+  5 {
+    1: 25
+    2: 154
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 155
+  }
+  5 {
+    1: 41
+    2: 9
+    3: 1
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 798
+  }
+  5 {
+    1: 25
+    2: 156
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 157
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 74
+  }
+  5 {
+    1: 25
+    2: 158
+  }
+  5 {
+    1: 25
+    2: 42
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 159
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 160
+  }
+  5 {
+    1: 41
+    2: 20
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 161
+  }
+  5 {
+    1: 25
+    2: 162
+  }
+  5 {
+    1: 41
+    2: 21
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 41
+    2: 13
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 163
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 164
+  }
+  5 {
+    1: 25
+    2: 165
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 164
+  }
+  5 {
+    1: 25
+    2: 166
+  }
+  5 {
+    1: 25
+    2: 19
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 164
+  }
+  5 {
+    1: 25
+    2: 167
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 74
+  }
+  5 {
+    1: 25
+    2: 168
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 164
+  }
+  5 {
+    1: 25
+    2: 169
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 74
+  }
+  5 {
+    1: 25
+    2: 170
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 164
+  }
+  5 {
+    1: 25
+    2: 171
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 172
+  }
+  5 {
+    1: 25
+    2: 19
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 74
+  }
+  5 {
+    1: 25
+    2: 173
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 164
+  }
+  5 {
+    1: 25
+    2: 174
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 175
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 74
+  }
+  5 {
+    1: 25
+    2: 176
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 177
+  }
+  5 {
+    1: 25
+    2: 19
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 803
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 178
+  }
+  5 {
+    1: 25
+    2: 19
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 74
+  }
+  5 {
+    1: 25
+    2: 179
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 180
+  }
+  5 {
+    1: 41
+    2: 10
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 19
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 11
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 181
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 182
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 41
+    2: 13
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 855
+  }
+  5 {
+    1: 25
+    2: 183
+  }
+  5 {
+    1: 25
+    2: 184
+  }
+  5 {
+    1: 25
+    2: 18446744073692774655
+  }
+  5 {
+    1: 41
+    2: 23
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 185
+  }
+  5 {
+    1: 25
+    2: 19
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 74
+  }
+  5 {
+    1: 25
+    2: 186
+  }
+  5 {
+    1: 25
+    2: 19
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 187
+  }
+  5 {
+    1: 25
+    2: 19
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 74
+  }
+  5 {
+    1: 25
+    2: 188
+  }
+  5 {
+    1: 25
+    2: 19
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 865
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 189
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 74
+  }
+  5 {
+    1: 25
+    2: 190
+  }
+  5 {
+    1: 25
+    2: 19
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 2000
+  }
+  5 {
+    1: 41
+    2: 17
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 74
+  }
+  5 {
+    1: 25
+    2: 191
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 74
+  }
+  5 {
+    1: 25
+    2: 192
+  }
+  5 {
+    1: 25
+    2: 42
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 193
+  }
+  5 {
+    1: 25
+    2: 42
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 99
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 194
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 195
+  }
+  5 {
+    1: 25
+    2: 196
+  }
+  5 {
+    1: 25
+    2: 35
+  }
+  5 {
+    1: 25
+    2: 197
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 74
+  }
+  5 {
+    1: 25
+    2: 198
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 31
+  }
+  5 {
+    1: 25
+    2: 199
+  }
+  5 {
+    1: 25
+    2: 35
+  }
+  5 {
+    1: 25
+    2: 200
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 74
+  }
+  5 {
+    1: 25
+    2: 201
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 202
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 203
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 204
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 205
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 206
+  }
+  5 {
+    1: 41
+    2: 20
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 207
+  }
+  5 {
+    1: 25
+    2: 85
+  }
+  5 {
+    1: 25
+    2: 208
+  }
+  5 {
+    1: 41
+    2: 26
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 209
+  }
+  5 {
+    1: 25
+    2: 92
+  }
+  5 {
+    1: 41
+    2: 21
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 41
+    2: 13
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 952
+  }
+  5 {
+    1: 25
+    2: 210
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 25
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 211
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 977
+  }
+  5 {
+    1: 25
+    2: 210
+  }
+  5 {
+    1: 25
+    2: 2
+  }
+  5 {
+    1: 41
+    2: 25
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 212
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 25
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 214
+  }
+  5 {
+    1: 25
+    2: 215
+  }
+  5 {
+    1: 41
+    2: 22
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 95
+  }
+  5 {
+    1: 25
+    2: 216
+  }
+  5 {
+    1: 25
+    2: 2105376255
+  }
+  5 {
+    1: 41
+    2: 23
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 217
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 218
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 68
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 19
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 219
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 220
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 31
+  }
+  5 {
+    1: 25
+    2: 221
+  }
+  5 {
+    1: 25
+    2: 35
+  }
+  5 {
+    1: 25
+    2: 222
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 210
+  }
+  5 {
+    1: 41
+    2: 9
+    3: 1
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 1028
+  }
+  5 {
+    1: 25
+    2: 223
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 224
+  }
+  5 {
+    1: 25
+    2: 19
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 31
+  }
+  5 {
+    1: 25
+    2: 225
+  }
+  5 {
+    1: 25
+    2: 35
+  }
+  5 {
+    1: 25
+    2: 226
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 227
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 31
+  }
+  5 {
+    1: 25
+    2: 228
+  }
+  5 {
+    1: 25
+    2: 35
+  }
+  5 {
+    1: 25
+    2: 229
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 1058
+  }
+  5 {
+    1: 25
+    2: 230
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 231
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 31
+  }
+  5 {
+    1: 25
+    2: 232
+  }
+  5 {
+    1: 25
+    2: 35
+  }
+  5 {
+    1: 25
+    2: 233
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 234
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 31
+  }
+  5 {
+    1: 25
+    2: 235
+  }
+  5 {
+    1: 25
+    2: 35
+  }
+  5 {
+    1: 25
+    2: 236
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 31
+  }
+  5 {
+    1: 25
+    2: 237
+  }
+  5 {
+    1: 25
+    2: 35
+  }
+  5 {
+    1: 25
+    2: 238
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 41
+    2: 17
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 45
+  }
+  5 {
+    1: 35
+    2: 1069
+  }
+  5 {
+    1: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 42
+  }
+  5 {
+    1: 47
+  }
+  5 {
+    1: 48
+  }
+  5 {
+    1: 49
+    2: 2
+  }
+  5 {
+    1: 25
+    2: 239
+  }
+  5 {
+    1: 41
+    2: 27
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 240
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 241
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 242
+  }
+  5 {
+    1: 25
+    2: 6
+  }
+  5 {
+    1: 41
+    2: 10
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 11
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 243
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 244
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 245
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 31
+  }
+  5 {
+    1: 41
+    2: 13
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+    2: 1
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 1266
+  }
+  5 {
+    1: 25
+    2: 210
+  }
+  5 {
+    1: 41
+    2: 9
+    3: 1
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 1187
+  }
+  5 {
+    1: 25
+    2: 246
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 247
+  }
+  5 {
+    1: 25
+    2: 42
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 248
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 249
+  }
+  5 {
+    1: 25
+    2: 6
+  }
+  5 {
+    1: 41
+    2: 10
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 11
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 250
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 251
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 252
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 31
+  }
+  5 {
+    1: 41
+    2: 13
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+    2: 1
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 1172
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 12
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 253
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 254
+  }
+  5 {
+    1: 25
+    2: 42
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 31
+  }
+  5 {
+    1: 25
+    2: 255
+  }
+  5 {
+    1: 25
+    2: 35
+  }
+  5 {
+    1: 25
+    2: 256
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 1186
+  }
+  5 {
+    1: 25
+    2: 257
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 258
+  }
+  5 {
+    1: 25
+    2: 42
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 31
+  }
+  5 {
+    1: 25
+    2: 259
+  }
+  5 {
+    1: 25
+    2: 35
+  }
+  5 {
+    1: 25
+    2: 260
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 1187
+  }
+  5 {
+    1: 25
+    2: 210
+  }
+  5 {
+    1: 41
+    2: 9
+    3: 1
+  }
+  5 {
+    1: 25
+    2: 2
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 1265
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 12
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 261
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 31
+  }
+  5 {
+    1: 25
+    2: 262
+  }
+  5 {
+    1: 25
+    2: 35
+  }
+  5 {
+    1: 25
+    2: 263
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 264
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 265
+  }
+  5 {
+    1: 25
+    2: 6
+  }
+  5 {
+    1: 41
+    2: 10
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 11
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 266
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 267
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 268
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 31
+  }
+  5 {
+    1: 41
+    2: 13
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+    2: 1
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 1250
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 12
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 269
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 31
+  }
+  5 {
+    1: 25
+    2: 270
+  }
+  5 {
+    1: 25
+    2: 35
+  }
+  5 {
+    1: 25
+    2: 271
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 272
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 1264
+  }
+  5 {
+    1: 25
+    2: 273
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 274
+  }
+  5 {
+    1: 25
+    2: 42
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 31
+  }
+  5 {
+    1: 25
+    2: 275
+  }
+  5 {
+    1: 25
+    2: 35
+  }
+  5 {
+    1: 25
+    2: 276
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 1265
+  }
+  5 {
+    1: 35
+    2: 1280
+  }
+  5 {
+    1: 25
+    2: 277
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 278
+  }
+  5 {
+    1: 25
+    2: 42
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 31
+  }
+  5 {
+    1: 25
+    2: 279
+  }
+  5 {
+    1: 25
+    2: 35
+  }
+  5 {
+    1: 25
+    2: 280
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 281
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 282
+  }
+  5 {
+    1: 25
+    2: 7
+  }
+  5 {
+    1: 41
+    2: 10
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 11
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 283
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 284
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 31
+  }
+  5 {
+    1: 41
+    2: 13
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+    2: 1
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 1359
+  }
+  5 {
+    1: 25
+    2: 210
+  }
+  5 {
+    1: 41
+    2: 9
+    3: 1
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 1326
+  }
+  5 {
+    1: 25
+    2: 285
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 31
+  }
+  5 {
+    1: 25
+    2: 286
+  }
+  5 {
+    1: 25
+    2: 35
+  }
+  5 {
+    1: 25
+    2: 287
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 288
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 1326
+  }
+  5 {
+    1: 25
+    2: 210
+  }
+  5 {
+    1: 41
+    2: 9
+    3: 1
+  }
+  5 {
+    1: 25
+    2: 2
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 1358
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 12
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 289
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 31
+  }
+  5 {
+    1: 25
+    2: 290
+  }
+  5 {
+    1: 25
+    2: 35
+  }
+  5 {
+    1: 25
+    2: 291
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 292
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 31
+  }
+  5 {
+    1: 25
+    2: 293
+  }
+  5 {
+    1: 25
+    2: 35
+  }
+  5 {
+    1: 25
+    2: 294
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 295
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 1358
+  }
+  5 {
+    1: 35
+    2: 1411
+  }
+  5 {
+    1: 51
+    2: 1
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 1402
+  }
+  5 {
+    1: 25
+    2: 210
+  }
+  5 {
+    1: 41
+    2: 9
+    3: 1
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 1378
+  }
+  5 {
+    1: 25
+    2: 296
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 31
+  }
+  5 {
+    1: 25
+    2: 297
+  }
+  5 {
+    1: 25
+    2: 35
+  }
+  5 {
+    1: 25
+    2: 298
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 1378
+  }
+  5 {
+    1: 25
+    2: 210
+  }
+  5 {
+    1: 41
+    2: 9
+    3: 1
+  }
+  5 {
+    1: 25
+    2: 2
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 1401
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 12
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 299
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 31
+  }
+  5 {
+    1: 25
+    2: 300
+  }
+  5 {
+    1: 25
+    2: 35
+  }
+  5 {
+    1: 25
+    2: 301
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 302
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 1401
+  }
+  5 {
+    1: 35
+    2: 1411
+  }
+  5 {
+    1: 25
+    2: 303
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 31
+  }
+  5 {
+    1: 25
+    2: 304
+  }
+  5 {
+    1: 25
+    2: 35
+  }
+  5 {
+    1: 25
+    2: 305
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 306
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 307
+  }
+  5 {
+    1: 25
+    2: 42
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 308
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 31
+  }
+  5 {
+    1: 25
+    2: 309
+  }
+  5 {
+    1: 25
+    2: 35
+  }
+  5 {
+    1: 25
+    2: 310
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 311
+  }
+  5 {
+    1: 25
+    2: 6
+  }
+  5 {
+    1: 41
+    2: 10
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 11
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 312
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 313
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 31
+  }
+  5 {
+    1: 41
+    2: 13
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+    2: 1
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 1485
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 12
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 210
+  }
+  5 {
+    1: 41
+    2: 9
+    3: 1
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 1469
+  }
+  5 {
+    1: 25
+    2: 314
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 31
+  }
+  5 {
+    1: 25
+    2: 315
+  }
+  5 {
+    1: 25
+    2: 35
+  }
+  5 {
+    1: 25
+    2: 316
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 1469
+  }
+  5 {
+    1: 25
+    2: 210
+  }
+  5 {
+    1: 41
+    2: 9
+    3: 1
+  }
+  5 {
+    1: 25
+    2: 2
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 1484
+  }
+  5 {
+    1: 25
+    2: 317
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 31
+  }
+  5 {
+    1: 25
+    2: 318
+  }
+  5 {
+    1: 25
+    2: 35
+  }
+  5 {
+    1: 25
+    2: 319
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 1484
+  }
+  5 {
+    1: 35
+    2: 1504
+  }
+  5 {
+    1: 51
+    2: 1
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 1497
+  }
+  5 {
+    1: 25
+    2: 320
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 321
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 1504
+  }
+  5 {
+    1: 25
+    2: 322
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 323
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+  }
+  5 {
+    1: 25
+    2: 2
+  }
+  5 {
+    1: 8
+  }
+  5 {
+    1: 37
+    2: 1561
+  }
+  5 {
+    1: 51
+    2: 1
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 1516
+  }
+  5 {
+    1: 25
+    2: 324
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 1516
+  }
+  5 {
+    1: 25
+    2: 325
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 326
+  }
+  5 {
+    1: 25
+    2: 42
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 327
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 31
+  }
+  5 {
+    1: 25
+    2: 328
+  }
+  5 {
+    1: 25
+    2: 35
+  }
+  5 {
+    1: 25
+    2: 329
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 255
+  }
+  5 {
+    1: 41
+    2: 28
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 330
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 41
+    2: 17
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 331
+  }
+  5 {
+    1: 41
+    2: 10
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 332
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 31
+  }
+  5 {
+    1: 41
+    2: 13
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+    2: 1
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 1560
+  }
+  5 {
+    1: 25
+    2: 239
+  }
+  5 {
+    1: 41
+    2: 29
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 1560
+  }
+  5 {
+    1: 35
+    2: 1689
+  }
+  5 {
+    1: 25
+    2: 210
+  }
+  5 {
+    1: 41
+    2: 9
+    3: 1
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 1600
+  }
+  5 {
+    1: 25
+    2: 333
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 31
+  }
+  5 {
+    1: 25
+    2: 334
+  }
+  5 {
+    1: 25
+    2: 35
+  }
+  5 {
+    1: 25
+    2: 335
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 31
+  }
+  5 {
+    1: 25
+    2: 336
+  }
+  5 {
+    1: 25
+    2: 35
+  }
+  5 {
+    1: 25
+    2: 337
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 338
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 74
+  }
+  5 {
+    1: 25
+    2: 339
+  }
+  5 {
+    1: 25
+    2: 42
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 340
+  }
+  5 {
+    1: 25
+    2: 19
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 74
+  }
+  5 {
+    1: 25
+    2: 341
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 1600
+  }
+  5 {
+    1: 25
+    2: 210
+  }
+  5 {
+    1: 41
+    2: 9
+    3: 1
+  }
+  5 {
+    1: 25
+    2: 2
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 1659
+  }
+  5 {
+    1: 25
+    2: 342
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 31
+  }
+  5 {
+    1: 25
+    2: 343
+  }
+  5 {
+    1: 25
+    2: 35
+  }
+  5 {
+    1: 25
+    2: 344
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 345
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 346
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 31
+  }
+  5 {
+    1: 25
+    2: 347
+  }
+  5 {
+    1: 25
+    2: 35
+  }
+  5 {
+    1: 25
+    2: 348
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 349
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 31
+  }
+  5 {
+    1: 25
+    2: 350
+  }
+  5 {
+    1: 25
+    2: 35
+  }
+  5 {
+    1: 25
+    2: 351
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 352
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 31
+  }
+  5 {
+    1: 25
+    2: 353
+  }
+  5 {
+    1: 25
+    2: 35
+  }
+  5 {
+    1: 25
+    2: 354
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 355
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 74
+  }
+  5 {
+    1: 25
+    2: 356
+  }
+  5 {
+    1: 25
+    2: 42
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 357
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 1659
+  }
+  5 {
+    1: 25
+    2: 3000
+  }
+  5 {
+    1: 41
+    2: 17
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 74
+  }
+  5 {
+    1: 25
+    2: 358
+  }
+  5 {
+    1: 25
+    2: 19
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 359
+  }
+  5 {
+    1: 25
+    2: 19
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 74
+  }
+  5 {
+    1: 25
+    2: 360
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 361
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 362
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 363
+  }
+  5 {
+    1: 25
+    2: 364
+  }
+  5 {
+    1: 25
+    2: 35
+  }
+  5 {
+    1: 25
+    2: 365
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 42
+  }
+  5 {
+    1: 47
+  }
+  5 {
+    1: 48
+  }
+  5 {
+    1: 49
+    2: 1
+  }
+  5 {
+    1: 25
+    2: 255
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 46
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 3
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 41
+    2: 7
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 366
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 367
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 31
+  }
+  5 {
+    1: 25
+    2: 368
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 369
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 370
+  }
+  5 {
+    1: 25
+    2: 371
+  }
+  5 {
+    1: 25
+    2: 42
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 31
+  }
+  5 {
+    1: 25
+    2: 372
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 373
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 374
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 31
+  }
+  5 {
+    1: 25
+    2: 375
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 376
+  }
+  5 {
+    1: 41
+    2: 10
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 35
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 11
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 377
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 378
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 41
+    2: 13
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 1774
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 379
+  }
+  5 {
+    1: 25
+    2: 19
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 31
+  }
+  5 {
+    1: 25
+    2: 380
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 1792
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 381
+  }
+  5 {
+    1: 25
+    2: 19
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 31
+  }
+  5 {
+    1: 25
+    2: 382
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 370
+  }
+  5 {
+    1: 25
+    2: 383
+  }
+  5 {
+    1: 25
+    2: 19
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 31
+  }
+  5 {
+    1: 25
+    2: 384
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 2000
+  }
+  5 {
+    1: 41
+    2: 17
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 385
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 38
+  }
+  5 {
+    1: 25
+    2: 386
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 14
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 387
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 370
+  }
+  5 {
+    1: 25
+    2: 388
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 389
+  }
+  5 {
+    1: 41
+    2: 10
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 35
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 11
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 390
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 391
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 41
+    2: 13
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 1840
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 392
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 1867
+  }
+  5 {
+    1: 25
+    2: 183
+  }
+  5 {
+    1: 25
+    2: 393
+  }
+  5 {
+    1: 25
+    2: 18446744073692774655
+  }
+  5 {
+    1: 41
+    2: 23
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 394
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 395
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 370
+  }
+  5 {
+    1: 25
+    2: 396
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 397
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 398
+  }
+  5 {
+    1: 25
+    2: 399
+  }
+  5 {
+    1: 41
+    2: 22
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 71
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 370
+  }
+  5 {
+    1: 25
+    2: 400
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 401
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 370
+  }
+  5 {
+    1: 25
+    2: 402
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 403
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 404
+  }
+  5 {
+    1: 41
+    2: 10
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 35
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 11
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 405
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 406
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 41
+    2: 13
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 1914
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 407
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 1918
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 408
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 370
+  }
+  5 {
+    1: 25
+    2: 409
+  }
+  5 {
+    1: 25
+    2: 19
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 410
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 411
+  }
+  5 {
+    1: 25
+    2: 412
+  }
+  5 {
+    1: 41
+    2: 22
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 370
+  }
+  5 {
+    1: 25
+    2: 413
+  }
+  5 {
+    1: 25
+    2: 19
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 95
+  }
+  5 {
+    1: 25
+    2: 414
+  }
+  5 {
+    1: 25
+    2: 2105376255
+  }
+  5 {
+    1: 41
+    2: 23
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 2000
+  }
+  5 {
+    1: 41
+    2: 17
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 415
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 416
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 19
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 41
+    2: 30
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 417
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 195
+  }
+  5 {
+    1: 25
+    2: 418
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 419
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 420
+  }
+  5 {
+    1: 25
+    2: 421
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 422
+  }
+  5 {
+    1: 25
+    2: 423
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 370
+  }
+  5 {
+    1: 25
+    2: 424
+  }
+  5 {
+    1: 25
+    2: 19
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 425
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 426
+  }
+  5 {
+    1: 25
+    2: 427
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 28
+  }
+  5 {
+    1: 25
+    2: 428
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 420
+  }
+  5 {
+    1: 25
+    2: 429
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 430
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 416
+  }
+  5 {
+    1: 25
+    2: 3
+  }
+  5 {
+    1: 25
+    2: 3
+  }
+  5 {
+    1: 41
+    2: 19
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 431
+  }
+  5 {
+    1: 41
+    2: 27
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 366
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 426
+  }
+  5 {
+    1: 25
+    2: 432
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 433
+  }
+  5 {
+    1: 25
+    2: 42
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 426
+  }
+  5 {
+    1: 25
+    2: 434
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 435
+  }
+  5 {
+    1: 41
+    2: 10
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 35
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 11
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 436
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 437
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 438
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 41
+    2: 13
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 2074
+  }
+  5 {
+    1: 25
+    2: 426
+  }
+  5 {
+    1: 25
+    2: 439
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 426
+  }
+  5 {
+    1: 25
+    2: 440
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 426
+  }
+  5 {
+    1: 25
+    2: 441
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 45
+  }
+  5 {
+    1: 35
+    2: 2163
+  }
+  5 {
+    1: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 2159
+  }
+  5 {
+    1: 51
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 2118
+  }
+  5 {
+    1: 25
+    2: 426
+  }
+  5 {
+    1: 25
+    2: 442
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 443
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 426
+  }
+  5 {
+    1: 25
+    2: 444
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 445
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 446
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 370
+  }
+  5 {
+    1: 25
+    2: 447
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 448
+  }
+  5 {
+    1: 25
+    2: 42
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 426
+  }
+  5 {
+    1: 25
+    2: 449
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 45
+  }
+  5 {
+    1: 35
+    2: 2163
+  }
+  5 {
+    1: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 2159
+  }
+  5 {
+    1: 25
+    2: 426
+  }
+  5 {
+    1: 25
+    2: 450
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 426
+  }
+  5 {
+    1: 25
+    2: 451
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 28
+  }
+  5 {
+    1: 25
+    2: 452
+  }
+  5 {
+    1: 25
+    2: 19
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 420
+  }
+  5 {
+    1: 25
+    2: 453
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 454
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 370
+  }
+  5 {
+    1: 25
+    2: 455
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 38
+  }
+  5 {
+    1: 25
+    2: 456
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 14
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 457
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 45
+  }
+  5 {
+    1: 35
+    2: 2225
+  }
+  5 {
+    1: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 42
+  }
+  5 {
+    1: 47
+  }
+  5 {
+    1: 48
+  }
+  5 {
+    1: 49
+    2: 1
+  }
+  5 {
+    1: 25
+    2: 458
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 459
+  }
+  5 {
+    1: 25
+    2: 42
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 370
+  }
+  5 {
+    1: 25
+    2: 460
+  }
+  5 {
+    1: 25
+    2: 42
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 461
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 195
+  }
+  5 {
+    1: 25
+    2: 462
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 426
+  }
+  5 {
+    1: 25
+    2: 463
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 464
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 255
+  }
+  5 {
+    1: 41
+    2: 28
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 465
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 41
+    2: 17
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 466
+  }
+  5 {
+    1: 41
+    2: 10
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 467
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 41
+    2: 13
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 2221
+  }
+  5 {
+    1: 25
+    2: 431
+  }
+  5 {
+    1: 41
+    2: 29
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 2221
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 42
+  }
+  5 {
+    1: 47
+  }
+  5 {
+    1: 48
+  }
+  5 {
+    1: 49
+    2: 1
+  }
+  5 {
+    1: 25
+    2: 426
+  }
+  5 {
+    1: 25
+    2: 468
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 420
+  }
+  5 {
+    1: 25
+    2: 469
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 426
+  }
+  5 {
+    1: 25
+    2: 470
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 420
+  }
+  5 {
+    1: 25
+    2: 471
+  }
+  5 {
+    1: 25
+    2: 42
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 426
+  }
+  5 {
+    1: 25
+    2: 472
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 426
+  }
+  5 {
+    1: 25
+    2: 473
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 28
+  }
+  5 {
+    1: 25
+    2: 474
+  }
+  5 {
+    1: 25
+    2: 19
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 426
+  }
+  5 {
+    1: 25
+    2: 475
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 426
+  }
+  5 {
+    1: 25
+    2: 476
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 28
+  }
+  5 {
+    1: 25
+    2: 477
+  }
+  5 {
+    1: 25
+    2: 19
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 426
+  }
+  5 {
+    1: 25
+    2: 478
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 420
+  }
+  5 {
+    1: 25
+    2: 479
+  }
+  5 {
+    1: 25
+    2: 42
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 480
+  }
+  5 {
+    1: 25
+    2: 42
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 426
+  }
+  5 {
+    1: 25
+    2: 481
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 482
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 483
+  }
+  5 {
+    1: 25
+    2: 6
+  }
+  5 {
+    1: 41
+    2: 10
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 35
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 11
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 484
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 485
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 486
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 41
+    2: 13
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 2338
+  }
+  5 {
+    1: 25
+    2: 487
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 38
+  }
+  5 {
+    1: 25
+    2: 488
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 14
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 489
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 2368
+  }
+  5 {
+    1: 25
+    2: 490
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 426
+  }
+  5 {
+    1: 25
+    2: 491
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 492
+  }
+  5 {
+    1: 25
+    2: 42
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 422
+  }
+  5 {
+    1: 25
+    2: 493
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 426
+  }
+  5 {
+    1: 25
+    2: 494
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 495
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 496
+  }
+  5 {
+    1: 25
+    2: 19
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 426
+  }
+  5 {
+    1: 25
+    2: 497
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 420
+  }
+  5 {
+    1: 25
+    2: 498
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 426
+  }
+  5 {
+    1: 25
+    2: 499
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 420
+  }
+  5 {
+    1: 25
+    2: 500
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 426
+  }
+  5 {
+    1: 25
+    2: 501
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 255
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 10
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 41
+    2: 3
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 502
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 503
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 504
+  }
+  5 {
+    1: 25
+    2: 42
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 370
+  }
+  5 {
+    1: 25
+    2: 505
+  }
+  5 {
+    1: 25
+    2: 19
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 506
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 416
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 19
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 420
+  }
+  5 {
+    1: 25
+    2: 507
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 508
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 28
+  }
+  5 {
+    1: 25
+    2: 509
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 420
+  }
+  5 {
+    1: 25
+    2: 510
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 420
+  }
+  5 {
+    1: 25
+    2: 511
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 21
+  }
+  5 {
+    1: 41
+    2: 9
+    3: 1
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 2456
+  }
+  5 {
+    1: 25
+    2: 512
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 420
+  }
+  5 {
+    1: 25
+    2: 513
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 2456
+  }
+  5 {
+    1: 25
+    2: 420
+  }
+  5 {
+    1: 25
+    2: 514
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 10
+  }
+  5 {
+    1: 41
+    2: 19
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 515
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 516
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 517
+  }
+  5 {
+    1: 25
+    2: 42
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 518
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 519
+  }
+  5 {
+    1: 25
+    2: 7
+  }
+  5 {
+    1: 41
+    2: 10
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 42
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 11
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 520
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 521
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 41
+    2: 13
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 2532
+  }
+  5 {
+    1: 25
+    2: 522
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 523
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 524
+  }
+  5 {
+    1: 25
+    2: 42
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 525
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 38
+  }
+  5 {
+    1: 25
+    2: 526
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 14
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 527
+  }
+  5 {
+    1: 25
+    2: 528
+  }
+  5 {
+    1: 41
+    2: 22
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 529
+  }
+  5 {
+    1: 25
+    2: 42
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 2543
+  }
+  5 {
+    1: 25
+    2: 530
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 531
+  }
+  5 {
+    1: 25
+    2: 42
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 532
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 533
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 416
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 19
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 420
+  }
+  5 {
+    1: 25
+    2: 534
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 28
+  }
+  5 {
+    1: 25
+    2: 535
+  }
+  5 {
+    1: 25
+    2: 19
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 420
+  }
+  5 {
+    1: 25
+    2: 536
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 28
+  }
+  5 {
+    1: 25
+    2: 537
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 538
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 255
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 539
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 41
+    2: 3
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 6000
+  }
+  5 {
+    1: 41
+    2: 17
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 540
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 25
+    2: 541
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 542
+  }
+  5 {
+    1: 25
+    2: 19
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 25
+    2: 543
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 544
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 545
+  }
+  5 {
+    1: 25
+    2: 19
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 25
+    2: 546
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 25
+    2: 547
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 25
+    2: 548
+  }
+  5 {
+    1: 25
+    2: 19
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 549
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 550
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 25
+    2: 551
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 552
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 25
+    2: 553
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 25
+    2: 554
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 555
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 556
+  }
+  5 {
+    1: 41
+    2: 10
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 35
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 11
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 557
+  }
+  5 {
+    1: 25
+    2: 558
+  }
+  5 {
+    1: 41
+    2: 31
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 559
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 41
+    2: 13
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 2707
+  }
+  5 {
+    1: 25
+    2: 255
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 3000
+  }
+  5 {
+    1: 41
+    2: 17
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 46
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 41
+    2: 3
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 560
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 25
+    2: 561
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 562
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 563
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 25
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 45
+  }
+  5 {
+    1: 35
+    2: 2768
+  }
+  5 {
+    1: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 2720
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 564
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 25
+    2: 565
+  }
+  5 {
+    1: 25
+    2: 19
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 563
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 41
+    2: 25
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 566
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 567
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 51
+  }
+  5 {
+    1: 25
+    2: 568
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 569
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 570
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 571
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 51
+  }
+  5 {
+    1: 25
+    2: 572
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 573
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 51
+  }
+  5 {
+    1: 25
+    2: 574
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 3000
+  }
+  5 {
+    1: 41
+    2: 17
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 575
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 42
+  }
+  5 {
+    1: 47
+  }
+  5 {
+    1: 48
+  }
+  5 {
+    1: 49
+    2: 1
+  }
+  5 {
+    1: 25
+    2: 255
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 576
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 3
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 577
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 41
+    2: 25
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 141
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 578
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 579
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 25
+    2: 580
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 581
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 582
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 583
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 25
+    2: 584
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 585
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 586
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 41
+    2: 17
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 587
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 588
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 99
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 589
+  }
+  5 {
+    1: 25
+    2: 42
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 590
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 363
+  }
+  5 {
+    1: 25
+    2: 591
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 195
+  }
+  5 {
+    1: 25
+    2: 592
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 363
+  }
+  5 {
+    1: 25
+    2: 593
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 594
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 595
+  }
+  5 {
+    1: 25
+    2: 7
+  }
+  5 {
+    1: 41
+    2: 10
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 42
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 11
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 596
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 41
+    2: 13
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 2972
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 597
+  }
+  5 {
+    1: 25
+    2: 42
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 598
+  }
+  5 {
+    1: 25
+    2: 7
+  }
+  5 {
+    1: 41
+    2: 10
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 42
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 11
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 599
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 600
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 601
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 41
+    2: 13
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 2967
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 602
+  }
+  5 {
+    1: 25
+    2: 42
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 603
+  }
+  5 {
+    1: 25
+    2: 7
+  }
+  5 {
+    1: 41
+    2: 10
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 42
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 11
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 604
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 605
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 606
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 41
+    2: 13
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+  }
+  5 {
+    1: 25
+    2: 2
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 2962
+  }
+  5 {
+    1: 25
+    2: 577
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 25
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 607
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 2000
+  }
+  5 {
+    1: 41
+    2: 17
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 363
+  }
+  5 {
+    1: 25
+    2: 608
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 195
+  }
+  5 {
+    1: 25
+    2: 609
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 610
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 2966
+  }
+  5 {
+    1: 45
+  }
+  5 {
+    1: 35
+    2: 2984
+  }
+  5 {
+    1: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 2971
+  }
+  5 {
+    1: 45
+  }
+  5 {
+    1: 35
+    2: 2984
+  }
+  5 {
+    1: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 2976
+  }
+  5 {
+    1: 45
+  }
+  5 {
+    1: 35
+    2: 2984
+  }
+  5 {
+    1: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 45
+  }
+  5 {
+    1: 35
+    2: 3032
+  }
+  5 {
+    1: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 42
+  }
+  5 {
+    1: 47
+  }
+  5 {
+    1: 48
+  }
+  5 {
+    1: 49
+  }
+  5 {
+    1: 25
+    2: 611
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 363
+  }
+  5 {
+    1: 25
+    2: 612
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 613
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 614
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 195
+  }
+  5 {
+    1: 25
+    2: 615
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 616
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 195
+  }
+  5 {
+    1: 25
+    2: 617
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 618
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 195
+  }
+  5 {
+    1: 25
+    2: 619
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 620
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 621
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 2000
+  }
+  5 {
+    1: 41
+    2: 17
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 42
+  }
+  5 {
+    1: 47
+  }
+  5 {
+    1: 48
+  }
+  5 {
+    1: 49
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 25
+    2: 622
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 623
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 255
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 576
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 3
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 624
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 366
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 577
+  }
+  5 {
+    1: 41
+    2: 9
+    3: 1
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 3074
+  }
+  5 {
+    1: 25
+    2: 363
+  }
+  5 {
+    1: 25
+    2: 625
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 195
+  }
+  5 {
+    1: 25
+    2: 626
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 3082
+  }
+  5 {
+    1: 25
+    2: 31
+  }
+  5 {
+    1: 25
+    2: 627
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 628
+  }
+  5 {
+    1: 25
+    2: 629
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 630
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 631
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 632
+  }
+  5 {
+    1: 25
+    2: 633
+  }
+  5 {
+    1: 41
+    2: 22
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 95
+  }
+  5 {
+    1: 25
+    2: 634
+  }
+  5 {
+    1: 25
+    2: 2105376255
+  }
+  5 {
+    1: 41
+    2: 23
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 635
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 25
+    2: 636
+  }
+  5 {
+    1: 25
+    2: 42
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 3000
+  }
+  5 {
+    1: 41
+    2: 17
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 25
+    2: 637
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 255
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 46
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 41
+    2: 3
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 638
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 42
+  }
+  5 {
+    1: 47
+  }
+  5 {
+    1: 48
+  }
+  5 {
+    1: 49
+    2: 6
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 25
+    2: 121
+  }
+  5 {
+    1: 41
+    2: 9
+    3: 1
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 31
+  }
+  5 {
+    1: 25
+    2: 38
+  }
+  5 {
+    1: 41
+    2: 9
+    3: 1
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 32
+  }
+  5 {
+    1: 25
+    2: 639
+  }
+  5 {
+    1: 41
+    2: 9
+    3: 1
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 33
+  }
+  5 {
+    1: 25
+    2: 640
+  }
+  5 {
+    1: 41
+    2: 9
+    3: 1
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 29
+    2: 4
+  }
+  5 {
+    1: 25
+    2: 641
+  }
+  5 {
+    1: 41
+    2: 9
+    3: 1
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 29
+    2: 5
+  }
+  5 {
+    1: 25
+    2: 642
+  }
+  5 {
+    1: 41
+    2: 9
+    3: 1
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 32
+  }
+  5 {
+    1: 25
+    2: 50
+  }
+  5 {
+    1: 51
+    2: 2
+  }
+  5 {
+    1: 14
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 33
+  }
+  5 {
+    1: 12
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 29
+    2: 4
+  }
+  5 {
+    1: 12
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 212
+  }
+  5 {
+    1: 41
+    2: 9
+    3: 1
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 3183
+  }
+  5 {
+    1: 33
+  }
+  5 {
+    1: 12
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 3183
+  }
+  5 {
+    1: 25
+    2: 123
+  }
+  5 {
+    1: 41
+    2: 9
+    3: 1
+  }
+  5 {
+    1: 25
+    2: 2
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 3192
+  }
+  5 {
+    1: 29
+    2: 5
+  }
+  5 {
+    1: 12
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 3192
+  }
+  5 {
+    1: 25
+    2: 563
+  }
+  5 {
+    1: 41
+    2: 9
+    3: 1
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 3201
+  }
+  5 {
+    1: 29
+    2: 5
+  }
+  5 {
+    1: 12
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 3201
+  }
+  5 {
+    1: 25
+    2: 255
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 7
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 25
+    2: 3
+  }
+  5 {
+    1: 25
+    2: 3
+  }
+  5 {
+    1: 41
+    2: 3
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 45
+  }
+  5 {
+    1: 35
+    2: 3230
+  }
+  5 {
+    1: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+  }
+  5 {
+    1: 51
+    2: 1
+  }
+  5 {
+    1: 51
+    2: 3
+  }
+  5 {
+    1: 51
+    2: 4
+  }
+  5 {
+    1: 51
+    2: 2
+  }
+  5 {
+    1: 51
+    2: 5
+  }
+  5 {
+    1: 45
+  }
+  5 {
+    1: 35
+    2: 3319
+  }
+  5 {
+    1: 24
+    2: 6
+  }
+  5 {
+    1: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 42
+  }
+  5 {
+    1: 47
+  }
+  5 {
+    1: 48
+  }
+  5 {
+    1: 49
+  }
+  5 {
+    1: 25
+    2: 643
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 644
+  }
+  5 {
+    1: 25
+    2: 645
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 646
+  }
+  5 {
+    1: 25
+    2: 647
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 212
+  }
+  5 {
+    1: 41
+    2: 9
+    3: 1
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 3254
+  }
+  5 {
+    1: 25
+    2: 648
+  }
+  5 {
+    1: 25
+    2: 649
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 3258
+  }
+  5 {
+    1: 25
+    2: 650
+  }
+  5 {
+    1: 25
+    2: 651
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 123
+  }
+  5 {
+    1: 41
+    2: 9
+    3: 1
+  }
+  5 {
+    1: 25
+    2: 2
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 3268
+  }
+  5 {
+    1: 25
+    2: 652
+  }
+  5 {
+    1: 25
+    2: 653
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 3272
+  }
+  5 {
+    1: 25
+    2: 654
+  }
+  5 {
+    1: 25
+    2: 655
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 656
+  }
+  5 {
+    1: 25
+    2: 657
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 563
+  }
+  5 {
+    1: 41
+    2: 9
+    3: 1
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 3286
+  }
+  5 {
+    1: 25
+    2: 658
+  }
+  5 {
+    1: 25
+    2: 659
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 3290
+  }
+  5 {
+    1: 25
+    2: 660
+  }
+  5 {
+    1: 25
+    2: 661
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 42
+  }
+  5 {
+    1: 47
+  }
+  5 {
+    1: 48
+  }
+  5 {
+    1: 49
+  }
+  5 {
+    1: 25
+    2: 662
+  }
+  5 {
+    1: 25
+    2: 663
+  }
+  5 {
+    1: 41
+    2: 32
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 155
+  }
+  5 {
+    1: 41
+    2: 9
+    3: 1
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 3311
+  }
+  5 {
+    1: 25
+    2: 662
+  }
+  5 {
+    1: 25
+    2: 664
+  }
+  5 {
+    1: 41
+    2: 32
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 3311
+  }
+  5 {
+    1: 25
+    2: 665
+  }
+  5 {
+    1: 25
+    2: 666
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 42
+  }
+  5 {
+    1: 47
+  }
+  5 {
+    1: 48
+  }
+  5 {
+    1: 49
+    2: 1
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 51
+    2: 18446744073709551608
+  }
+  5 {
+    1: 51
+    2: 18446744073709551609
+  }
+  5 {
+    1: 14
+  }
+  5 {
+    1: 25
+    2: 5
+  }
+  5 {
+    1: 51
+    2: 18446744073709551611
+  }
+  5 {
+    1: 16
+  }
+  5 {
+    1: 14
+  }
+  5 {
+    1: 25
+    2: 5
+  }
+  5 {
+    1: 51
+    2: 18446744073709551613
+  }
+  5 {
+    1: 16
+  }
+  5 {
+    1: 14
+  }
+  5 {
+    1: 25
+    2: 5
+  }
+  5 {
+    1: 51
+    2: 18446744073709551610
+  }
+  5 {
+    1: 16
+  }
+  5 {
+    1: 14
+  }
+  5 {
+    1: 51
+    2: 18446744073709551612
+  }
+  5 {
+    1: 25
+    2: 50
+  }
+  5 {
+    1: 17
+  }
+  5 {
+    1: 14
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 667
+  }
+  5 {
+    1: 51
+    2: 18446744073709551608
+  }
+  5 {
+    1: 41
+    2: 25
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 668
+  }
+  5 {
+    1: 51
+    2: 18446744073709551609
+  }
+  5 {
+    1: 41
+    2: 25
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 641
+  }
+  5 {
+    1: 51
+    2: 18446744073709551611
+  }
+  5 {
+    1: 41
+    2: 25
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 642
+  }
+  5 {
+    1: 51
+    2: 18446744073709551613
+  }
+  5 {
+    1: 41
+    2: 25
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 640
+  }
+  5 {
+    1: 51
+    2: 18446744073709551610
+  }
+  5 {
+    1: 41
+    2: 25
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 639
+  }
+  5 {
+    1: 51
+    2: 18446744073709551612
+  }
+  5 {
+    1: 41
+    2: 25
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 669
+  }
+  5 {
+    1: 51
+    2: 18446744073709551611
+  }
+  5 {
+    1: 25
+    2: 5
+  }
+  5 {
+    1: 16
+  }
+  5 {
+    1: 41
+    2: 25
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 670
+  }
+  5 {
+    1: 51
+    2: 18446744073709551613
+  }
+  5 {
+    1: 25
+    2: 5
+  }
+  5 {
+    1: 16
+  }
+  5 {
+    1: 41
+    2: 25
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 671
+  }
+  5 {
+    1: 51
+    2: 18446744073709551610
+  }
+  5 {
+    1: 25
+    2: 5
+  }
+  5 {
+    1: 16
+  }
+  5 {
+    1: 41
+    2: 25
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 672
+  }
+  5 {
+    1: 51
+    2: 18446744073709551612
+  }
+  5 {
+    1: 25
+    2: 50
+  }
+  5 {
+    1: 17
+  }
+  5 {
+    1: 41
+    2: 25
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 673
+  }
+  5 {
+    1: 51
+  }
+  5 {
+    1: 41
+    2: 25
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 674
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 45
+  }
+  5 {
+    1: 35
+    2: 3294
+  }
+  5 {
+    1: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 675
+  }
+  5 {
+    1: 25
+    2: 676
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 677
+  }
+  5 {
+    1: 25
+    2: 678
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 42
+  }
+}
+8 {
+  1: "unlock_double_sword"
+  2 {
+    1 {
+      2: 17
+    }
+    3: "7rq8oc"
+    4: "1p3vxq"
+  }
+}
+8 {
+  1: "poison_drinks"
+  2 {
+    1 {
+      2: 20
+    }
+    3: "w18l4g"
+    4: "89qzqc"
+  }
+}
+9 {
+  1 {
+    1 {
+      13: 0x796d72615f6e6f63
+    }
+    2: "ICON_SWORD"
+  }
+  3 {
+    1: "stat_prestige"
+    2: "STAT_PRESTIGE"
+  }
+  3 {
+    1: "stat_power"
+    2: "STAT_MAGIC"
+  }
+}
+12: "qosbe1"
+13: "hs87zp"

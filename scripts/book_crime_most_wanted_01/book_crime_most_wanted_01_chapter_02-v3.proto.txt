@@ -1,0 +1,8980 @@
+1 {
+  2 {
+    1: 1
+  }
+  3: "With the help of the Major Crimes Unit, Sam and Dave set out to catch John Tull... but first, they\'ll have to survive each other."
+  5 {
+    1 {
+      2: 1
+    }
+  }
+  6: 3
+  7: 2
+  9: 1
+}
+2 {
+  1: "STAT_SAM"
+  4: 1
+  5: 1
+  6: 2
+  7 {
+    1: "ICON_SAM"
+    2 {
+      1: 254
+      2: 122
+      3: 31
+    }
+    3 {
+      1: 254
+      2: 122
+      3: 31
+    }
+  }
+  9 {
+    1: "sam"
+    2: "Sam was locked"
+    3 {
+      1: 254
+      2: 122
+      3: 31
+    }
+    4 {
+      1: 254
+      2: 122
+      3: 31
+    }
+    5 {
+      1: 254
+      2: 122
+      3: 31
+    }
+  }
+}
+2 {
+  1: "STAT_DAVE"
+  4: 1
+  5: 1
+  6: 1
+  7 {
+    1 {
+      9: 0x455641445f4e4f43
+    }
+    2 {
+      1: 0
+      2: 180
+      3: 255
+    }
+    3 {
+      1: 0
+      2: 180
+      3: 255
+    }
+  }
+  9 {
+    1: "dave"
+    2: "Dave was locked"
+    3 {
+      1: 0
+      2: 180
+      3: 255
+    }
+    4 {
+      1: 0
+      2: 180
+      3: 255
+    }
+    5 {
+      1: 0
+      2: 180
+      3: 255
+    }
+  }
+}
+3 {
+  1: "BG_INT_CAR_RURAL_DAY"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/ccbi/bg_crime_int_car_rural_day-v01.ccbi"
+  }
+}
+3 {
+  1: "PORTRAIT_CUSTOM_SAM_BODY"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_crime_main_sam_body-v01.png"
+  }
+}
+3 {
+  1: "DEP_BG_INT_CAR_RURAL_DAY"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/backgrounds/large/bg_crime_int_car_rural_day-v01.jpg"
+  }
+}
+3 {
+  1: "PORTRAIT_CUSTOM_SAM_HAIR_F_BLONDE"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_crime_main_sam_hair_f_blonde-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_MIRASOL_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_crime_main_mirasol-v01.plist"
+  }
+}
+3 {
+  1: "PORTRAIT_REZA_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_crime_main_reza-v01.plist"
+  }
+}
+3 {
+  1: "DEP_PARTICLE_SUNLIGHT"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/ccbi_images/3x/sunlight_particle.png"
+  }
+}
+3 {
+  1: "DEP_BG_INT_CAPTAINS_OFFICE_NIGHT"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/backgrounds/large/bg_crime_int_office_captain_night-v01.jpg"
+  }
+}
+3 {
+  1: "PORTRAIT_CUSTOM_DAVE_FACE_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_crime_main_dave_face-v02.plist"
+  }
+}
+3 {
+  1: "MUSIC_CRIME_EPIC"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/music/music_crime_epic_long-v01.mp3"
+  }
+}
+3 {
+  1: "PORTRAIT_TULL_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_crime_male_white_redneck_creepy-v01.plist"
+  }
+}
+3 {
+  1: "BG_AMBIENCE_CRIME"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/ccbi/bg_crime_lights_ambience_night-v01.ccbi"
+  }
+}
+3 {
+  1: "BG_INT_LAPD_BULLPEN"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/ccbi/bg_crime_int_bullpen_police_neutral-v01.ccbi"
+  }
+}
+3 {
+  1: "BG_EXT_DESERT_ROAD_DAY"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/ccbi/bg_crime_ext_road_desert_day-v01.ccbi"
+  }
+}
+3 {
+  1: "PORTRAIT_EVAN_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_crime_male_black_marshal_young-v01.plist"
+  }
+}
+3 {
+  1 {
+    9: 0x455641445f4e4f43
+  }
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/icons/3x/icon_crime_police-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_BILL_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_crime_male_white_marshal_old-v01.plist"
+  }
+}
+3 {
+  1: "PORTRAIT_EVAN"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_crime_male_black_marshal_young-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_CUSTOM_SAM_OUTFIT_ORIGINAL"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_crime_main_sam_outfit_original-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_DANA"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_crime_female_black_cop_captain-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_TULL"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_crime_male_white_redneck_creepy-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_CUSTOM_DAVE_OUTFIT_SUIT_GREY"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_crime_main_dave_outfit_suit_grey-v02.png"
+  }
+}
+3 {
+  1: "MUSIC_CRIME_TENSE"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/music/music_crime_tense_long-v01.mp3"
+  }
+}
+3 {
+  1: "PORTRAIT_DANA_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_crime_female_black_cop_captain-v01.plist"
+  }
+}
+3 {
+  1: "DEP_BG_EXT_DESERT_ROAD_DAY"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/backgrounds/large/bg_crime_ext_road_desert_day-v01.jpg"
+  }
+}
+3 {
+  1: "PORTRAIT_CUSTOM_DAVE_FACE"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_crime_main_dave_face-v02.png"
+  }
+}
+3 {
+  1: "DEP_BG_AMBIENCE_CRIME"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/backgrounds/large/bg_crime_lights_ambience_night-v01.jpg"
+  }
+}
+3 {
+  1: "BG_INT_LOCKUP"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/ccbi/bg_crime_int_lockup_security_neutral-v01.ccbi"
+  }
+}
+3 {
+  1: "PORTRAIT_MIRASOL"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_crime_main_mirasol-v01.png"
+  }
+}
+3 {
+  1: "ICON_SAM"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/icons/3x/icon_crime_marshal-v01.png"
+  }
+}
+3 {
+  1: "DEP_PARTICLE_FIRE"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/ccbi_images/3x/fire_particle.png"
+  }
+}
+3 {
+  1: "PORTRAIT_NIKHIL"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_crime_main_nikhil-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_CUSTOM_SAM_FACE_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_crime_main_sam_face-v01.plist"
+  }
+}
+3 {
+  1: "MUSIC_CRIME_SAD"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/music/music_crime_sad_long-v01.mp3"
+  }
+}
+3 {
+  1: "PORTRAIT_NIKHIL_PLIST"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_crime_main_nikhil-v01.plist"
+  }
+}
+3 {
+  1: "PORTRAIT_CUSTOM_SAM_FACE"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_crime_main_sam_face-v01.png"
+  }
+}
+3 {
+  1: "DEP_BG_INT_LOCKUP"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/backgrounds/large/bg_crime_int_lockup_security_neutral-v01.jpg"
+  }
+}
+3 {
+  1: "MUSIC_CRIME_CHILL"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/music/music_crime_chill_long-v01.mp3"
+  }
+}
+3 {
+  1: "BG_INT_CAPTAINS_OFFICE_NIGHT"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/ccbi/bg_crime_int_office_captain_night-v01.ccbi"
+  }
+}
+3 {
+  1: "MUSIC_CRIME_CREEPY"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/music/music_crime_creepy_long-v01.mp3"
+  }
+}
+3 {
+  1: "PORTRAIT_BILL"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_crime_male_white_marshal_old-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_CUSTOM_DAVE_HAIR_F_BROWN"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_crime_main_dave_hair_f_brown-v02.png"
+  }
+}
+3 {
+  1: "PORTRAIT_REZA"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits/3x/portrait_crime_main_reza-v01.png"
+  }
+}
+3 {
+  1: "PORTRAIT_CUSTOM_DAVE_BODY"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_crime_main_dave_body-v02.png"
+  }
+}
+3 {
+  1: "DEP_BG_INT_LAPD_BULLPEN"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/backgrounds/large/bg_crime_int_bullpen_police_neutral-v01.jpg"
+  }
+}
+4 {
+  1: "PORTRAIT_CUSTOM_SAM_OUTFIT_DINNER_MAROON"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_crime_main_sam_outfit_dinner_maroon-v01.png"
+  }
+}
+4 {
+  1: "PORTRAIT_CUSTOM_SAM_OUTFIT_DINNER_WHITE"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_crime_main_sam_outfit_dinner_white-v01.png"
+  }
+}
+4 {
+  1: "PORTRAIT_CUSTOM_SAM_OUTFIT_GALA_BLACK"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_crime_main_sam_outfit_gala_black-v01.png"
+  }
+}
+4 {
+  1: "PORTRAIT_CUSTOM_SAM_OUTFIT_GALA_RED"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_crime_main_sam_outfit_gala_red-v01.png"
+  }
+}
+4 {
+  1: "PORTRAIT_CUSTOM_DAVE_OUTFIT_TUXEDO_BLACK"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_crime_main_dave_outfit_tuxedo_black-v02.png"
+  }
+}
+4 {
+  1: "PORTRAIT_CUSTOM_DAVE_OUTFIT_PANTS_GREY"
+  2 {
+    2: "https://choices-live.pixelberrystudios.com/assets/portraits_custom/3x/portrait_custom_crime_main_dave_outfit_pants_grey-v02.png"
+  }
+}
+5 {
+  1: "crime"
+}
+6 {
+  1: "Bill"
+  2 {
+    1: "Bill"
+    2: "Bill Holton"
+    3 {
+      1: "PORTRAIT_BILL"
+      2: "PORTRAIT_BILL_PLIST"
+    }
+  }
+}
+6 {
+  1: "Nikhil"
+  2 {
+    1: "Nikhil"
+    2: "Nikhil Mantha"
+    3 {
+      1: "PORTRAIT_NIKHIL"
+      2: "PORTRAIT_NIKHIL_PLIST"
+    }
+  }
+}
+6 {
+  1: "Sam"
+  2 {
+    1: "Sam"
+    2: "Samantha Massey"
+    4 {
+      1 {
+        1: "BODY"
+        2 {
+          1: "PORTRAIT_CUSTOM_SAM_BODY"
+        }
+      }
+      1 {
+        1: "FACE"
+        2 {
+          1: "PORTRAIT_CUSTOM_SAM_FACE"
+          2: "PORTRAIT_CUSTOM_SAM_FACE_PLIST"
+        }
+      }
+      1 {
+        1: "OUTFIT"
+        2 {
+          1: "PORTRAIT_CUSTOM_SAM_OUTFIT_ORIGINAL"
+        }
+      }
+      1 {
+        1: "HAIR_F"
+        2 {
+          1: "PORTRAIT_CUSTOM_SAM_HAIR_F_BLONDE"
+        }
+      }
+    }
+  }
+}
+6 {
+  1: "Dana"
+  2 {
+    1: "Dana"
+    2: "Cpt. Dana Beckham"
+    3 {
+      1: "PORTRAIT_DANA"
+      2: "PORTRAIT_DANA_PLIST"
+    }
+  }
+}
+6 {
+  1: "Reza"
+  2 {
+    1: "Reza"
+    2: "Reza Fassihi"
+    3 {
+      1: "PORTRAIT_REZA"
+      2: "PORTRAIT_REZA_PLIST"
+    }
+  }
+}
+6 {
+  1: "Dave"
+  2 {
+    1: "Dave"
+    2: "Dave Reyes"
+    4 {
+      1 {
+        1: "BODY"
+        2 {
+          1: "PORTRAIT_CUSTOM_DAVE_BODY"
+        }
+      }
+      1 {
+        1: "FACE"
+        2 {
+          1: "PORTRAIT_CUSTOM_DAVE_FACE"
+          2: "PORTRAIT_CUSTOM_DAVE_FACE_PLIST"
+        }
+      }
+      1 {
+        1: "OUTFIT"
+        2 {
+          1: "PORTRAIT_CUSTOM_DAVE_OUTFIT_SUIT_GREY"
+        }
+      }
+      1 {
+        1: "HAIR_F"
+        2 {
+          1: "PORTRAIT_CUSTOM_DAVE_HAIR_F_BROWN"
+        }
+      }
+    }
+  }
+}
+6 {
+  1: "Evan"
+  2 {
+    1: "Evan"
+    2: "Evan Shipley"
+    3 {
+      1: "PORTRAIT_EVAN"
+      2: "PORTRAIT_EVAN_PLIST"
+    }
+  }
+}
+6 {
+  1: "Mirasol"
+  2 {
+    1: "Mirasol"
+    2: "Mirasol Bautista"
+    3 {
+      1: "PORTRAIT_MIRASOL"
+      2: "PORTRAIT_MIRASOL_PLIST"
+    }
+  }
+}
+6 {
+  1: "Tull"
+  2 {
+    1: "Tull"
+    2: "John Tull"
+    3 {
+      1: "PORTRAIT_TULL"
+      2: "PORTRAIT_TULL_PLIST"
+    }
+  }
+}
+7 {
+  1: 1
+  2: "FadeMusic"
+  2: "OfferRestartChapter"
+  2: "EndChapter"
+  2: "BgImage"
+  2: "PlayMusic"
+  2: "Evt"
+  2: "BgDissolveColor"
+  2: "SetPrimaryChar"
+  2: "Dlg"
+  2: "BgDissolveImage"
+  2: "BgPan"
+  2: "CreateMenu"
+  2: "SetMenuCharacter"
+  2: "AddMenuChoice"
+  2: "ShowMenu"
+  2: "SetBookVarInt"
+  2: "StatToast"
+  2: "MajorToast"
+  2: "AddMenuChoicePremium"
+  2: "BgColor"
+  3: "CHAPTER COMPLETE"
+  3: "You\'ve reached the end of the chapter. Restart this chapter to try other choices or continue on to the next chapter."
+  3: "Restart Chapter"
+  3: "Continue On"
+  3: "BG_AMBIENCE_CRIME"
+  3: "MUSIC_CRIME_EPIC"
+  3: "<g>Chapter Two: New Blood</g>"
+  3: "Most Wanted"
+  3: "Sam"
+  3: "BG_EXT_DESERT_ROAD_DAY"
+  3: "<tangerine>Now playing as Deputy Marshal Samantha Massey...</tangerine>\n\nEight days ago... on a dusty road near Odessa, Texas..."
+  3: "You lie face up on the asphalt, racked with pain. A dozen small fires burn on the debris-strewn asphalt around you."
+  3: "No... <i>No...</i>"
+  3: "SAD"
+  3: "In front of you, thick black smoke billows and parts... and a scowling, red-eyed man emerges like a demon."
+  3: "Tull"
+  3: "..."
+  3: "ANGRY"
+  3: "You force yourself up, pushing as hard as you can through the pain, drawing up to one knee..."
+  3: "I\'ll kill you... <pause/>kill... <pause/>you..."
+  3: "Tull paces towards you and jams the cold metal barrel of a shotgun into your face."
+  3: "You shoulda taken me up on my offer."
+  3: "BG_INT_LAPD_BULLPEN"
+  3: "MUSIC_CRIME_CHILL"
+  3: "Present day. Los Angeles, California."
+  3: "With a jerk, you shake yourself out of the memory. A mugshot of John Tull stares back at you from the case file quivering in your hands."
+  3: "<slow/>..."
+  3: "You\'re sitting in the waiting chairs outside Captain Beckham\'s office."
+  3: "Through the door, you can hear muffled voices as Detective Dave Reyes argues with his boss."
+  3: "BG_INT_CAPTAINS_OFFICE_NIGHT"
+  3: "Dave"
+  3: "Come on, Captain! We agreed I wouldn\'t have a partner, and now you stick me with <i>her</i>?!"
+  3: "She\'s going to blow all the work I\'ve done building up my sources!"
+  3: "Dana"
+  3: "This isn\'t up for debate, Reyes. John Tull is on the Most Wanted list, and Gavin\'s murder has already hit the news. The mayor wants this case closed yesterday."
+  3: "You\'re our best investigator, and Massey is theirs. And might I add, she has more commendations than even you. You both know what you\'re doing."
+  3: "At least you\'d better. Because if you don\'t catch him quick, it won\'t be my ass on the line."
+  3: "The door opens, and Dave steps out, running a hand through his hair in frustration."
+  3: "Couldn\'t get rid of me, could you?"
+  3: "Not for lack of trying. No getting out of this one."
+  3: "Sounds like we\'re stuck together, so..."
+  3: "NEUTRAL"
+  3: "Let\'s just catch this bastard and be done with it."
+  3: "Stay out of my way, I\'ll stay out of yours."
+  3: "Then I get on the plane back to Texas, and we get the hell out of each other\'s lives."
+  3: "I don\'t see a better option. Alright, \'partner\', let\'s get to work."
+  3: "I\'ll introduce you to the Major Crimes Unit forensic team... <pause/>and you might wanna brace yourself."
+  3: "Sound good?"
+  3: "Sounds great."
+  3: "Fine."
+  3: "<i>Fine!</i>"
+  3: "Just come on. You\'ve gotta meet the Major Crimes Unit forensic team... <pause/>and you might wanna brace yourself."
+  3: "Dave leads you to the precinct\'s crime lab. As the doors open, pop music assails your ears, blaring from speakers across the room."
+  3: "<m>Sirens flickering in your tail lights... <pause/>Your long-lost love\'s your only flaw...</m>"
+  3 {
+    9: 0x63697375
+  }
+  3: "Reza"
+  3: "Nikhil, can we <i>please</i> turn this music off? <c>\'Outlaw\'</c> wasn\'t a good song four years ago, and it\'s still not good now!"
+  3: "Nikhil"
+  3: "No way. Pop princess Hayley Rose experiments with a contrived club anthem sporting a hokey country twist? It\'s a time capsule of American awful. It\'s hilarious."
+  3: "HAPPY"
+  3: "Mirasol"
+  3: "It\'s not hilarious. You\'re just using this contrarian hipster act to get on people\'s nerves."
+  3: "Ouch. Are you saying it\'s not working, Mirasol?"
+  3: "Oh, it\'s working. I\'m going to murder you."
+  3: "I believe her. I once saw Mirasol bring a live grenade to work."
+  3: "My desk decorations are my business, Reza."
+  3: "You smirk at Dave."
+  3: "Your techs sure know how to..."
+  3: "Liven up an office."
+  3: "Waste time."
+  3: "You <i>enjoy</i> this?"
+  3: "SURPRISED"
+  3: "Sure. In a job this serious, if you don\'t let yourself have fun once in a while, you\'ll go as crazy as the people you\'re chasing."
+  3: "...<pause/>Maybe you\'re right. But right now, we\'ve got a killer to catch."
+  3: "Dave hits mute on Nikhil\'s speakers. The team turns to face you."
+  3: "You always run such a tight ship, Reyes?"
+  3: "You think <i>you</i> could control these lunatics?"
+  3: "Piece of cake."
+  3: "You put two fingers in your mouth and issue a sharp whistle!"
+  3: "The forensic team scrambles to their feet as Nikhil quickly shuts off his music."
+  3: "Hm. Gotta learn how to do that..."
+  3: "Okay, everyone, we\'ve got company. This is Sam Massey from the U.S. Marshal Service. Massey, meet the three stooges."
+  3: "That\'s <c>Reza Fassihi</c>, our professional computer geek."
+  3: "Why do you keep introducing me that way? I\'m a data analyst <i>and</i> a digital security consultant <i>and</i> a moderator on The Crown & the Flame Official Fansite--"
+  3: "Okay, I see it now."
+  3: "Over there is <c>Nikhil Mantha</c>, forensic specialist and resident hipster."
+  3: "I\'m only a hipster compared to you hopeless conformists. Honestly, I\'m a little embarrassed for you."
+  3: "And finally, the cheerful one is <c>Dr. Mirasol Bautista</c>, our criminal profiler. She\'s a barrel of laughs."
+  3: "Hmm. Another alpha female."
+  3: "I trust it won\'t come to blows if we respect each other\'s territory, but you should know that I\'m training for that eventuality."
+  3: "Each of them is working up a <c>lead</c> on Tull."
+  3: "(Hmm. Reyes might be a hassle, so it\'d be good to get these guys on my side if I want to catch Tull before he kills again...)"
+  3: "Reza leaps up from his chair and offers an excited handshake."
+  3: "Wow. A bona fide Texas Marshal."
+  3: "\'The Wild West gunslinger surrounded by L.A. glitz and glamour!\' The fish-out-of-water thing is a classic trope in the industry."
+  3: "...The data analysis industry?"
+  3: "He means the <i>entertainment</i> industry."
+  3: "I\'m also an aspiring screenwriter!"
+  3: "Emphasis on the aspiring. He\'s never actually finished a script."
+  3: "I have my Writers Guild card, Nik! That counts!"
+  3: "No, it doesn\'t."
+  3: "<i>My point is...</i><pause/> I\'m kind of a film buff."
+  3: "charmed_reza"
+  3: "(What do I say?)"
+  3: "Sounds like that might come in handy in this town."
+  3: "I\'d rather have you focus on data."
+  3: "Yeah, yeah. I know it\'s..."
+  3: "Wait, really?"
+  3: "STAT_SAM"
+  3: "Sam Skill +10"
+  3: "Yeah. From what I\'ve seen, Hollywood\'s a... <i>particular</i> kind of crazy."
+  3: "You shoot Dave a look."
+  3: "Might help to have someone who speaks that language."
+  3: "Reputation"
+  3: "Reza likes you!"
+  3: "Boom! How\'s that defeat taste, Nikhil? Someone actually appreciates me around here!"
+  3: "Oh, and speaking of crazy Hollywood types, I\'ve pulled up everything there is to find on our victim\'s work."
+  3: "We\'ve got a job to do. So I\'d rather concentrate on the facts."
+  3: "Oh... yeah, totally. God forbid we foster good team relations or anything. Just data then."
+  3: "What\'ve you got for us, Reza?"
+  3: "Reza clacks away at his keyboard, pulling up several windows across the three monitors on his desk."
+  3: "Gavin Routh ran a celebrity gossip blog called <c>Dirty Hollywood</c>. And with the things he\'s posted, he\'s made quite a few enemies."
+  3: "Like who?"
+  3: "Most recently, he\'s posted emails that incriminate director <c>Joshua Neely</c> as a plagiarist."
+  3: "He was the one on tape. Right before the murder, he threw a drink in Gavin\'s face."
+  3: "Well, he\'s not the only one who hated Gavin."
+  3: "<i>Dirty Hollywood</i> also posted evidence that <c>actor Ryan Summers</c> was making large, discreet payments to an unknown woman. He never explicitly says she\'s a call girl, but he sure implies it."
+  3: "Hrm. Ryan didn\'t mention that..."
+  3: "Really? I thought everyone in town trusted you with everything."
+  3: "And finally, Gavin leaked some, uh... <i>illicit</i> cell phone photos of <c>Hayley Rose</c>."
+  3: "You mean, that singer you were just listening to? How did Gavin get all of this?"
+  3: "Can\'t tell from just the site, but whatever it was, it wasn\'t legal."
+  3: "And as for Tull himself, there\'s no paper trail in L.A. yet. Purchases, address... all coming up empty."
+  3: "Try to find out who he was talking to and where he\'s staying, will you?"
+  3: "On it."
+  3: "You and Dave walk over to Nikhil\'s desk, where he taps away furiously on a smartphone."
+  3: "Stop right there."
+  3: "He holds his phone out and snaps a picture of your outfit."
+  3: "Perfect. I\'m \'gramming this."
+  3: "Um, why? I\'m just standing here..."
+  3: "Your style. This whole, rough-and-tumble cowgirl look?"
+  3: "Everyone in L.A. dresses the same right now. So this whole thing you\'re doing? It\'s such a middle finger to the masses."
+  3: "charmed_nikhil"
+  3: "(What do I say?)"
+  3: "I\'m not giving a \'middle finger\' to anyone."
+  3: "I\'m not trying to do a \'thing\'."
+  3: "I assumed you wore those clothes to shock and offend the capitulant mainstream sheep like Dave."
+  3: "I had such high hopes... I thought your hipster game was strong for a second."
+  3: "Nope. I just wear what I like. I don\'t think about offending or disappointing <i>anyone.</i>"
+  3: "Hmm... That\'s actually a pretty hipster thing to say. Maybe there\'s hope for you yet."
+  3: "Ugh! Exactly, right? Everyone else is trying way too hard."
+  3: "But you <i>get it.</i> People like us, we make this look effortless."
+  3: "Sam Skill +10"
+  3: "I\'m pretty sure I don\'t \'get it\'. I just wear what I like."
+  3: "Reputation"
+  3: "Nikhil likes you!"
+  3: "<i>Yes!</i> Like, who cares what the masses think is \'fashionable\'? You are my Patronus right now."
+  3: "I\'m gonna assume that\'s a good thing..."
+  3: "Enough flattery. The forensics, Nikhil."
+  3: "Coming right up."
+  3: "Nikhil turns to his computer and pulls up some notes and files. You see pictures of the crime scene... closeups of the bullet casings..."
+  3: "And a static frozen image from the surveillance camera of John Tull\'s face."
+  3: "As Nikhil works, a memory strikes you, vivid and inescapable..."
+  3: "MUSIC_CRIME_SAD"
+  3: "BG_INT_LOCKUP"
+  3: "Nine days earlier... U.S. Marshals Office, Odessa, Texas..."
+  3: "You toss a huge file down on your desk."
+  3: "Another one for the books."
+  3: "Your partner and best friend, Deputy Marshal Evan Shipley, gawks in amazement."
+  3: "Evan"
+  3: "Damn, is that the Ernesto Torres file? You catch that S.O.B.?"
+  3: "Bagged him and tagged him."
+  3: "Is that a thing we say now? I must have missed that memo."
+  3: "Bill"
+  3: "So long as Massey keeps busting cartel gun-runners, she can say whatever fool thing she wants."
+  3: "Bill Holton, your boss and mentor, kicks his boots up on his desk beside a gold nameplate reading Chief Deputy U.S. Marshal."
+  3: "Nice work, Goldilocks."
+  3: "Just doin\' what you taught me, Old Timer."
+  3: "Listen, Massey. Me and a few of the other Marshals are going to hit Duke\'s after work, grab some drinks."
+  3: "You wanna come? Celebrate your big collar?"
+  3: "(What do I say?)"
+  3: "I\'d love to, but I\'ve got work."
+  3: "Hell yeah. I\'ve earned a break."
+  3: "You jerk your head towards a cell at the end of the office. An unkempt man glares at you from behind the bars with hate-filled eyes..."
+  3: "<slow/>..."
+  3: "Prisoner transport. First thing tomorrow morning. Need to drive this inmate over to <c>death row in Huntsville</c>."
+  3: "He looks... cheerful."
+  3: "Life of a Marshal, right?"
+  3: "You know I can\'t say no to Duke\'s. Think we\'ll be able to convince Peterson to ride that mechanical bull again?"
+  3: "I\'m buying drinks \'til it happens."
+  3: "Not to be too much of a buzzkill... but isn\'t there something you\'re forgetting, Goldilocks?"
+  3: "You follow Bill\'s gaze to a cell at the end of the office. An unkempt man glares at you from behind the bars with hate-filled eyes..."
+  3: "<slow/>..."
+  3: "Oh crap. I totally forgot. I\'ve got a prisoner transport at 5AM tomorrow. Need to take this inmate over to <c>death row in Huntsville</c>."
+  3: "From his cell, Tull lets out a long, slow whistle."
+  3: "Hoo hoo, me and the busty blonde beauty are gonna be all alone in a hot sweaty car..."
+  3: "If that ain\'t a dream come true, I don\'t know what is."
+  3: "He licks his lips, leering."
+  3: "You know what, Goldilocks? You take the night off. I\'ll drive Tull tomorrow."
+  3: "No, no, I couldn\'t ask you to do that..."
+  3: "You ain\'t asking. I\'m telling. You\'re a young gal who\'s gotta get out in the world sometimes. All I\'ve got to look forward to is a glass of whiskey and cleaning Old Genevieve."
+  3: "Bill reaches over to the rack on the wall behind him, taking an old <c>Easton 850 shotgun</c> and placing it carefully on his desk."
+  3: "I swear, Chief... You spend more time with that old 12-gauge than you do with human beings."
+  3: "She\'s one of only two women I ever loved. Now get out of here. Throw one back for me."
+  3: "Alright, Old Timer. I owe you a round next time."
+  3: "Atta girl."
+  3: "You grab your bag and head out. As you go, for one second, your eyes meet John Tull\'s..."
+  3: "<slow/>..."
+  3: "Massey? You with us?"
+  3: "You blink, shaking yourself out of the memory and back into the present. In front of you, Nikhil has pulled up all of his reports."
+  3: "I have here the results of the autopsy and the ballistics analysis."
+  3: "How\'s it look?"
+  3: "Our killer did him dirty. The evidence is consistent with a wound from a <c>sawed-off shotgun fired from approximately three feet away</c>."
+  3: "Projectiles are from a shotgun shell, standard double-aught buckshot. Damage is centered on the abdomen."
+  3: "From what I know of Tull, sounds like..."
+  3: "He\'s sticking to his M.O."
+  3: "He\'s doing something new."
+  3: "Gutshot, point blank, with a shotgun. Tull\'s specialty, the sick bastard."
+  3: "You\'re right. You\'ve done your homework on this guy."
+  3: "Sam Skill +10"
+  3: "You don\'t forget a thing like that."
+  3: "Congrats, but we already knew that. Are there any other details?"
+  3: "Tull\'s switching up his methods. Trying to throw us off."
+  3: "What are you talking about? His file says <c>this matches his modus operandi exactly</c>. You said as much at the scene."
+  3: "I... It\'s just jet lag. I\'m running on fumes."
+  3: "Girl. <i>Same.</i> If you need some energy, I can make you a shot of yerba mate with wheatgrass."
+  3: "Um... How about just a cup of coffee?"
+  3: "Okay, do you mean like a single origin pour-over, or a slow-drip cold brew?"
+  3: "...<pause/>I hate L.A."
+  3: "Nikhil, we already knew his M.O. What we need are details. Anything that might lead us to him."
+  3: "Nikhil taps away at his keyboard, pulling up some info..."
+  3: "It\'s hard to tell from the footage, but I do have an educated guess about the model of the murder weapon."
+  3: "Looks like an old-school <c>Easton 850</c>, probably sawed-off."
+  3: "Did you say... an <i>850</i>?"
+  3: "Does that mean something to you?"
+  3: "No... <pause/>You just... <pause/>don\'t see those every day."
+  3: "Dave leads you to Mirasol\'s desk. She looks up from her neat spread of files and gives you a calculated nod."
+  3: "Mirasol, right? Nice to see it\'s not just a boys\' club in here."
+  3: "Honestly, I never liked the name \'Mirasol\'. It\'s flowery. Perpetuates the misconception that all psychologists are sensitive and approachable."
+  3: "Heaven forbid."
+  3: "I\'ve checked out your file, Massey."
+  3: "Frequent physical altercations. Questionable use of force. Repeated insubordination. It makes for good reading."
+  3: "You writing up a profile on me? \'Cause I\'d love to hear that."
+  3: "For starters, there\'s your propensity for violence and hot-headedness. Like when you brought the fugitive Emmett Green in with multiple broken bones."
+  3: "Only the kneecaps I was aiming for. Green was a 300-pound monster rushing into a crowd of civilians with an explosive."
+  3: "How would <i>you</i> stop him? Ask real nice?"
+  3: "Then there\'s the report of you telling a fugitive with hostages to... \'Grow a backbone, dirtbag\'."
+  3: "Ooh. I want that on a T-shirt."
+  3: "Alfonse Carver. I did it to draw him out from cover, and it worked. Was <i>that</i> in the report?"
+  3: "You use words as weapons. Ironically typical of someone who keeps people at a distance."
+  3: "And there\'s the massive property damage during your raid on the New Flores Cartel, showing reckless disregard for--"
+  3: "Alright, alright! I didn\'t <i>actually</i> mean for you to profile me."
+  3: "I don\'t know, I was actually enjoying that."
+  3: "Are you bothered that I overstepped, or that I was right?"
+  3: "Mirasol catches herself and pauses."
+  3: "I know I can be overly blunt, abrasive to a fault, and difficult to work with."
+  3: "charmed_mirasol"
+  3: "That\'s..."
+  3: "Not true."
+  3: "Not a fault."
+  3: "I\'m sure people just say that because they don\'t know the <i>real</i> you, deep down."
+  3: "Um, this <i>is</i> the real me. I\'m aware of my flaws. Just like I\'m aware of <i>everyone\'s</i> flaws."
+  3: "A swing and a miss, Massey..."
+  3: "Careful, Dave, or I\'ll profile you next."
+  3: "Not to be overly Texan, but you\'re a straight-shooter."
+  3: "A lot of times, this job calls for the cold, hard truth. And the people who give it? Those are people I\'d want on my team any day."
+  3: "Reputation"
+  3: "Mirasol likes you!"
+  3: "Oh, thank god. Honestly, it\'s exhausting having to mince words and coddle my teammates."
+  3: "Reza and Nikhil are basically just tall children. So it\'s nice to have you on board."
+  3: "Sam Skill +10"
+  3: "Likewise."
+  3: "You wink at Dave."
+  3: "Suck-up."
+  3: "Moving on to the case at hand..."
+  3: "With help from your Marshals Office back in Texas, I\'ve already put together a preliminary profile on John Tull, to get into his mind."
+  3: "Not somewhere I want to spend a lot of time."
+  3: "He\'s a paid killer who\'s mostly interested in inflicting pain. <c>He\'s brutal when he should be discreet.</c> Clever, but unstable."
+  3: "Textbook signs of egocentrism, obsessive behavior, and sadism."
+  3: "This guy just gets better and better. Anything else?"
+  3 {
+    9: "st that... look, I\'m not easily disturbed. I read the profiles of psychopaths for a living. Sometimes for recreation."
+  }
+  3: "But this guy... <pause/>this guy <i>scares</i> me."
+  3: "Then we just have to be scarier."
+  3: "You and Dave leave the crime lab and head back to the bullpen."
+  3: "Okay, we\'ve got three leads now, but we have to focus on the most promising one."
+  3: "If Tull\'s getting paid, we should follow up on..."
+  3: "Reza\'s research on Gavin\'s blog."
+  3: "Nikhil\'s ID of Tull\'s gun."
+  3: "Mirasol\'s psych profile on Tull."
+  3: "We\'re hunting for who hired Tull, so we should look into the people he offended."
+  3: "So, everyone with decency?"
+  3: "Sam Skill +10"
+  3: "I mean the people recently showcased on his blog, <i>Dirty Hollywood</i>. That\'s <c>Hayley Rose</c>, <c>Josh Neely</c>, and <c>Ryan Summers</c>."
+  3: "Nikhil was able to identify the model of the murder weapon."
+  3: "It was an old Easton 850. Sawed-off."
+  3: "Riiight... but we can\'t exactly post \'Have you seen this gun?\' flyers around town. How will that help us find him?"
+  3: "Mirasol has been working on a profile of Tull, really getting into his head."
+  3: "If we know how we thinks, maybe we can predict what his next move will be."
+  3: "That\'s all well and good, but it doesn\'t give us a place to start."
+  3: "We need something concrete. Somewhere to go or someone to talk to."
+  3: "Remember what you said at the crime scene... about finding out who hired him in L.A.?"
+  3: "Well... now that you mention it, Reza found the people most recently attacked on Gavin\'s blog, <i>Dirty Hollywood</i>. Hayley Rose, Josh Neely, and Ryan Summers."
+  3: "If we\'re looking for people who\'d hire someone to kill Gavin, they\'re a good place to start."
+  3: "...Unless you got a problem with questioning your Hollywood friends."
+  3: "Actually, no. Chasing the motive here is the smart play. For now, we\'re on the same page."
+  3: "Come on, I\'ll drive."
+  3: "Hope you drive fast. Every minute we waste is a minute Tull\'s out there, a free man."
+  3: "You head for the garage, but stop when you notice Dave\'s not moving. He studies you."
+  3: "Alright, if we\'re gonna be partners, I need you to level with me."
+  3: "Why are you here?"
+  3: "I told you. It\'s my--"
+  3: "Don\'t tell me it\'s your job, because it\'s not. We have local Marshals for this."
+  3: "Something made you get on a plane and fly halfway across the country to nab Tull yourself. Something makes you look like you\'re gonna punch a hole through the wall when you talk about him."
+  3: "It\'s... it\'s personal."
+  3: "Damn right it is. And if this partnership is gonna work, I need to know <i>the person</i> I\'m dealing with."
+  3: "You remember that day by the road... the thick, sweltering heat... the smell of blood in the air..."
+  3: "Tull... <pause/>he..."
+  3: "<g>Find out what happened to Sam and Tull in Texas, in this exclusive flashback scene!</g>"
+  3: "(What do I do?)"
+  3: "[Flashback] Tell Dave the whole story."
+  3: "sam_bill_flashback"
+  3: "Don\'t tell him much."
+  3: "It was a little over a week ago..."
+  3: "Bill was more than my boss. He was my mentor. More of a family to me than my real one ever was..."
+  3: "He killed someone I cared a lot about. My mentor, Bill Holton."
+  3: "He was more of a family to me than my real one ever was... <pause/>Let\'s just leave it at that."
+  3: "You turn away from Dave and suck in your breath to keep yourself from shaking. You close your eyes and exhale."
+  3: "Dave stays quiet for a long moment."
+  3: "We\'re gonna get this bastard, Massey. Tull is going down."
+  3: "...<pause/>Damn straight."
+  3: "BG_INT_CAR_RURAL_DAY"
+  3: "MUSIC_CRIME_TENSE"
+  3: "Dawn is just breaking over the Texas desert. You fly down a rural road in your car, engine roaring, the world flying by in a blur."
+  3: "Your head pounds with your hangover from a night drinking at Duke\'s with the guys, but you barely even notice."
+  3: "Come on, come on..."
+  3: "The police radio in the dash blares..."
+  3: "<e>Shots fired along Route 158... <pause/>Active shooter... <pause/>Possible casualties...</e>"
+  3: "Dispatch"
+  3: "You swing around a corner and come across the crime scene."
+  3: "There\'s been a car accident. A blue sedan lies in the middle of the road, its front caved in."
+  3: "A middle-aged woman lies on the ground, dead, her back a bloody ruin."
+  3: "Nearby is a car you recognize instantly... <pause/>Bill\'s cruiser. It\'s been hit in the side, the windows shattered."
+  3: "Bill hunkers down behind it, holding his Easton 850 lever-action shotgun. Seeing you, he yells..."
+  3: "Sam, get down!"
+  3: "A gunshot fires, blasting through your windshield and exploding your passenger seat\'s headrest!"
+  3: "<shake_portrait/><jiggle>Aaah!</jiggle>"
+  3: "You slam the brakes, skidding to a stop. You roll out of your car, joining Bill behind cover as two more bullets streak by."
+  3: "What the hell\'s going on here?"
+  3: "The blue sedan lost control, slammed into me. Tull got free, grabbed my sidearm, and took cover behind that car."
+  3: "That poor woman in the road\'s the other driver. She tried to run for cover... and Tull shot her in the back."
+  3: "Evan\'s on his way with backup. The entire Marshals Office, locked and loaded."
+  3: "We just need to stall Tull \'til they get here."
+  3: "You crane your head around, trying to catch a glimpse of Tull. You can just barely make out his shape, lurking behind the sedan..."
+  3: "Well, well, would ya look at that? If it ain\'t the world\'s sexiest Marshal. I was hoping you\'d join the party."
+  3: "Come back here and give me a kiss, darling, and I\'ll go right back to jail. I promise."
+  3: "I\'ve got a better deal for you, Tull."
+  3: "How about I..."
+  3: "Put in a good word for you with the judge?"
+  3: "Put a bullet through your skull?"
+  3: "Goddamn, woman, how dumb do you think I am? I\'m already on death row, and I just killed again. I\'d be lucky if the judge doesn\'t bash my head in with that stupid little hammer!"
+  3: "It\'s called a gavel, you ignoramus."
+  3: "Yeah, well, I\'m called the man with the goddamn gun! And I\'m not making any deals!"
+  3: "Oh, you\'re a <i>feisty</i> one, aren\'t you?"
+  3: "Much as I\'d love to go mano-a-lady with you, I\'m thinking today\'s not the day."
+  3: "See, I know how you piggies do these things. And I\'m betting you\'ve got the whole goddamn cavalry tearing down here, itching to put me down."
+  3: "Now, I kinda thought this would be the part where I pop around, go down in a blaze of glory, and see if I can take you two with me."
+  3: "But then I noticed..."
+  3: "Noticed what?"
+  3: "Your car\'s leaking gas."
+  3: "You and Bill both see it at the same time. A puddle of gasoline, leaking out of the tank of Bill\'s cruiser, pooled in the asphalt by his far tire."
+  3: "Ah hell..."
+  3: "Tull pops around from behind cover and fires a single shot with Bill\'s pistol, striking the gasoline puddle."
+  3: "It ignites, a trail of flame streaking up towards the tank of the car you\'re hiding behind."
+  3: "Bill\'s eyes meet yours for a fraction of second..."
+  3: "<slow/>..."
+  3: "Then he shoves you away as hard as he can, pushing you clear!"
+  3: "<shake_portrait/><l>NO!</l>"
+  3: "<explosion><l>BOOOOOM!</l></explosion> The car explodes in an enormous fireball!"
+  3: "The shockwave hurls you back. You hit the ground hard, blinded and stunned."
+  3: "<shake_portrait/><jiggle>Hfff...</jiggle>"
+  3: "With a gasp, you push yourself up."
+  3: "MUSIC_CRIME_CREEPY"
+  3: "The car is a smoldering ruin."
+  3: "Bill lies a few feet behind it, badly burnt. His clothes are scorched, and his arm is charred and bloody."
+  3: "<shake_portrait/><jiggle>Nngh...</jiggle>"
+  3: "No... <i>No...</i>"
+  3: "Like a red-eyed demon, Tull emerges from the smoke."
+  3: "He stalks towards Bill with an enormous grin, then kneels down to pick up Bill\'s vintage shotgun."
+  3: "You try to move, but every muscle in your body flares in pain from the impact."
+  3: "All you can do is watch in horror as Tull levels the shotgun directly at Bill\'s stomach."
+  3: "End of the line, gramps."
+  3: "<slow/><i>...Go to hell.<i>"
+  3: "(What do I do?)"
+  3: "Beg."
+  3: "Threaten."
+  3: "Wait! <i>Wait!</i> Don\'t do this! Please, please, please, don\'t do this, please d--"
+  3: "<i>I\'ll kill you, Tull! You pull that trigger, and I will put you in the ground! I--</i>"
+  3: "I... <pause/>I..."
+  3: "You\'re cut off by the blast of the shotgun as Tull pulls the trigger, and Bill\'s abdomen bursts open in a bloody spray."
+  3: "<shake_portrait/><jiggle>Hkkkk!</jiggle>"
+  3: "<shake_portrait/><l>BILL!</l>"
+  3: "You force yourself up, pushing as hard as you can through the pain, drawing up to one knee..."
+  3: "Kill you... <pause/>kill... <pause/>you..."
+  3: "Tull paces towards you and jams the shotgun into your face."
+  3: "You shoulda taken me up on my offer."
+  3: "He pulls the trigger..."
+  3: "<i>CLICK!</i>"
+  3: "Heh. Your lucky day."
+  3: "Sirens howl nearby, startling Tull. He smashes the butt of the shotgun across your face, knocking you onto your back."
+  3: "<shake_portrait/><jiggle>Ufff!</jiggle>"
+  3: "You hear his footsteps race off... the rumble of the sedan\'s engine... and then the sound of tires screeching away."
+  3: "<i>No...</i>"
+  3: "By the time you\'re able to stagger to your feet, Tull\'s gone."
+  3: "Bill lies in the road, bleeding badly. His breath is ragged, his eyes glassy."
+  3: "You lurch over to him and take his hand."
+  3: "<slow/>...Goldilocks."
+  3: "Bill..."
+  3: "You\'ll be okay."
+  3: "I\'ll get that son of a bitch."
+  3: "I\'ll get him if I have to go to the ends of the goddamn earth."
+  3: "Bill grits his teeth and clenches your hand."
+  3: "<slow/>...Atta girl."
+  3: "A sad smile twitches at Bill\'s lips."
+  3: "<slow/>You ain\'t never lied to me yet, girl. Don\'t start with that now."
+  3: "Sam Skill +20"
+  3: "Now stay with me, Old Timer. Don\'t you go quitting on me yet."
+  3: "<slow/>I\'m real... <pause/>proud... <pause/>of you, Goldie... <pause/>Proud of you..."
+  3: "Bill\'s breathing stops. His eyes go vacant... and his hand falls limp to the ground."
+  3: "You howl into the sky..."
+  3: "<shake_portrait/><l>TUUUUUULL!!!</l>"
+  4 {
+    1: "main"
+    2: 3
+  }
+  4 {
+    1: "doPrologueFlashback"
+    2: 29
+  }
+  4 {
+    1: "doMeetSquints"
+    2: 102
+  }
+  4 {
+    1: "doFirstFlashback"
+    2: 729
+  }
+  4 {
+    1: "doMeetSquints2"
+    2: 945
+  }
+  4 {
+    1: "doPremiumFlashback"
+    2: 1540
+  }
+  5 {
+    1: 45
+  }
+  5 {
+    1: 35
+    2: 3
+  }
+  5 {
+    1: 44
+  }
+  5 {
+    1: 47
+  }
+  5 {
+    1: 48
+  }
+  5 {
+    1: 49
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 41
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 45
+  }
+  5 {
+    1: 35
+    2: 29
+  }
+  5 {
+    1: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 45
+  }
+  5 {
+    1: 35
+    2: 102
+  }
+  5 {
+    1: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 25
+    2: 2
+  }
+  5 {
+    1: 25
+    2: 3
+  }
+  5 {
+    1: 41
+    2: 1
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 41
+    2: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 42
+  }
+  5 {
+    1: 47
+  }
+  5 {
+    1: 48
+  }
+  5 {
+    1: 49
+  }
+  5 {
+    1: 25
+    2: 4
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 3
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 5
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 6
+  }
+  5 {
+    1: 25
+    2: 7
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 255
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 41
+    2: 7
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 9
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 3
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 10
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 11
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 12
+  }
+  5 {
+    1: 25
+    2: 13
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 14
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 25
+    2: 16
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 18
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 19
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 20
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 25
+    2: 21
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 500
+  }
+  5 {
+    1: 41
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 18446744073709551615
+  }
+  5 {
+    1: 25
+    2: 500
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 42
+  }
+  5 {
+    1: 47
+  }
+  5 {
+    1: 48
+  }
+  5 {
+    1: 49
+    2: 1
+  }
+  5 {
+    1: 25
+    2: 22
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 9
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 1500
+  }
+  5 {
+    1: 41
+    2: 10
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 23
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 24
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 25
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 26
+  }
+  5 {
+    1: 25
+    2: 13
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 27
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 28
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 29
+  }
+  5 {
+    1: 41
+    2: 3
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 31
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 32
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 33
+  }
+  5 {
+    1: 25
+    2: 34
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 33
+  }
+  5 {
+    1: 25
+    2: 35
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 33
+  }
+  5 {
+    1: 25
+    2: 36
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 22
+  }
+  5 {
+    1: 25
+    2: 3
+  }
+  5 {
+    1: 25
+    2: 3
+  }
+  5 {
+    1: 41
+    2: 3
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 37
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 38
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 39
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 40
+  }
+  5 {
+    1: 41
+    2: 11
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 41
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 42
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 43
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 41
+    2: 14
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 212
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 44
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 45
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 46
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 237
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 47
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 48
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 49
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 50
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 51
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 1500
+  }
+  5 {
+    1: 41
+    2: 10
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 52
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 53
+  }
+  5 {
+    1: 25
+    2: 54
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 25
+    2: 56
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 57
+  }
+  5 {
+    1: 25
+    2: 58
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 60
+  }
+  5 {
+    1: 25
+    2: 61
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 57
+  }
+  5 {
+    1: 25
+    2: 62
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 60
+  }
+  5 {
+    1: 25
+    2: 63
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 25
+    2: 64
+  }
+  5 {
+    1: 25
+    2: 13
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 60
+  }
+  5 {
+    1: 25
+    2: 65
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 66
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 67
+  }
+  5 {
+    1: 41
+    2: 11
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 41
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 68
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 69
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 41
+    2: 14
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 322
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 70
+  }
+  5 {
+    1: 25
+    2: 71
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 72
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 73
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 74
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 344
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 75
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 76
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 77
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 78
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 79
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 80
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 81
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 82
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 25
+    2: 83
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 25
+    2: 84
+  }
+  5 {
+    1: 25
+    2: 13
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 85
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 57
+  }
+  5 {
+    1: 25
+    2: 86
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 87
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 60
+  }
+  5 {
+    1: 25
+    2: 88
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 60
+  }
+  5 {
+    1: 25
+    2: 89
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 90
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 91
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 92
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 25
+    2: 93
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 25
+    2: 94
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 95
+  }
+  5 {
+    1: 25
+    2: 71
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 96
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 25
+    2: 97
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 57
+  }
+  5 {
+    1: 25
+    2: 98
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 25
+    2: 99
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 60
+  }
+  5 {
+    1: 25
+    2: 100
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 25
+    2: 101
+  }
+  5 {
+    1: 25
+    2: 71
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 102
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 41
+    2: 15
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 103
+  }
+  5 {
+    1: 41
+    2: 11
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 41
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 104
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 105
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 41
+    2: 14
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 508
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 25
+    2: 106
+  }
+  5 {
+    1: 25
+    2: 13
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 25
+    2: 107
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 108
+  }
+  5 {
+    1: 25
+    2: 109
+  }
+  5 {
+    1: 25
+    2: 10
+  }
+  5 {
+    1: 41
+    2: 16
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 110
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 111
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 112
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 102
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 15
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 113
+  }
+  5 {
+    1: 25
+    2: 114
+  }
+  5 {
+    1: 41
+    2: 17
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 25
+    2: 115
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 25
+    2: 116
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 522
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 117
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 25
+    2: 118
+  }
+  5 {
+    1: 25
+    2: 13
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 119
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 120
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 25
+    2: 121
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 122
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 25
+    2: 123
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 124
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 25
+    2: 125
+  }
+  5 {
+    1: 25
+    2: 13
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 25
+    2: 126
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 127
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 128
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 25
+    2: 129
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 130
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 25
+    2: 131
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 25
+    2: 132
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 133
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 55
+  }
+  5 {
+    1: 25
+    2: 134
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 135
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 57
+  }
+  5 {
+    1: 25
+    2: 136
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 137
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 57
+  }
+  5 {
+    1: 25
+    2: 138
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 139
+  }
+  5 {
+    1: 25
+    2: 13
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 57
+  }
+  5 {
+    1: 25
+    2: 140
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 57
+  }
+  5 {
+    1: 25
+    2: 141
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 142
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 41
+    2: 15
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 143
+  }
+  5 {
+    1: 41
+    2: 11
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 144
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 145
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 41
+    2: 14
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 659
+  }
+  5 {
+    1: 25
+    2: 57
+  }
+  5 {
+    1: 25
+    2: 146
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 57
+  }
+  5 {
+    1: 25
+    2: 147
+  }
+  5 {
+    1: 25
+    2: 13
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 148
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 57
+  }
+  5 {
+    1: 25
+    2: 149
+  }
+  5 {
+    1: 25
+    2: 71
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 697
+  }
+  5 {
+    1: 25
+    2: 57
+  }
+  5 {
+    1: 25
+    2: 150
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 57
+  }
+  5 {
+    1: 25
+    2: 151
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 108
+  }
+  5 {
+    1: 25
+    2: 152
+  }
+  5 {
+    1: 25
+    2: 10
+  }
+  5 {
+    1: 41
+    2: 16
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 153
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 142
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 15
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 154
+  }
+  5 {
+    1: 25
+    2: 155
+  }
+  5 {
+    1: 41
+    2: 17
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 57
+  }
+  5 {
+    1: 25
+    2: 156
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 157
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 158
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 57
+  }
+  5 {
+    1: 25
+    2: 159
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 160
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 161
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 162
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 2000
+  }
+  5 {
+    1: 41
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 18446744073709551615
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 45
+  }
+  5 {
+    1: 35
+    2: 729
+  }
+  5 {
+    1: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 42
+  }
+  5 {
+    1: 47
+  }
+  5 {
+    1: 48
+  }
+  5 {
+    1: 49
+    2: 1
+  }
+  5 {
+    1: 25
+    2: 163
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 164
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 9
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 41
+    2: 7
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 165
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 166
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 167
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 168
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 169
+  }
+  5 {
+    1: 25
+    2: 170
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 171
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 169
+  }
+  5 {
+    1: 25
+    2: 172
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 173
+  }
+  5 {
+    1: 25
+    2: 174
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 175
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 173
+  }
+  5 {
+    1: 25
+    2: 176
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 177
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 169
+  }
+  5 {
+    1: 25
+    2: 178
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 169
+  }
+  5 {
+    1: 25
+    2: 179
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 180
+  }
+  5 {
+    1: 41
+    2: 11
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 41
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 181
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 182
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 41
+    2: 14
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 846
+  }
+  5 {
+    1: 25
+    2: 183
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 25
+    2: 184
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 185
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 169
+  }
+  5 {
+    1: 25
+    2: 186
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 187
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 872
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 188
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 169
+  }
+  5 {
+    1: 25
+    2: 189
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 173
+  }
+  5 {
+    1: 25
+    2: 190
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 191
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 25
+    2: 192
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 193
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 194
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 25
+    2: 195
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 25
+    2: 196
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 197
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 173
+  }
+  5 {
+    1: 25
+    2: 198
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 199
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 173
+  }
+  5 {
+    1: 25
+    2: 200
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 201
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 169
+  }
+  5 {
+    1: 25
+    2: 202
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 173
+  }
+  5 {
+    1: 25
+    2: 203
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 204
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 173
+  }
+  5 {
+    1: 25
+    2: 205
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 206
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 25
+    2: 207
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 500
+  }
+  5 {
+    1: 41
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 18446744073709551615
+  }
+  5 {
+    1: 25
+    2: 500
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 45
+  }
+  5 {
+    1: 35
+    2: 945
+  }
+  5 {
+    1: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 42
+  }
+  5 {
+    1: 47
+  }
+  5 {
+    1: 48
+  }
+  5 {
+    1: 49
+    2: 1
+  }
+  5 {
+    1: 25
+    2: 22
+  }
+  5 {
+    1: 25
+    2: 1000
+  }
+  5 {
+    1: 25
+    2: 3
+  }
+  5 {
+    1: 25
+    2: 3
+  }
+  5 {
+    1: 41
+    2: 9
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 23
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 208
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 209
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 57
+  }
+  5 {
+    1: 25
+    2: 210
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 211
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 57
+  }
+  5 {
+    1: 25
+    2: 212
+  }
+  5 {
+    1: 25
+    2: 13
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 57
+  }
+  5 {
+    1: 25
+    2: 213
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 214
+  }
+  5 {
+    1: 41
+    2: 11
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 215
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 216
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 41
+    2: 14
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 1029
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 217
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 57
+  }
+  5 {
+    1: 25
+    2: 218
+  }
+  5 {
+    1: 25
+    2: 13
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 108
+  }
+  5 {
+    1: 25
+    2: 219
+  }
+  5 {
+    1: 25
+    2: 10
+  }
+  5 {
+    1: 41
+    2: 16
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 220
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 221
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 1068
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 222
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 223
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 224
+  }
+  5 {
+    1: 25
+    2: 13
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 57
+  }
+  5 {
+    1: 25
+    2: 225
+  }
+  5 {
+    1: 25
+    2: 13
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 226
+  }
+  5 {
+    1: 25
+    2: 13
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 57
+  }
+  5 {
+    1: 25
+    2: 227
+  }
+  5 {
+    1: 25
+    2: 13
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 228
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 229
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 230
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 57
+  }
+  5 {
+    1: 25
+    2: 231
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 57
+  }
+  5 {
+    1: 25
+    2: 232
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 233
+  }
+  5 {
+    1: 25
+    2: 13
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 234
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 235
+  }
+  5 {
+    1: 25
+    2: 13
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 236
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 237
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 60
+  }
+  5 {
+    1: 25
+    2: 238
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 239
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 60
+  }
+  5 {
+    1: 25
+    2: 240
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 60
+  }
+  5 {
+    1: 25
+    2: 241
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 242
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 60
+  }
+  5 {
+    1: 25
+    2: 243
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 244
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 245
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 60
+  }
+  5 {
+    1: 25
+    2: 246
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 57
+  }
+  5 {
+    1: 25
+    2: 247
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 248
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 60
+  }
+  5 {
+    1: 25
+    2: 249
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 60
+  }
+  5 {
+    1: 25
+    2: 250
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 251
+  }
+  5 {
+    1: 25
+    2: 71
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 252
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 60
+  }
+  5 {
+    1: 25
+    2: 253
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 254
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 60
+  }
+  5 {
+    1: 25
+    2: 255
+  }
+  5 {
+    1: 25
+    2: 13
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 256
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 41
+    2: 15
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 257
+  }
+  5 {
+    1: 41
+    2: 11
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 41
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 258
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 259
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 41
+    2: 14
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 1221
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 260
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 60
+  }
+  5 {
+    1: 25
+    2: 261
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 262
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 60
+  }
+  5 {
+    1: 25
+    2: 263
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 1264
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 264
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 265
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 256
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 15
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 266
+  }
+  5 {
+    1: 25
+    2: 267
+  }
+  5 {
+    1: 41
+    2: 17
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 60
+  }
+  5 {
+    1: 25
+    2: 268
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 60
+  }
+  5 {
+    1: 25
+    2: 269
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 108
+  }
+  5 {
+    1: 25
+    2: 270
+  }
+  5 {
+    1: 25
+    2: 10
+  }
+  5 {
+    1: 41
+    2: 16
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 271
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 272
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 273
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 60
+  }
+  5 {
+    1: 25
+    2: 274
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 60
+  }
+  5 {
+    1: 25
+    2: 275
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 276
+  }
+  5 {
+    1: 25
+    2: 13
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 60
+  }
+  5 {
+    1: 25
+    2: 277
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 60
+  }
+  5 {
+    1: 25
+    2: 278
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 279
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 60
+  }
+  5 {
+    1: 25
+    2: 280
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 60
+  }
+  5 {
+    1: 25
+    2: 281
+  }
+  5 {
+    1: 25
+    2: 13
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 282
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 1500
+  }
+  5 {
+    1: 41
+    2: 10
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 283
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 284
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 285
+  }
+  5 {
+    1: 41
+    2: 11
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 41
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 286
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 287
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 288
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 41
+    2: 14
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 1357
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 289
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 290
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 108
+  }
+  5 {
+    1: 25
+    2: 291
+  }
+  5 {
+    1: 25
+    2: 10
+  }
+  5 {
+    1: 41
+    2: 16
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 292
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 1402
+  }
+  5 {
+    1: 51
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 1374
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 293
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 294
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 295
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 1386
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 296
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 297
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 298
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 299
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 300
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 301
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 302
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 303
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 304
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 305
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 306
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 307
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 308
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 309
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 310
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 311
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 312
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 313
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 314
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 315
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 316
+  }
+  5 {
+    1: 25
+    2: 13
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 317
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 318
+  }
+  5 {
+    1: 41
+    2: 11
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 41
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 319
+  }
+  5 {
+    1: 25
+    2: 320
+  }
+  5 {
+    1: 41
+    2: 18
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 321
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 41
+    2: 14
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 1503
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 322
+  }
+  5 {
+    1: 25
+    2: 13
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 45
+  }
+  5 {
+    1: 35
+    2: 1540
+  }
+  5 {
+    1: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 323
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 1513
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 324
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 325
+  }
+  5 {
+    1: 25
+    2: 13
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 326
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 327
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 30
+  }
+  5 {
+    1: 25
+    2: 328
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 329
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 1500
+  }
+  5 {
+    1: 41
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 255
+  }
+  5 {
+    1: 25
+    2: 1500
+  }
+  5 {
+    1: 41
+    2: 6
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 42
+  }
+  5 {
+    1: 47
+  }
+  5 {
+    1: 48
+  }
+  5 {
+    1: 49
+    2: 1
+  }
+  5 {
+    1: 25
+    2: 2000
+  }
+  5 {
+    1: 41
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 330
+  }
+  5 {
+    1: 25
+    2: 3000
+  }
+  5 {
+    1: 41
+    2: 9
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 331
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 332
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 333
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 334
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 335
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 336
+  }
+  5 {
+    1: 25
+    2: 337
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 338
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 339
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 340
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 341
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 342
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 173
+  }
+  5 {
+    1: 25
+    2: 343
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 344
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 345
+  }
+  5 {
+    1: 25
+    2: 71
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 9
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 3
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 346
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 347
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 173
+  }
+  5 {
+    1: 25
+    2: 348
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 173
+  }
+  5 {
+    1: 25
+    2: 349
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 350
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 351
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 352
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 25
+    2: 353
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 25
+    2: 354
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 355
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 356
+  }
+  5 {
+    1: 41
+    2: 11
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 357
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 358
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 41
+    2: 14
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 1689
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 25
+    2: 359
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 173
+  }
+  5 {
+    1: 25
+    2: 360
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 25
+    2: 361
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 1699
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 25
+    2: 362
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 25
+    2: 363
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 25
+    2: 364
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 25
+    2: 365
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 25
+    2: 366
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 367
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 25
+    2: 368
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 369
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 173
+  }
+  5 {
+    1: 25
+    2: 370
+  }
+  5 {
+    1: 25
+    2: 71
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 2000
+  }
+  5 {
+    1: 41
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 371
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 372
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 373
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 173
+  }
+  5 {
+    1: 25
+    2: 374
+  }
+  5 {
+    1: 25
+    2: 13
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 375
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 376
+  }
+  5 {
+    1: 25
+    2: 71
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 377
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 18446744073709551615
+  }
+  5 {
+    1: 41
+    2: 19
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 378
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 379
+  }
+  5 {
+    1: 25
+    2: 71
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 380
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 9
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 3
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 381
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 382
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 383
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 173
+  }
+  5 {
+    1: 25
+    2: 384
+  }
+  5 {
+    1: 25
+    2: 13
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 385
+  }
+  5 {
+    1: 25
+    2: 13
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 386
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 387
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 388
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 389
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 25
+    2: 390
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 173
+  }
+  5 {
+    1: 25
+    2: 391
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 392
+  }
+  5 {
+    1: 25
+    2: 5
+  }
+  5 {
+    1: 41
+    2: 11
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 71
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 393
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 394
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 41
+    2: 14
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 1850
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 395
+  }
+  5 {
+    1: 25
+    2: 71
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 1865
+  }
+  5 {
+    1: 51
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 1860
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 396
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 1865
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 397
+  }
+  5 {
+    1: 25
+    2: 71
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 500
+  }
+  5 {
+    1: 41
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 398
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 173
+  }
+  5 {
+    1: 25
+    2: 399
+  }
+  5 {
+    1: 25
+    2: 71
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 400
+  }
+  5 {
+    1: 25
+    2: 71
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 163
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 401
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 402
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 403
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 25
+    2: 404
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 405
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 406
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 15
+  }
+  5 {
+    1: 25
+    2: 407
+  }
+  5 {
+    1: 25
+    2: 59
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 408
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 409
+  }
+  5 {
+    1: 25
+    2: 71
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 410
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 411
+  }
+  5 {
+    1: 25
+    2: 13
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 412
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 413
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 414
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 173
+  }
+  5 {
+    1: 25
+    2: 415
+  }
+  5 {
+    1: 25
+    2: 13
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 416
+  }
+  5 {
+    1: 41
+    2: 11
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 13
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 12
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 417
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 418
+  }
+  5 {
+    1: 41
+    2: 13
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 30
+  }
+  5 {
+    1: 41
+    2: 14
+  }
+  5 {
+    1: 50
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 51
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 4
+  }
+  5 {
+    1: 37
+    2: 1977
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 419
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 420
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 173
+  }
+  5 {
+    1: 25
+    2: 421
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 35
+    2: 1985
+  }
+  5 {
+    1: 25
+    2: 422
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 173
+  }
+  5 {
+    1: 25
+    2: 423
+  }
+  5 {
+    1: 25
+    2: 13
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 108
+  }
+  5 {
+    1: 25
+    2: 424
+  }
+  5 {
+    1: 25
+    2: 20
+  }
+  5 {
+    1: 41
+    2: 16
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 425
+  }
+  5 {
+    1: 25
+    2: 13
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 173
+  }
+  5 {
+    1: 25
+    2: 426
+  }
+  5 {
+    1: 25
+    2: 13
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 427
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 428
+  }
+  5 {
+    1: 41
+    2: 5
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 8
+  }
+  5 {
+    1: 25
+    2: 429
+  }
+  5 {
+    1: 25
+    2: 17
+  }
+  5 {
+    1: 41
+    2: 8
+    3: 3
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 3000
+  }
+  5 {
+    1: 41
+    3: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 22
+  }
+  5 {
+    1: 25
+    2: 3000
+  }
+  5 {
+    1: 25
+    2: 3
+  }
+  5 {
+    1: 25
+    2: 3
+  }
+  5 {
+    1: 41
+    2: 9
+    3: 4
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 25
+    2: 5
+  }
+  5 {
+    1: 27
+  }
+  5 {
+    1: 41
+    2: 4
+    3: 2
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 26
+  }
+  5 {
+    1: 1
+  }
+  5 {
+    1: 20
+  }
+  5 {
+    1: 42
+  }
+}
+8 {
+  1: "sam_bill_flashback"
+  2 {
+    1 {
+      2: 20
+    }
+    3: "bdo58k"
+    4: "3nae6h"
+  }
+}
+9 {
+  3 {
+    1: "stat_sam"
+    2: "STAT_SAM"
+  }
+  3 {
+    1: "stat_dave"
+    2: "STAT_DAVE"
+  }
+}
+12: "2frbhs"
+13: "qe4ne7"
