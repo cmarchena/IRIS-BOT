@@ -69,6 +69,7 @@ async def find(interaction: discord.Interaction):
 )
 async def send_chapter(interaction: discord.Interaction, book_name: str, book_number: int, chapter_number: str):
     """Sends a chapter"""
+    print(f'book_name: {book_name}', f'book_number: {book_number}', f'chapter_number: {chapter_number}')
     await interaction.response.send_message(f'Sending {book_name} {book_number} chapter {chapter_number}...')
     chapter = send_chapter_to_bot(book_name, str(book_number), chapter_number)
     if chapter == "No chapter found":

@@ -10,6 +10,7 @@ def find_chapters(bname, bnum, cnum):
 
 def send_chapter_to_bot(bname, bnum, cnum):
     chapter = find_chapters(bname, bnum, cnum)
+    print(chapter)
     if chapter == "No chapter found":
         return "No chapter found"
     #find chapter in directory and subdirectory

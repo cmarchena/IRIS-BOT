@@ -79,12 +79,14 @@
 2: "category_fra_romance_red_carpet_diaries"
 2: "category_fra_horror_bloodbound"
 2: "category_fra_romance_desire_and_decorum"
+2: "category_fra_romance_the_nanny_affair"
 2: "category_deu_romance_the_royal_romance"
 2: "category_deu_romance_red_carpet_diaries"
 2: "category_spa_romance_rideordie"
 2: "category_spa_romance_wolf_bride"
 2: "category_deu_romance_desire_and_decorum"
 2: "category_deu_horror_bloodbound"
+2: "category_deu_romance_the_nanny_affair"
 2: "category_romance_untameable"
 2: "category_romance_the_princess_swap"
 2: "category_romance_cursed_heart"
@@ -104,9 +106,9 @@
   1: "category_pixelberry_featured"
   2 {
     1: "Featured"
-    2: "adventure_the_phantom_agent_01"
+    2: "romance_cursed_heart_01"
     10: 5
-    13: "2022-08-31 00:00:00"
+    13: "2022-09-14 00:00:00"
     15: 1
   }
 }
@@ -114,10 +116,10 @@
   1: "category_pixelberry_featured_new"
   2 {
     1: "Featured"
-    2: "mystery_murder_at_homecoming_01"
+    2: "adventure_the_phantom_agent_01"
     10: 5
-    13: "2022-07-27 00:00:00"
-    14: "2022-08-31 00:00:00"
+    13: "2022-08-31 00:00:00"
+    14: "2022-09-14 00:00:00"
     15: 1
   }
 }
@@ -153,8 +155,6 @@
     1: "VIP Books"
     2: "mystery_murder_at_homecoming_01"
     2: "romance_immortal_desires_01"
-    2: "romance_cursed_heart_01"
-    2: "romance_the_princess_swap_01"
     2: "romance_slow_burn_01"
     2: "adventure_the_phantom_agent_01"
     11: 1
@@ -204,16 +204,16 @@
   2 {
     1: "En Espa\303\261ol"
     2: "spa_romance_desire_and_decorum_01"
-    2: "spa_horror_bloodbound_01"
-    2: "spa_horror_bloodbound_02"
     2: "spa_romance_red_carpet_diaries_01"
     2: "spa_romance_red_carpet_diaries_02"
     2: "spa_romance_the_royal_romance_01"
     2: "spa_romance_the_royal_romance_02"
-    2: "spa_romance_rideordie_01"
-    2: "spa_romance_wolf_bride_01"
     2: "spa_romance_hot_couture_01"
+    2: "spa_romance_rideordie_01"
     2: "spa_romance_the_nanny_affair_01"
+    2: "spa_romance_wolf_bride_01"
+    2: "spa_horror_bloodbound_01"
+    2: "spa_horror_bloodbound_02"
     3: 278
     15: 7
   }
@@ -222,11 +222,12 @@
   1: "category_french"
   2 {
     1: "En fran\303\247ais"
+    2: "fra_romance_the_nanny_affair_01"
+    2: "fra_romance_red_carpet_diaries_01"
     2: "fra_romance_desire_and_decorum_01"
+    2: "fra_horror_bloodbound_01"
     2: "fra_romance_the_royal_romance_01"
     2: "fra_romance_the_royal_romance_02"
-    2: "fra_romance_red_carpet_diaries_01"
-    2: "fra_horror_bloodbound_01"
     3: 280
     15: 7
   }
@@ -235,11 +236,12 @@
   1: "category_german"
   2 {
     1: "Auf Deutsch"
-    2: "deu_romance_desire_and_decorum_01"
+    2: "deu_horror_bloodbound_01"
     2: "deu_romance_the_royal_romance_01"
     2: "deu_romance_the_royal_romance_02"
+    2: "deu_romance_the_nanny_affair_01"
+    2: "deu_romance_desire_and_decorum_01"
     2: "deu_romance_red_carpet_diaries_01"
-    2: "deu_horror_bloodbound_01"
     3: 280
     15: 7
   }
@@ -324,6 +326,7 @@
     2: "romance_untameable_01"
     2: "romance_immortal_desires_01"
     2: "romance_big_sky_country_01"
+    2: "romance_cursed_heart_01"
     2: "romance_desire_and_decorum_01"
     2: "romance_the_freshman_01"
     2: "romance_perfect_match_01"
@@ -333,6 +336,7 @@
     2: "romance_laws_of_attraction_01"
     2: "romance_rules_of_engagement_01"
     2: "romance_the_royal_masquerade_01"
+    2: "romance_the_princess_swap_01"
     2: "romance_foreign_affairs_01"
     2: "romance_ms_match_01"
     2: "romance_passport_to_romance_01"
@@ -739,6 +743,7 @@
     2: "spa_romance_the_royal_romance_02"
     2: "spa_horror_bloodbound_02"
     2: "spa_romance_red_carpet_diaries_02"
+    2: "romance_laws_of_attraction_02"
     15: 1
   }
 }
@@ -1376,6 +1381,7 @@
   2 {
     1: "Laws of Attraction"
     2: "romance_laws_of_attraction_01"
+    2: "romance_laws_of_attraction_02"
     15: 1
   }
 }
@@ -1453,6 +1459,14 @@
   }
 }
 3 {
+  1: "category_fra_romance_the_nanny_affair"
+  2 {
+    1: "Aventure avec la nounou"
+    2: "fra_romance_the_nanny_affair_01"
+    15: 1
+  }
+}
+3 {
   1: "category_deu_romance_the_royal_romance"
   2 {
     1: "Die konigliche Romanze"
@@ -1498,6 +1512,14 @@
   2 {
     1: "Blutsbande"
     2: "deu_horror_bloodbound_01"
+    15: 1
+  }
+}
+3 {
+  1: "category_deu_romance_the_nanny_affair"
+  2 {
+    1: "Die Nanny-Affare"
+    2: "deu_romance_the_nanny_affair_01"
     15: 1
   }
 }
@@ -3789,6 +3811,69 @@
     }
     40: ""
     41: "visual_tag_popular"
+  }
+}
+4 {
+  1: "romance_laws_of_attraction_02"
+  2 {
+    1: "romance_laws_of_attraction_02"
+    2: "Laws of Attraction 2"
+    3: "It\'s a new dawn at McGraw Byrne... but you\'re not sure you like the view."
+    4: "Pixelberry"
+    6 {
+      1: "IMG_COVER_PLACEHOLDER_NEW"
+      2: "https://choices-live.pixelberrystudios.com/assets/featured_240/3x/featured_240_horror_braidwood_manor_01_establishing-v01.jpg"
+    }
+    7: ""
+    8: ""
+    9 {
+      1: "https://choices-live.pixelberrystudios.com/books/book_romance_laws_of_attraction_02/book_romance_laws_of_attraction_02_chapter_01-v1.protobin"
+      2: 0
+      3: 0
+      5: 0
+      6: 286
+      7: "It\'s a new dawn at McGraw Byrne... but you\'re not sure you like the view."
+      8: 0
+      9: "Jury\'s Still Out"
+      10: "16 min"
+    }
+    10: "Objection! You should be playing Laws 2!"
+    12 {
+      1: "IMG_SMALL_CARD_PLACEHOLDER"
+      2: "https://choices-live.pixelberrystudios.com/assets/store_cards/3x/card_small_horror_braidwood_manor_01-v01.png"
+    }
+    13 {
+      1: "IMG_LARGE_CARD_PLACEHOLDER"
+      2: "https://choices-live.pixelberrystudios.com/assets/store_cards/3x/card_large_horror_braidwood_manor_01-v01.jpg"
+    }
+    21: 286
+    26: "The law waits for no one..."
+    27: 0
+    28: "romance_laws_of_attraction"
+    29: 2
+    34: "https://choices-live.pixelberrystudios.com/assets/loading_screens_ccbi_240/loading_screen_240_romance_laws_of_attraction_02-v01.ccbi"
+    34: "https://choices-live.pixelberrystudios.com/assets/loading_screen_images_240/3x/loading_screen_240_romance_laws_of_attraction_02-v01.png"
+    34: "https://choices-live.pixelberrystudios.com/assets/loading_screen_images_240/3x/loading_screen_240_romance_laws_of_attraction_02-v01.plist"
+    34: "https://choices-live.pixelberrystudios.com/assets/loading_screen_images_240/3x/loading_screen_common_chat-v01.png"
+    34: "https://choices-live.pixelberrystudios.com/assets/loading_screen_images_240/3x/loading_screen_common_chat-v01.plist"
+    34: "https://choices-live.pixelberrystudios.com/assets/loading_screen_images_240/3x/loading_screen_240_romance_laws_of_attraction_02-v01.jpg"
+    34: "https://choices-live.pixelberrystudios.com/assets/loading_screens_ccbi_240/loading_screen_common_chat-v01.ccbi"
+    35 {
+      1: "IMG_LARGE_CARD_V2"
+      2: "https://choices-live.pixelberrystudios.com/assets/large_cards_270/3x/card_large_270_romance_laws_of_attraction_02-v01.jpg"
+    }
+    37: "Romance"
+    37: "Lawyers"
+    37: "Drama"
+    38 {
+      1: "IMG_FEATURED_BANNER_V2_LOGO"
+      2: "https://choices-live.pixelberrystudios.com/assets/logos_270/3x/logo_270_romance_laws_of_attraction_02-v01.png"
+    }
+    39 {
+      1: "IMG_SMALL_CARD_V2"
+      2: "https://choices-live.pixelberrystudios.com/assets/small_cards_270/3x/card_small_270_romance_laws_of_attraction_02-v01.jpg"
+    }
+    40: ""
   }
 }
 4 {
@@ -9404,6 +9489,48 @@
       9: "The Familiar Face"
       10: "9 mins"
     }
+    9 {
+      1: "https://choices-live.pixelberrystudios.com/books/book_romance_the_nanny_affair_03/book_romance_the_nanny_affair_03_chapter_13-v1.protobin"
+      2: 1
+      3: 1
+      4 {
+        1: 1
+      }
+      5: 0
+      6: 286
+      7: "As you and Sam plan your wedding, an unresolved dispute threatens to sour the moment. "
+      8: 1
+      9: "The Homecoming"
+      10: "9 mins"
+    }
+    9 {
+      1: "https://choices-live.pixelberrystudios.com/books/book_romance_the_nanny_affair_03/book_romance_the_nanny_affair_03_chapter_14-v1.protobin"
+      2: 1
+      3: 1
+      4 {
+        1: 1
+      }
+      5: 0
+      6: 286
+      7: "It\'s time to plan Mason and Mickey\'s birthday party, and the entire family wants in on the action! This should go well... right?"
+      8: 1
+      9: "The Plan"
+      10: "9 mins"
+    }
+    9 {
+      1: "https://choices-live.pixelberrystudios.com/books/book_romance_the_nanny_affair_03/book_romance_the_nanny_affair_03_chapter_15-v1.protobin"
+      2: 1
+      3: 1
+      4 {
+        1: 1
+      }
+      5: 0
+      6: 286
+      7: "The pressure on your relationship reaches new levels when a major bombshell drops right before your family fun day."
+      8: 1
+      9: "The Public Eye"
+      10: "10 mins"
+    }
     10: "Sam Dalton will see you now."
     12 {
       1: "IMG_SMALL_CARD_CODEGEN"
@@ -9724,6 +9851,68 @@
       2: "https://choices-live.pixelberrystudios.com/assets/small_cards_270/3x/card_small_270_fantasy_the_crown_and_the_flame_01_war-v01.jpg"
     }
     40: ""
+  }
+}
+4 {
+  1: "fra_romance_the_nanny_affair_01"
+  2 {
+    1: "fra_romance_the_nanny_affair_01"
+    2: "Aventure avec la nounou"
+    3: "17+ Tu te rapproches dangereusement de la personne qui vient de t\'embaucher en tant que nounou. Pourras-tu g\303\251rer une romance interdite?"
+    4: "Pixelberry"
+    6 {
+      1: "IMG_COVER_ROMANCE_THE_NANNY_AFFAIR_01_NEW_CHAPTERS_V01"
+      2: "https://choices-live.pixelberrystudios.com/assets/featured_240/3x/featured_240_romance_the_nanny_affair_01_nanny-v01.jpg"
+    }
+    7: ""
+    8: ""
+    9 {
+      1: "https://choices-live.pixelberrystudios.com/books/book_fra_romance_the_nanny_affair_01/book_fra_romance_the_nanny_affair_01_chapter_01-v1.protobin"
+      2: 0
+      3: 0
+      5: 0
+      6: 288
+      7: "17+ Tu te rapproches dangereusement de la personne qui vient de t\'embaucher en tant que nounou. Pourras-tu g\303\251rer une romance interdite?"
+      8: 0
+      9: "Premi\303\250re impression"
+      10: "8 min"
+    }
+    10: "Sam Dalton va te recevoir."
+    12 {
+      1: "IMG_SMALL_CARD_ROMANCE_THE_NANNY_AFFAIR_01_V01"
+      2: "https://choices-live.pixelberrystudios.com/assets/store_cards/3x/card_small_romance_the_nanny_affair_01-v01.png"
+    }
+    13 {
+      1: "IMG_LARGE_CARD_ROMANCE_THE_NANNY_AFFAIR_01_V01"
+      2: "https://choices-live.pixelberrystudios.com/assets/store_cards/3x/card_large_romance_the_nanny_affair_01-v01.jpg"
+    }
+    21: 260
+    26: "Pourras-tu g\303\251rer l\'idylle interdite dans #PlayChoices? https://bit.ly/2cYTYgN"
+    27: 0
+    28: "fra_romance_the_nanny_affair"
+    29: 1
+    34: "https://choices-live.pixelberrystudios.com/assets/loading_screens_ccbi_240/loading_screen_240_romance_the_nanny_affair_01-v01.ccbi"
+    34: "https://choices-live.pixelberrystudios.com/assets/loading_screen_images_240/3x/loading_screen_common_chat-v01.png"
+    34: "https://choices-live.pixelberrystudios.com/assets/loading_screen_images_240/3x/loading_screen_common_chat-v01.plist"
+    34: "https://choices-live.pixelberrystudios.com/assets/loading_screen_images_240/3x/loading_screen_240_romance_the_nanny_affair_01-v01.jpg"
+    34: "https://choices-live.pixelberrystudios.com/assets/loading_screens_ccbi_240/loading_screen_common_chat-v01.ccbi"
+    35 {
+      1: "IMG_LARGE_CARD_270_ROMANCE_THE_NANNY_AFFAIR_01_V01"
+      2: "https://choices-live.pixelberrystudios.com/assets/large_cards_270/3x/card_large_270_romance_the_nanny_affair_01_nanny-v01.jpg"
+    }
+    37: "Sexy"
+    37: "PDG"
+    37: "Nounou"
+    38 {
+      1: "IMG_COVER_270_LOGO_ROMANCE_THE_NANNY_AFFAIR_01"
+      2: "https://choices-live.pixelberrystudios.com/assets/logos_270/3x/logo_270_fra_romance_the_nanny_affair_01-v01.png"
+    }
+    39 {
+      1: "IMG_SMALL_CARD_270_ROMANCE_THE_NANNY_AFFAIR_01_V01"
+      2: "https://choices-live.pixelberrystudios.com/assets/small_cards_270/3x/card_small_270_fra_romance_the_nanny_affair_01-v01.jpg"
+    }
+    40: "fra"
+    41: "visual_tag_mature"
   }
 }
 4 {
@@ -10329,6 +10518,48 @@
       9: "Under Fire"
       10: "13 mins"
     }
+    9 {
+      1: "https://choices-live.pixelberrystudios.com/books/book_adventure_the_phantom_agent_01/book_adventure_the_phantom_agent_01_chapter_04-v2.protobin"
+      2: 2
+      3: 1
+      4 {
+        1: 1
+      }
+      5: 0
+      6: 286
+      7: "Only you can thwart the hacker\'s next attack at L\'H\303\264pital de Richelieu... That is, if you don\'t get caught in the act."
+      8: 1
+      9: "The Doctor is In"
+      10: "13 mins"
+    }
+    9 {
+      1: "https://choices-live.pixelberrystudios.com/books/book_adventure_the_phantom_agent_01/book_adventure_the_phantom_agent_01_chapter_05-v1.protobin"
+      2: 1
+      3: 1
+      4 {
+        1: 1
+      }
+      5: 0
+      6: 286
+      7: "Your mission takes you to the Cayman Islands to investigate a new lead... Everything\'ll be just beachy."
+      8: 1
+      9: "Sun, Sand, and Seduction"
+      10: "14 mins"
+    }
+    9 {
+      1: "https://choices-live.pixelberrystudios.com/books/book_adventure_the_phantom_agent_01/book_adventure_the_phantom_agent_01_chapter_06-v1.protobin"
+      2: 1
+      3: 1
+      4 {
+        1: 1
+      }
+      5: 0
+      6: 286
+      7: "What secrets will you and Agent Gray uncover on the island?"
+      8: 1
+      9: "Island of Secrets"
+      10: "13 mins"
+    }
     10: "We need you to save the world! Return to Choices!"
     12 {
       1: "IMG_SMALL_CARD_CODEGEN"
@@ -10365,6 +10596,68 @@
       2: "https://choices-live.pixelberrystudios.com/assets/small_cards_270/3x/card_small_270_adventure_the_phantom_agent_01-v01.jpg"
     }
     40: ""
+  }
+}
+4 {
+  1: "deu_romance_the_nanny_affair_01"
+  2 {
+    1: "deu_romance_the_nanny_affair_01"
+    2: "Die Nanny-Aff\303\244re"
+    3: "17+ Du wurdest gerade als Nanny eingestellt, aber kommst deinem neuen Boss gef\303\244hrlich nahe."
+    4: "Pixelberry"
+    6 {
+      1: "IMG_COVER_ROMANCE_THE_NANNY_AFFAIR_01_NEW_CHAPTERS_V01"
+      2: "https://choices-live.pixelberrystudios.com/assets/featured_240/3x/featured_240_romance_the_nanny_affair_01_nanny-v01.jpg"
+    }
+    7: ""
+    8: ""
+    9 {
+      1: "https://choices-live.pixelberrystudios.com/books/book_deu_romance_the_nanny_affair_01/book_deu_romance_the_nanny_affair_01_chapter_01-v1.protobin"
+      2: 0
+      3: 0
+      5: 0
+      6: 288
+      7: "17+ Du wurdest gerade als Nanny eingestellt, aber kommst deinem neuen Boss gef\303\244hrlich nahe."
+      8: 0
+      9: "Der Boss"
+      10: "8 min"
+    }
+    10: "Sam Dalton wird dich jetzt empfangen."
+    12 {
+      1: "IMG_SMALL_CARD_ROMANCE_THE_NANNY_AFFAIR_01_V01"
+      2: "https://choices-live.pixelberrystudios.com/assets/store_cards/3x/card_small_romance_the_nanny_affair_01-v01.png"
+    }
+    13 {
+      1: "IMG_LARGE_CARD_ROMANCE_THE_NANNY_AFFAIR_01_V01"
+      2: "https://choices-live.pixelberrystudios.com/assets/store_cards/3x/card_large_romance_the_nanny_affair_01-v01.jpg"
+    }
+    21: 260
+    26: "Kommst du mit der verbotenen Liebschaft in #PlayChoices klar? https://bit.ly/2cYTYgN"
+    27: 0
+    28: "deu_romance_the_nanny_affair"
+    29: 1
+    34: "https://choices-live.pixelberrystudios.com/assets/loading_screens_ccbi_240/loading_screen_240_romance_the_nanny_affair_01-v01.ccbi"
+    34: "https://choices-live.pixelberrystudios.com/assets/loading_screen_images_240/3x/loading_screen_common_chat-v01.png"
+    34: "https://choices-live.pixelberrystudios.com/assets/loading_screen_images_240/3x/loading_screen_common_chat-v01.plist"
+    34: "https://choices-live.pixelberrystudios.com/assets/loading_screen_images_240/3x/loading_screen_240_romance_the_nanny_affair_01-v01.jpg"
+    34: "https://choices-live.pixelberrystudios.com/assets/loading_screens_ccbi_240/loading_screen_common_chat-v01.ccbi"
+    35 {
+      1: "IMG_LARGE_CARD_270_ROMANCE_THE_NANNY_AFFAIR_01_V01"
+      2: "https://choices-live.pixelberrystudios.com/assets/large_cards_270/3x/card_large_270_romance_the_nanny_affair_01_nanny-v01.jpg"
+    }
+    37: "Sexy"
+    37: "CEO"
+    37: "Nanny"
+    38 {
+      1: "IMG_COVER_270_LOGO_ROMANCE_THE_NANNY_AFFAIR_01"
+      2: "https://choices-live.pixelberrystudios.com/assets/logos_270/3x/logo_270_deu_romance_the_nanny_affair_01-v01.png"
+    }
+    39 {
+      1: "IMG_SMALL_CARD_270_ROMANCE_THE_NANNY_AFFAIR_01_V01"
+      2: "https://choices-live.pixelberrystudios.com/assets/small_cards_270/3x/card_small_270_deu_romance_the_nanny_affair_01-v01.jpg"
+    }
+    40: "deu"
+    41: "visual_tag_mature"
   }
 }
 4 {
@@ -14297,6 +14590,36 @@
       9: "Retour \303\240 Cordonia"
       10: "17 mins"
     }
+    9 {
+      1: "https://choices-live.pixelberrystudios.com/books/book_fra_romance_the_royal_romance_02/book_fra_romance_the_royal_romance_02_chapter_18-v1.protobin"
+      2: 0
+      3: 0
+      4 {
+        1: 1
+      }
+      5: 0
+      6: 288
+      7: "Lors du bal de rentr\303\251e de la cour, tous les regards sont braqu\303\251s sur toi. Pourras-tu faire en sorte que la soir\303\251e se d\303\251roule sans accroc?"
+      8: 1
+      9: "Noble dans le c\305\223ur"
+      10: "14 mins"
+    }
+    9 {
+      1: "https://choices-live.pixelberrystudios.com/books/book_fra_romance_the_royal_romance_02/book_fra_romance_the_royal_romance_02_chapter_19-v1.protobin"
+      2: 0
+      3: 0
+      4 {
+        1: 1
+      }
+      5: 1
+      6: 288
+      7: "Alors que le bal de rentr\303\251e se poursuit, parviendras-tu \303\240 obtenir ta fin heureuse?"
+      8: 1
+      9 {
+        8: 0x6e6f69736e656373
+      }
+      10: "10 mins"
+    }
     10: "Ton prince t\'attend! Reviens sur Choices!"
     12 {
       1: "IMG_SMALL_CARD_ROMANCE_THE_ROYAL_ROMANCE_02_V01"
@@ -14649,6 +14972,37 @@
       8: 1
       9: "Zur\303\274ck in Cordonia"
       10: "17 mins"
+    }
+    9 {
+      1: "https://choices-live.pixelberrystudios.com/books/book_deu_romance_the_royal_romance_02/book_deu_romance_the_royal_romance_02_chapter_18-v1.protobin"
+      2: 0
+      3: 0
+      4 {
+        1: 1
+      }
+      5: 0
+      6: 288
+      7: "Beim Willkommensball des Hofes sind alle Augen auf dich gerichtet. Kannst du daf\303\274r sorgen, dass der Abend reibungslos abl\303\244uft?"
+      8: 1
+      9 {
+        8: 0x206c6564
+        13: 0x6e657a726548206d
+      }
+      10: "14 mins"
+    }
+    9 {
+      1: "https://choices-live.pixelberrystudios.com/books/book_deu_romance_the_royal_romance_02/book_deu_romance_the_royal_romance_02_chapter_19-v1.protobin"
+      2: 0
+      3: 0
+      4 {
+        1: 1
+      }
+      5: 1
+      6: 288
+      7: "Kannst du dir auf dem Willkommensball dein Happy End sichern?"
+      8: 1
+      9: "Gesellschaftlicher Aufstieg"
+      10: "10 mins"
     }
     10: "Dein Prinz wartet auf dich! Komm zur\303\274ck zu Choices!"
     12 {
@@ -28792,6 +29146,48 @@
       9: "Primeras impresiones"
       10: "8 min"
     }
+    9 {
+      1: "https://choices-live.pixelberrystudios.com/books/book_spa_romance_the_nanny_affair_01/book_spa_romance_the_nanny_affair_01_chapter_02-v1.protobin"
+      2: 0
+      3: 0
+      4 {
+        1: 1
+      }
+      5: 0
+      6: 290
+      7: "Cuando un malentendido haga saltar chispas entre t\303\272 y Sam, \302\277la verdad saldr\303\241 a la luz?"
+      8: 1
+      9: "La pelea"
+      10: "8 min"
+    }
+    9 {
+      1: "https://choices-live.pixelberrystudios.com/books/book_spa_romance_the_nanny_affair_01/book_spa_romance_the_nanny_affair_01_chapter_03-v1.protobin"
+      2: 0
+      3: 0
+      4 {
+        1: 1
+      }
+      5: 0
+      6: 290
+      7: "Es el cumplea\303\261os de Sam y te est\303\241s asegurando de que sea uno para recordar... pero tambi\303\251n te esperan algunas sorpresas."
+      8: 1
+      9: "El cumplea\303\261os"
+      10: "8 min"
+    }
+    9 {
+      1: "https://choices-live.pixelberrystudios.com/books/book_spa_romance_the_nanny_affair_01/book_spa_romance_the_nanny_affair_01_chapter_04-v1.protobin"
+      2: 0
+      3: 0
+      4 {
+        1: 1
+      }
+      5: 0
+      6: 290
+      7: "Tienes la oportunidad perfecta de saber m\303\241s sobre la prometida de Sam cuando pasas el d\303\255a con Robin... hasta que las cosas se complican un poco."
+      8: 1
+      9: "La prometida"
+      10: "8 min"
+    }
     10: "Sam Dalton te ver\303\241 ahora."
     12 {
       1: "IMG_SMALL_CARD_ROMANCE_THE_NANNY_AFFAIR_01_V01"
@@ -29394,8 +29790,8 @@
     7: ""
     8: ""
     9 {
-      1: "https://choices-live.pixelberrystudios.com/books/book_mystery_murder_at_homecoming_01/book_mystery_murder_at_homecoming_01_chapter_01-v2.protobin"
-      2: 2
+      1: "https://choices-live.pixelberrystudios.com/books/book_mystery_murder_at_homecoming_01/book_mystery_murder_at_homecoming_01_chapter_01-v3.protobin"
+      2: 3
       3: 0
       5: 0
       6: 286
@@ -29405,8 +29801,8 @@
       10: "13 min"
     }
     9 {
-      1: "https://choices-live.pixelberrystudios.com/books/book_mystery_murder_at_homecoming_01/book_mystery_murder_at_homecoming_01_chapter_02-v2.protobin"
-      2: 2
+      1: "https://choices-live.pixelberrystudios.com/books/book_mystery_murder_at_homecoming_01/book_mystery_murder_at_homecoming_01_chapter_02-v3.protobin"
+      2: 3
       3: 0
       4 {
         1: 1
@@ -29419,8 +29815,8 @@
       10: "13 min"
     }
     9 {
-      1: "https://choices-live.pixelberrystudios.com/books/book_mystery_murder_at_homecoming_01/book_mystery_murder_at_homecoming_01_chapter_03-v3.protobin"
-      2: 3
+      1: "https://choices-live.pixelberrystudios.com/books/book_mystery_murder_at_homecoming_01/book_mystery_murder_at_homecoming_01_chapter_03-v4.protobin"
+      2: 4
       3: 0
       4 {
         1: 1
@@ -29433,8 +29829,8 @@
       10: "15 min"
     }
     9 {
-      1: "https://choices-live.pixelberrystudios.com/books/book_mystery_murder_at_homecoming_01/book_mystery_murder_at_homecoming_01_chapter_04-v2.protobin"
-      2: 2
+      1: "https://choices-live.pixelberrystudios.com/books/book_mystery_murder_at_homecoming_01/book_mystery_murder_at_homecoming_01_chapter_04-v3.protobin"
+      2: 3
       3: 0
       4 {
         1: 1
@@ -29447,8 +29843,8 @@
       10: "14 min"
     }
     9 {
-      1: "https://choices-live.pixelberrystudios.com/books/book_mystery_murder_at_homecoming_01/book_mystery_murder_at_homecoming_01_chapter_05-v1.protobin"
-      2: 0
+      1: "https://choices-live.pixelberrystudios.com/books/book_mystery_murder_at_homecoming_01/book_mystery_murder_at_homecoming_01_chapter_05-v2.protobin"
+      2: 2
       3: 0
       4 {
         1: 1
@@ -29463,8 +29859,8 @@
       10: "16 min"
     }
     9 {
-      1: "https://choices-live.pixelberrystudios.com/books/book_mystery_murder_at_homecoming_01/book_mystery_murder_at_homecoming_01_chapter_06-v2.protobin"
-      2: 2
+      1: "https://choices-live.pixelberrystudios.com/books/book_mystery_murder_at_homecoming_01/book_mystery_murder_at_homecoming_01_chapter_06-v3.protobin"
+      2: 3
       3: 0
       4 {
         1: 1
@@ -29477,8 +29873,8 @@
       10: "15 min"
     }
     9 {
-      1: "https://choices-live.pixelberrystudios.com/books/book_mystery_murder_at_homecoming_01/book_mystery_murder_at_homecoming_01_chapter_07-v1.protobin"
-      2: 0
+      1: "https://choices-live.pixelberrystudios.com/books/book_mystery_murder_at_homecoming_01/book_mystery_murder_at_homecoming_01_chapter_07-v2.protobin"
+      2: 2
       3: 0
       4 {
         1: 1
@@ -29491,8 +29887,8 @@
       10: "14 min"
     }
     9 {
-      1: "https://choices-live.pixelberrystudios.com/books/book_mystery_murder_at_homecoming_01/book_mystery_murder_at_homecoming_01_chapter_08-v1.protobin"
-      2: 0
+      1: "https://choices-live.pixelberrystudios.com/books/book_mystery_murder_at_homecoming_01/book_mystery_murder_at_homecoming_01_chapter_08-v2.protobin"
+      2: 2
       3: 0
       4 {
         1: 1
@@ -29503,6 +29899,48 @@
       8: 1
       9: "I Don\'t Want to Believe"
       10: "13 min"
+    }
+    9 {
+      1: "https://choices-live.pixelberrystudios.com/books/book_mystery_murder_at_homecoming_01/book_mystery_murder_at_homecoming_01_chapter_09-v1.protobin"
+      2: 0
+      3: 0
+      4 {
+        1: 1
+      }
+      5: 0
+      6: 286
+      7: "You\'ve found your proof. But are your troubles really over?"
+      8: 1
+      9: "Case Closed?"
+      10: "12 min"
+    }
+    9 {
+      1: "https://choices-live.pixelberrystudios.com/books/book_mystery_murder_at_homecoming_01/book_mystery_murder_at_homecoming_01_chapter_10-v1.protobin"
+      2: 0
+      3: 0
+      4 {
+        1: 1
+      }
+      5: 0
+      6: 286
+      7: "An encounter with a familiar face forces you to reconsider everything you thought you knew about the case."
+      8: 1
+      9: "Prisoner\'s Dilemma"
+      10: "16 min"
+    }
+    9 {
+      1: "https://choices-live.pixelberrystudios.com/books/book_mystery_murder_at_homecoming_01/book_mystery_murder_at_homecoming_01_chapter_11-v1.protobin"
+      2: 0
+      3: 0
+      4 {
+        1: 1
+      }
+      5: 0
+      6: 286
+      7: "With so many unanswered questions, you feel like you\'re going in circles... until a new lead presents itself."
+      8: 1
+      9: "Run, Rabbit, Run"
+      10: "14 min"
     }
     10: "Only you can crack this case... Play Choices now!"
     12 {
@@ -36599,6 +37037,48 @@
       9: "Tirar la casa por la ventana"
       10: "12 mins"
     }
+    9 {
+      1: "https://choices-live.pixelberrystudios.com/books/book_spa_romance_hot_couture_01/book_spa_romance_hot_couture_01_chapter_14-v1.protobin"
+      2: 0
+      3: 0
+      4 {
+        1: 1
+      }
+      5: 0
+      6: 288
+      7: "Otto te ha hecho una oferta tentadora... \302\277Sucumbir\303\241s a sus poderes de persuasi\303\263n? \302\277O te abrir\303\241s camino hacia la Semana de la Moda de Par\303\255s indefensa?"
+      8: 1
+      9: "Fascinaci\303\263n"
+      10: "13 mins"
+    }
+    9 {
+      1: "https://choices-live.pixelberrystudios.com/books/book_spa_romance_hot_couture_01/book_spa_romance_hot_couture_01_chapter_15-v1.protobin"
+      2: 0
+      3: 0
+      4 {
+        1: 1
+      }
+      5: 0
+      6: 288
+      7: "La Semana de la Moda de Par\303\255s est\303\241 muy cerca... \302\277Lograr\303\241s resolver todos los problemas a tiempo para celebrar tu mayor desfile?"
+      8: 1
+      9: "Ciudad de las Luces"
+      10: "14 mins"
+    }
+    9 {
+      1: "https://choices-live.pixelberrystudios.com/books/book_spa_romance_hot_couture_01/book_spa_romance_hot_couture_01_chapter_16-v1.protobin"
+      2: 0
+      3: 0
+      4 {
+        1: 1
+      }
+      5: 1
+      6: 288
+      7: "Esta decisiva noche en Par\303\255s es todo para lo que te has preparado. \302\277Se har\303\241n realidad todos tus sue\303\261os?"
+      8: 1
+      9: "Nace una estrella"
+      10: "14 mins"
+    }
     10: "\302\241La Semana de la Moda de Par\303\255s ya est\303\241 aqu\303\255! \302\277Est\303\241s lista?"
     12 {
       1: "IMG_SMALL_CARD_ROMANCE_HOT_COUTURE_01_V01"
@@ -40682,7 +41162,7 @@
     40: ""
   }
 }
-6: "RELEASE 57137M V2.4"
+6: "RELEASE 57668 V2.4"
 7: "category_time_release"
 7: "category_pixelberry_featured"
 7: "category_pixelberry_featured_new"
@@ -41805,6 +42285,7 @@
       1: "romance_laws_of_attraction"
       2: 1
       3: "romance_laws_of_attraction_01"
+      3: "romance_laws_of_attraction_02"
       4: "romance_the_nanny_affair_01"
     }
   }
@@ -42006,6 +42487,15 @@
       2: 1
       3: "romance_mother_of_the_year_01"
       4: "romance_open_heart_01"
+    }
+  }
+  1 {
+    1: "deu_romance_the_nanny_affair"
+    2 {
+      1: "deu_romance_the_nanny_affair"
+      2: 1
+      3: "deu_romance_the_nanny_affair_01"
+      4: "romance_the_royal_romance_01"
     }
   }
   1 {
@@ -42234,6 +42724,15 @@
       1: "romance_save_the_date"
       2: 1
       3: "romance_save_the_date_01"
+      4: "romance_the_royal_romance_01"
+    }
+  }
+  1 {
+    1: "fra_romance_the_nanny_affair"
+    2 {
+      1: "fra_romance_the_nanny_affair"
+      2: 1
+      3: "fra_romance_the_nanny_affair_01"
       4: "romance_the_royal_romance_01"
     }
   }
@@ -42478,114 +42977,6 @@
 }
 11 {
   1 {
-    1: "romance_the_princess_swap_01"
-    2: 0
-    3: 1648231200
-    4: 0
-  }
-  1 {
-    1: "romance_the_princess_swap_01"
-    2: 1
-    3: 1648231200
-    4: 0
-  }
-  1 {
-    1: "romance_the_princess_swap_01"
-    2: 2
-    3: 1648836000
-    4: 0
-  }
-  1 {
-    1: "romance_the_princess_swap_01"
-    2: 3
-    3: 1649440800
-    4: 0
-  }
-  1 {
-    1: "romance_the_princess_swap_01"
-    2: 4
-    3: 1650045600
-    4: 0
-  }
-  1 {
-    1: "romance_the_princess_swap_01"
-    2: 5
-    3: 1650650400
-    4: 0
-  }
-  1 {
-    1: "romance_cursed_heart_01"
-    2: 0
-    3: 1651078800
-    4: 0
-  }
-  1 {
-    1: "romance_cursed_heart_01"
-    2: 1
-    3: 1651078800
-    4: 0
-  }
-  1 {
-    1: "romance_the_princess_swap_01"
-    2: 6
-    3: 1651255200
-    4: 0
-  }
-  1 {
-    1: "romance_cursed_heart_01"
-    2: 2
-    3: 1651683600
-    4: 0
-  }
-  1 {
-    1: "romance_the_princess_swap_01"
-    2: 7
-    3: 1651860000
-    4: 0
-  }
-  1 {
-    1: "romance_cursed_heart_01"
-    2: 3
-    3: 1652288400
-    4: 0
-  }
-  1 {
-    1: "romance_the_princess_swap_01"
-    2: 8
-    3: 1652464800
-    4: 0
-  }
-  1 {
-    1: "romance_the_princess_swap_01"
-    2: 0
-    3: 1652464800
-    4: 1
-  }
-  1 {
-    1: "romance_the_princess_swap_01"
-    2: 1
-    3: 1652464800
-    4: 1
-  }
-  1 {
-    1: "romance_cursed_heart_01"
-    2: 4
-    3: 1652893200
-    4: 0
-  }
-  1 {
-    1: "romance_the_princess_swap_01"
-    2: 9
-    3: 1653069600
-    4: 0
-  }
-  1 {
-    1: "romance_the_princess_swap_01"
-    2: 2
-    3: 1653069600
-    4: 1
-  }
-  1 {
     1: "romance_immortal_desires_01"
     2: 0
     3: 1653499800
@@ -42595,30 +42986,6 @@
     1: "romance_immortal_desires_01"
     2: 1
     3: 1653499800
-    4: 0
-  }
-  1 {
-    1: "romance_cursed_heart_01"
-    2: 5
-    3: 1653501600
-    4: 0
-  }
-  1 {
-    1: "romance_the_princess_swap_01"
-    2: 10
-    3: 1653674400
-    4: 0
-  }
-  1 {
-    1: "romance_the_princess_swap_01"
-    2: 3
-    3: 1653674400
-    4: 1
-  }
-  1 {
-    1: "romance_cursed_heart_01"
-    2: 6
-    3: 1654102800
     4: 0
   }
   1 {
@@ -42628,94 +42995,16 @@
     4: 0
   }
   1 {
-    1: "romance_the_princess_swap_01"
-    2: 11
-    3: 1654279200
-    4: 0
-  }
-  1 {
-    1: "romance_the_princess_swap_01"
-    2: 4
-    3: 1654279200
-    4: 1
-  }
-  1 {
-    1: "romance_cursed_heart_01"
-    2: 7
-    3: 1654707600
-    4: 0
-  }
-  1 {
-    1: "romance_cursed_heart_01"
-    2: 0
-    3: 1654707600
-    4: 1
-  }
-  1 {
-    1: "romance_cursed_heart_01"
-    2: 1
-    3: 1654707600
-    4: 1
-  }
-  1 {
     1: "romance_immortal_desires_01"
     2: 3
     3: 1654709400
     4: 0
   }
   1 {
-    1: "romance_the_princess_swap_01"
-    2: 12
-    3: 1654884000
-    4: 0
-  }
-  1 {
-    1: "romance_the_princess_swap_01"
-    2: 5
-    3: 1654884000
-    4: 1
-  }
-  1 {
-    1: "romance_cursed_heart_01"
-    2: 8
-    3: 1655312400
-    4: 0
-  }
-  1 {
-    1: "romance_cursed_heart_01"
-    2: 2
-    3: 1655312400
-    4: 1
-  }
-  1 {
     1: "romance_immortal_desires_01"
     2: 4
     3: 1655314200
     4: 0
-  }
-  1 {
-    1: "romance_the_princess_swap_01"
-    2: 13
-    3: 1655488800
-    4: 0
-  }
-  1 {
-    1: "romance_the_princess_swap_01"
-    2: 6
-    3: 1655488800
-    4: 1
-  }
-  1 {
-    1: "romance_cursed_heart_01"
-    2: 9
-    3: 1655917200
-    4: 0
-  }
-  1 {
-    1: "romance_cursed_heart_01"
-    2: 3
-    3: 1655917200
-    4: 1
   }
   1 {
     1: "romance_immortal_desires_01"
@@ -42730,30 +43019,6 @@
     4: 0
   }
   1 {
-    1: "romance_the_princess_swap_01"
-    2: 7
-    3: 1656093600
-    4: 1
-  }
-  1 {
-    1: "romance_the_princess_swap_01"
-    2: 14
-    3: 1656093600
-    4: 0
-  }
-  1 {
-    1: "romance_cursed_heart_01"
-    2: 10
-    3: 1656522000
-    4: 0
-  }
-  1 {
-    1: "romance_cursed_heart_01"
-    2: 4
-    3: 1656522000
-    4: 1
-  }
-  1 {
     1: "romance_immortal_desires_01"
     2: 6
     3: 1656523800
@@ -42764,30 +43029,6 @@
     2: 1
     3: 1656693000
     4: 0
-  }
-  1 {
-    1: "romance_the_princess_swap_01"
-    2: 15
-    3: 1656698400
-    4: 0
-  }
-  1 {
-    1: "romance_the_princess_swap_01"
-    2: 8
-    3: 1656698400
-    4: 1
-  }
-  1 {
-    1: "romance_cursed_heart_01"
-    2: 11
-    3: 1657126800
-    4: 0
-  }
-  1 {
-    1: "romance_cursed_heart_01"
-    2: 5
-    3: 1657126800
-    4: 1
   }
   1 {
     1: "romance_immortal_desires_01"
@@ -42814,30 +43055,6 @@
     4: 0
   }
   1 {
-    1: "romance_the_princess_swap_01"
-    2: 16
-    3: 1657303200
-    4: 0
-  }
-  1 {
-    1: "romance_the_princess_swap_01"
-    2: 9
-    3: 1657303200
-    4: 1
-  }
-  1 {
-    1: "romance_cursed_heart_01"
-    2: 12
-    3: 1657731600
-    4: 0
-  }
-  1 {
-    1: "romance_cursed_heart_01"
-    2: 6
-    3: 1657731600
-    4: 1
-  }
-  1 {
     1: "romance_immortal_desires_01"
     2: 8
     3: 1657733400
@@ -42856,30 +43073,6 @@
     4: 0
   }
   1 {
-    1: "romance_the_princess_swap_01"
-    2: 10
-    3: 1657908000
-    4: 1
-  }
-  1 {
-    1: "romance_the_princess_swap_01"
-    2: 17
-    3: 1657908000
-    4: 0
-  }
-  1 {
-    1: "romance_cursed_heart_01"
-    2: 13
-    3: 1658336400
-    4: 0
-  }
-  1 {
-    1: "romance_cursed_heart_01"
-    2: 7
-    3: 1658336400
-    4: 1
-  }
-  1 {
     1: "romance_immortal_desires_01"
     2: 9
     3: 1658338200
@@ -42896,24 +43089,6 @@
     2: 4
     3: 1658507400
     4: 0
-  }
-  1 {
-    1: "romance_the_princess_swap_01"
-    2: 11
-    3: 1658512800
-    4: 1
-  }
-  1 {
-    1: "romance_cursed_heart_01"
-    2: 14
-    3: 1658941200
-    4: 0
-  }
-  1 {
-    1: "romance_cursed_heart_01"
-    2: 8
-    3: 1658941200
-    4: 1
   }
   1 {
     1: "romance_immortal_desires_01"
@@ -42946,24 +43121,6 @@
     4: 0
   }
   1 {
-    1: "romance_the_princess_swap_01"
-    2: 12
-    3: 1659117600
-    4: 1
-  }
-  1 {
-    1: "romance_cursed_heart_01"
-    2: 15
-    3: 1659546000
-    4: 0
-  }
-  1 {
-    1: "romance_cursed_heart_01"
-    2: 9
-    3: 1659546000
-    4: 1
-  }
-  1 {
     1: "romance_immortal_desires_01"
     2: 11
     3: 1659551400
@@ -42988,15 +43145,9 @@
     4: 0
   }
   1 {
-    1: "romance_the_princess_swap_01"
-    2: 13
-    3: 1659722400
-    4: 1
-  }
-  1 {
-    1: "romance_cursed_heart_01"
-    2: 10
-    3: 1660150800
+    1: "romance_immortal_desires_01"
+    2: 6
+    3: 1660152600
     4: 1
   }
   1 {
@@ -43004,12 +43155,6 @@
     2: 12
     3: 1660152600
     4: 0
-  }
-  1 {
-    1: "romance_immortal_desires_01"
-    2: 6
-    3: 1660152600
-    4: 1
   }
   1 {
     1: "romance_the_nanny_affair_03"
@@ -43022,18 +43167,6 @@
     2: 3
     3: 1660323600
     4: 0
-  }
-  1 {
-    1: "romance_the_princess_swap_01"
-    2: 14
-    3: 1660327200
-    4: 1
-  }
-  1 {
-    1: "romance_cursed_heart_01"
-    2: 11
-    3: 1660755600
-    4: 1
   }
   1 {
     1: "romance_immortal_desires_01"
@@ -43072,18 +43205,6 @@
     4: 1
   }
   1 {
-    1: "romance_the_princess_swap_01"
-    2: 15
-    3: 1660932000
-    4: 1
-  }
-  1 {
-    1: "romance_cursed_heart_01"
-    2: 12
-    3: 1661360400
-    4: 1
-  }
-  1 {
     1: "romance_immortal_desires_01"
     2: 14
     3: 1661362200
@@ -43112,18 +43233,6 @@
     2: 5
     3: 1661533200
     4: 0
-  }
-  1 {
-    1: "romance_the_princess_swap_01"
-    2: 16
-    3: 1661536800
-    4: 1
-  }
-  1 {
-    1: "romance_cursed_heart_01"
-    2: 13
-    3: 1661965200
-    4: 1
   }
   1 {
     1: "romance_immortal_desires_01"
@@ -43168,18 +43277,6 @@
     4: 0
   }
   1 {
-    1: "romance_the_princess_swap_01"
-    2: 17
-    3: 1662141600
-    4: 1
-  }
-  1 {
-    1: "romance_cursed_heart_01"
-    2: 14
-    3: 1662570000
-    4: 1
-  }
-  1 {
     1: "romance_immortal_desires_01"
     2: 10
     3: 1662571800
@@ -43209,10 +43306,130 @@
     3: 1662742800
     4: 0
   }
+  1 {
+    1: "romance_immortal_desires_01"
+    2: 11
+    3: 1663176600
+    4: 1
+  }
+  1 {
+    1: "mystery_murder_at_homecoming_01"
+    2: 0
+    3: 1663178400
+    4: 1
+  }
+  1 {
+    1: "mystery_murder_at_homecoming_01"
+    2: 1
+    3: 1663178400
+    4: 1
+  }
+  1 {
+    1: "adventure_the_phantom_agent_01"
+    2: 3
+    3: 1663178400
+    4: 0
+  }
+  1 {
+    1: "romance_the_nanny_affair_03"
+    2: 12
+    3: 1663345800
+    4: 0
+  }
+  1 {
+    1: "romance_slow_burn_01"
+    2: 5
+    3: 1663347600
+    4: 1
+  }
+  1 {
+    1: "mystery_murder_at_homecoming_01"
+    2: 8
+    3: 1663347600
+    4: 0
+  }
+  1 {
+    1: "romance_immortal_desires_01"
+    2: 12
+    3: 1663781400
+    4: 1
+  }
+  1 {
+    1: "mystery_murder_at_homecoming_01"
+    2: 2
+    3: 1663783200
+    4: 1
+  }
+  1 {
+    1: "adventure_the_phantom_agent_01"
+    2: 4
+    3: 1663783200
+    4: 0
+  }
+  1 {
+    1: "romance_the_nanny_affair_03"
+    2: 13
+    3: 1663950600
+    4: 0
+  }
+  1 {
+    1: "romance_slow_burn_01"
+    2: 6
+    3: 1663952400
+    4: 1
+  }
+  1 {
+    1: "mystery_murder_at_homecoming_01"
+    2: 9
+    3: 1663952400
+    4: 0
+  }
+  1 {
+    1: "romance_immortal_desires_01"
+    2: 13
+    3: 1664386200
+    4: 1
+  }
+  1 {
+    1: "mystery_murder_at_homecoming_01"
+    2: 3
+    3: 1664388000
+    4: 1
+  }
+  1 {
+    1: "adventure_the_phantom_agent_01"
+    2: 5
+    3: 1664388000
+    4: 0
+  }
+  1 {
+    1: "romance_the_nanny_affair_03"
+    2: 14
+    3: 1664555400
+    4: 0
+  }
+  1 {
+    1: "romance_slow_burn_01"
+    2: 7
+    3: 1664557200
+    4: 1
+  }
+  1 {
+    1: "mystery_murder_at_homecoming_01"
+    2: 10
+    3: 1664557200
+    4: 0
+  }
+  1 {
+    1: "romance_laws_of_attraction_02"
+    2: 0
+    3: 1664559000
+    4: 0
+  }
   2: 8
   3: "romance_my_two_first_loves_01"
 }
-12: 1661462675
+12: 1663351888
 13: "old_test"
 14 {
   1: "container_discover"
@@ -44635,8 +44852,6 @@
 27: "adventure_the_phantom_agent_01"
 27: "mystery_murder_at_homecoming_01"
 27: "romance_immortal_desires_01"
-27: "romance_cursed_heart_01"
-27: "romance_the_princess_swap_01"
 27: "romance_slow_burn_01"
 28: "eng"
 29 {
@@ -44741,6 +44956,22 @@
     2 {
       1 {
         2: 70
+      }
+    }
+  }
+  1 {
+    1: "62f7d9df-8a32-44e1-86d6-1cff53177b0f"
+    2 {
+      1 {
+        2: 20
+      }
+    }
+  }
+  1 {
+    1: "7ddc8018-4bfd-4877-9bb8-c9d61f49f7e1"
+    2 {
+      1 {
+        2: 40
       }
     }
   }
