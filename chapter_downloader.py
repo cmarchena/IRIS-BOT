@@ -4,6 +4,7 @@ import sys
 import time
 import re
 import json
+from filelocations import SCRIPTS as SCRIPTS
 
 #open storefront-dd-mm-yyyy.proto and get all links inside it
 def get_links(file_name):
@@ -25,6 +26,8 @@ def download_new_chapters():
     links = get_links("storefront-2.4.proto.txt")
     downloaded = []
     #what is the current directory name?
+    current_dir = os.getcwd().split("/")[-1]
+    print("Current directory: ", current_dir)
     if os.path.exists("scripts"):
         os.chdir("scripts")
     for link in links:
@@ -48,13 +51,16 @@ def download_new_chapters():
 #function to list all files in a directory including subdirectories
 def list_files(dir):
     files = []
+    print("current directory: ", dir)
+    #return all folders in dir
+    folders = [f.path for f in os.scandir(dir) if f.is_dir()]
     for root, dirs, filenames in os.walk(dir):
         for f in filenames:
             file_path = os.path.join(root, f)
             #append the last part of the path to the list
             file_name = file_path.split("/")[-1]
             files.append(file_name[:-10])
-    return sorted(files)
+    return sorted(folders), sorted(files)
 
 if __name__ == "__main__":
     print(download_new_chapters())

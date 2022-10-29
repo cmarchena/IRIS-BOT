@@ -5,6 +5,8 @@ from discord import app_commands
 from chapter_downloader import download_new_chapters, list_files
 from chapter_sender import send_chapter_to_bot
 from discord.ext.commands import Bot
+from filelocations import SCRIPTS, TOKEN
+import asyncio, aiohttp
 
 from typing import Optional
 
@@ -32,6 +34,15 @@ class MyClient(discord.Client):
 intents = discord.Intents.default()
 client = MyClient(intents=intents)
 
+class ChapterScroll(discord.ui.View):
+    def __init__(self, *, timeout=180):
+        super().__init__(timeout=timeout)
+    @discord.ui.button(label="Button",style=discord.ButtonStyle.gray)
+    async def blurple_button(self,button:discord.ui.Button,interaction:discord.Interaction):
+        button.style=discord.ButtonStyle.green
+        await interaction.response.edit_message(content=f"This is an edited button response!",view=self)
+
+ 
 
 @client.event
 async def on_ready():
@@ -58,8 +69,8 @@ async def download(interaction: discord.Interaction):
 async def find(interaction: discord.Interaction):
     """Lists all chapters"""
     await interaction.response.send_message(f'Searching for chapters...')
-    chapters = list_files("scripts")
-    await interaction.followup.send(f'Found {len(chapters)} chapters')
+    books, chapters = list_files(SCRIPTS)
+    await interaction.followup.send(f'Found {len(chapters)} chapters and {len(books)} books')
 
 @client.tree.command()
 @app_commands.describe(
@@ -138,4 +149,22 @@ async def report_message(interaction: discord.Interaction, message: discord.Mess
     await log_channel.send(embed=embed, view=url_view)
 
 
-client.run('Nzk1Njc2NjIyNjk4OTcxMTc3.Gkw6IS.X8VMxSvAuwDFBji4jJ7ilwPgN5bs3OT1KFgC2k')
+#command to send a chapter of a book with buttons to navigate
+@client.tree.command()
+@app_commands.describe(
+    book_name='Name of book. Eg. endless_summer',
+    book_number='Number of book. In case of standalones, write 1. Eg. 1',
+    chapter_number='Number of chapter. Eg. 1',
+)
+async def send_chapter2(interaction: discord.Interaction, book_name: str, book_number: int, chapter_number: str):
+    """Sends a chapter"""
+    print(f'book_name: {book_name}', f'book_number: {book_number}', f'chapter_number: {chapter_number}')
+    await interaction.response.send_message(f'Sending {book_name} {book_number} chapter {chapter_number}...')
+    chapter = send_chapter_to_bot(book_name, str(book_number), str(chapter_number))
+    if chapter == "No chapters found":
+        await interaction.followup.send(f'No chapters found')
+    else:
+        #send chapter as attachment
+        await interaction.followup.send(file=discord.File(chapter, f'{book_name}_0{book_number}_chapter_{chapter_number}.txt'), view=ChapterScroll())  
+        
+client.run(TOKEN)
