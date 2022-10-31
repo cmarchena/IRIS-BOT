@@ -1,11 +1,10 @@
 import requests
-import blackboxprotobuf
 import os
-import sys
-import time
-from filelocations import SCRIPTS, ASSETS
+from filelocations import ASSETS, BASE_URL
+
 
 globalpath = ASSETS
+
 
 def sendRequest(url):
     try:
@@ -20,9 +19,10 @@ def sendRequest(url):
 
     return page
 
+
 def download_asset(url, file_name):
     pathname = globalpath
-    for i in range(4,len(url.split("/"))-1):
+    for i in range(4, len(url.split("/"))-1):
         fpath = url.split("/")[i]
         pathname = os.path.join(pathname, fpath)
 
@@ -32,13 +32,15 @@ def download_asset(url, file_name):
     response = sendRequest(url)
     if response == False:
         return "Error: Could not download asset"
-    
+
     with open(pathname+"/"+file_name, "wb") as f:
         f.write(response.content)
         print("Download complete!")
-        
-    #return file downloaded
+
+    # return file downloaded
     return pathname + "/" + file_name
 
+
 if __name__ == "__main__":
-    print(download_asset("https://choices-live.pixelberrystudios.com/assets/portraits_large/custom/3x/item_fem_professional_clothing_uniform_janitor_gray-v01.png", "test.png"))
+    print(download_asset(BASE_URL +
+          "assets/portraits_large/custom/3x/item_fem_professional_clothing_uniform_janitor_gray-v01.png", "test.png"))
